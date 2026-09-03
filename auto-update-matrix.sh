@@ -18,6 +18,11 @@ MATRIX_FILE="$WORK_DIR/compatibility_matrix.json"
 PARSER_SCRIPT="$WORK_DIR/parse-opm-data.py"
 GIT_REPO="$WORK_DIR"
 
+# Refresh strategy:
+# "all" = Refresh all OCP versions (thorough but takes ~5 minutes)
+# "recent" = Only refresh last 5 versions (faster, ~2 minutes)
+REFRESH_STRATEGY="all"  # Refresh all versions daily
+
 # Date stamp for logs
 echo "============================================================"
 echo "OCP Operator Matrix Auto-Update"
@@ -45,7 +50,17 @@ EXISTING_VERSIONS=$(ls -1 "$JSON_DIR"/ocp-*.json 2>/dev/null | sed 's/.*ocp-//;s
 echo "Existing versions in JSON dir: $(echo $EXISTING_VERSIONS | tr '\n' ' ')"
 echo
 
-# Step 3: Find new versions
+# Step 3: Determine which versions to refresh
+# Operators are updated daily even without new OCP releases
+if [ "$REFRESH_STRATEGY" = "all" ]; then
+    echo "Refresh strategy: ALL versions"
+    VERSIONS_TO_REFRESH="$AVAILABLE_VERSIONS"
+else
+    echo "Refresh strategy: RECENT versions only (last 5)"
+    VERSIONS_TO_REFRESH=$(echo "$AVAILABLE_VERSIONS" | tail -5)
+fi
+
+# Find truly new versions for logging
 NEW_VERSIONS=""
 for version in $AVAILABLE_VERSIONS; do
     if ! echo "$EXISTING_VERSIONS" | grep -q "^${version}$"; then
@@ -53,17 +68,16 @@ for version in $AVAILABLE_VERSIONS; do
     fi
 done
 
-if [ -z "$NEW_VERSIONS" ]; then
-    echo "✅ No new OCP versions found. Matrix is up to date."
-    echo "Completed: $(date '+%Y-%m-%d %H:%M:%S')"
-    exit 0
+if [ -n "$NEW_VERSIONS" ]; then
+    echo "🆕 New OCP versions detected: $NEW_VERSIONS"
 fi
 
-echo "🆕 New versions detected: $NEW_VERSIONS"
+echo "🔄 Refreshing operator data for all versions (operators update daily)"
+echo "Versions to refresh: $(echo $VERSIONS_TO_REFRESH | tr '\n' ' ')"
 echo
 
-# Step 4: Collect OPM data for new versions
-for version in $NEW_VERSIONS; do
+# Step 4: Collect OPM data for all versions
+for version in $VERSIONS_TO_REFRESH; do
     echo "============================================================"
     echo "📥 Collecting OPM data for OCP $version"
     echo "============================================================"
@@ -126,14 +140,25 @@ if ! git diff --quiet "$MATRIX_FILE" 2>/dev/null; then
     git add "$MATRIX_FILE"
 
     # Create commit message
-    COMMIT_MSG="Auto-update: Add OCP version(s)${NEW_VERSIONS}
+    if [ -n "$NEW_VERSIONS" ]; then
+        COMMIT_MSG="Auto-update: Add OCP version(s)${NEW_VERSIONS}
 
 Automatically collected OPM data and updated compatibility matrix.
 
 Date: $(date '+%Y-%m-%d %H:%M:%S')
-New versions: ${NEW_VERSIONS}
+New OCP versions: ${NEW_VERSIONS}
 
 Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
+    else
+        COMMIT_MSG="Auto-update: Refresh operator catalog data
+
+Updated compatibility matrix with latest operator versions.
+(Operators are updated daily even without new OCP releases)
+
+Date: $(date '+%Y-%m-%d %H:%M:%S')
+
+Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
+    fi
 
     # Commit
     if git commit -m "$COMMIT_MSG"; then
