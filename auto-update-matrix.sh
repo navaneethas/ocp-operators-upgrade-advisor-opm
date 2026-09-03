@@ -11,8 +11,9 @@
 
 set -e  # Exit on error
 
-# Configuration - UPDATE WORK_DIR FOR YOUR RHEL SERVER
-WORK_DIR="/Users/nsenthil/AI_TOOL/OPM"  # ⚠️ UPDATE THIS PATH ON RHEL SERVER
+# Configuration
+# On RHEL server: WORK_DIR="/root/ADVISOR"
+WORK_DIR="/Users/nsenthil/AI_TOOL/OPM"
 JSON_DIR="$WORK_DIR/json"
 MATRIX_FILE="$WORK_DIR/compatibility_matrix.json"
 PARSER_SCRIPT="$WORK_DIR/parse-opm-data.py"
