@@ -13,7 +13,7 @@ set -e  # Exit on error
 
 # Configuration
 # On RHEL server: WORK_DIR="/root/ADVISOR"
-WORK_DIR="/Users/nsenthil/AI_TOOL/OPM"
+WORK_DIR="/root/ADVISOR"
 JSON_DIR="$WORK_DIR/json"
 MATRIX_FILE="$WORK_DIR/compatibility_matrix.json"
 PARSER_SCRIPT="$WORK_DIR/parse-opm-data.py"
