@@ -223,6 +223,8 @@ def main():
             print(f"  Version: {version}")
             print(f"  Channel: {channel}")
             print(f"  Source: {source}")
+            print(f"  Recommendation: Use oc-mirror with the respective catalog to check compatibility with OCP {target}.")
+            print(f"                  To know how to use oc-mirror, please refer to: https://access.redhat.com/solutions/6994677")
             print()
     
     print("=" * 100)
