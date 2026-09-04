@@ -86,15 +86,15 @@ for version in $VERSIONS_TO_REFRESH; do
     OUTPUT_FILE="$JSON_DIR/ocp-${version}.json"
 
     # Check if OPM command exists
-    if ! command -v opm-rhel9 &> /dev/null; then
-        echo "❌ Error: opm-rhel9 command not found"
+    if ! command -v /usr/local/sbin/opm-rhel9 &> /dev/null; then
+        echo "❌ Error: /usr/local/sbin/opm-rhel9 command not found"
         echo "Install from: https://github.com/operator-framework/operator-registry/releases"
         exit 1
     fi
 
     # Run OPM render
-    echo "Running: opm-rhel9 render registry.redhat.io/redhat/redhat-operator-index:v${version}"
-    if opm-rhel9 render "registry.redhat.io/redhat/redhat-operator-index:v${version}" -o json > "$OUTPUT_FILE" 2>&1; then
+    echo "Running: /usr/local/sbin/opm-rhel9 render registry.redhat.io/redhat/redhat-operator-index:v${version}"
+    if /usr/local/sbin/opm-rhel9 render "registry.redhat.io/redhat/redhat-operator-index:v${version}" -o json > "$OUTPUT_FILE" 2>&1; then
         FILE_SIZE=$(du -h "$OUTPUT_FILE" | cut -f1)
         echo "✅ Data collected successfully ($FILE_SIZE)"
     else
