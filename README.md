@@ -1,262 +1,113 @@
-# OpenShift Operator Compatibility Matrix
+# OpenShift Operator Compatibility Advisor
 
-**Automated operator compatibility checker with dependency validation and upgrade path information**
-
-Built using OPM (Operator Package Manager) data from Red Hat operator catalogs.
+**Automated operator compatibility checker for OpenShift cluster upgrades**
 
 ---
 
-## 📂 Files in This Directory
+## 🎯 Why This Matters
 
-```
-/Users/nsenthil/AI_TOOL/OPM/
-├── json/                                    # Raw OPM data (7GB)
-│   ├── ocp-4.12.json
-│   ├── ocp-4.13.json
-│   ├── ...
-│   └── ocp-4.22.json
-├── parse-opm-data.py                        # Parser script
-├── compatibility_matrix.json                # Generated matrix
-├── ocp-operator-compatibility-enhanced.md   # Geminicli skill
-└── README.md                                # This file
-```
+Before upgrading a cluster from one version to another:
+
+- Manually checking operator compatibility takes time
+- Red Hat's OCPOUIC tool requires manual web lookups
 
 ---
 
-## 🚀 Quick Start
+## 📊 What It Does
 
-### 1. Parse OPM Data (One Time)
+**For proactive cases**, we currently tell customers: *"Please make sure that all the installed operators are compatible with the target version. Please refer to https://access.redhat.com/labs/ocpouic/ to check the compatibility."* This is generic advice that we give to the customer.
+
+**The solution:** This tool analyzes the cluster's must-gather data and tells you exactly which operators are ready for an upgrade and which ones need to be updated.
+
+**Now for proactive cases**, instead of sending a generic link, you can provide a detailed, personalized analysis: *"I've analyzed the operators installed in your cluster. Here are the 5 operators that need upgrades, with specific version recommendations and channel changes."*
+
+### Key Features:
+- ✅ Checks compatibility of all installed operators against target OCP version
+- ✅ Identifies which operators need upgrades
+- ✅ Shows maximum supported OCP version for each current operator version
+- ✅ Provides specific upgrade recommendations with version numbers
+- ✅ Auto-updates daily with latest operator catalog data
+
+---
+
+## 🚀 How to Use (Supportshell - Geminicli)
+
+### ⚠️ IMPORTANT NOTES:
+
+- 📅 **Download `compatibility_matrix.json` fresh daily** - It's auto-updated every night with the latest operator data from Red Hat
+- 📂 **Download files in the same directory as your must-gather** OR provide the complete path to the must-gather
+
+---
+
+### 📥 Method 1: Download Files in Must-Gather Directory
 
 ```bash
-cd /Users/nsenthil/AI_TOOL/OPM
-python3 parse-opm-data.py
-```
+# Navigate to your must-gather directory
+cd /home/remote/USERNAME/12345678/must-gather.local.1234567890
 
-**Output:** `compatibility_matrix.json` with all operator compatibility data
+# Download the files
+curl -O \
+  https://raw.githubusercontent.com/navaneethas/ocp-operators-upgrade-advisor-opm/main/ocp-operator-compatibility-detailed.md
+
+curl -O \
+  https://raw.githubusercontent.com/navaneethas/ocp-operators-upgrade-advisor-opm/main/compatibility_matrix.json
+
+# Run analysis (files are in same directory)
+gemini check operators compatibility for OCP <target_version> .
+```
 
 ---
 
-### 2. Use in Supportshell (Geminicli)
+### 📥 Method 2: Download Files Elsewhere & Use Full Path
 
 ```bash
-# Download the skill and matrix
-curl -O https://raw.githubusercontent.com/navaneethas/ocp-operator-upgrade-advisor/main/ocp-operator-compatibility-enhanced.md
-curl -O https://raw.githubusercontent.com/navaneethas/ocp-operator-upgrade-advisor/main/compatibility_matrix.json
+# Download files to your working directory (do this daily for fresh data)
+cd /home/remote/USERNAME
 
-# Use it
-gemini check operators compatibility for OCP 4.22 /path/to/must-gather
+curl -O \
+  https://raw.githubusercontent.com/navaneethas/ocp-operators-upgrade-advisor-opm/main/ocp-operator-compatibility-detailed.md
+
+curl -O \
+  https://raw.githubusercontent.com/navaneethas/ocp-operators-upgrade-advisor-opm/main/compatibility_matrix.json
+
+# Run analysis with full path to must-gather
+gemini check operators compatibility for OCP <target_version> \
+  /home/remote/USERNAME/12345678/must-gather.local.1234567890
 ```
 
 ---
 
-## 📊 What the Matrix Contains
+### 📊 Example Output
 
-For each operator across OCP 4.12-4.22:
-
-✅ **Available Versions** - All operator versions for each OCP version  
-✅ **Max OCP Version** - Maximum supported OCP version (blocks upgrades)  
-✅ **Dependencies** - Required dependent operators with version ranges  
-✅ **Skip Ranges** - Upgrade path information (which versions can be skipped)  
-✅ **Channels** - Available update channels  
+https://gss--c.vf.force.com/apex/Case_View?id=500Hn00001sNhzX&sfdc.override=1#comment_a0aHn00000aYf37IAC
 
 ---
 
-## 🔄 Collecting Fresh Data
+### ⚠️ NOTES:
 
-### Collect All OCP Versions
-
-```bash
-cd /Users/nsenthil/AI_TOOL/OPM/json
-
-# Get list of OCP versions (4.12+)
-VERSIONS=$(curl -s https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/ | \
-  grep -oE 'href="[0-9]+\.[0-9]+\.[0-9]+/"' | \
-  sed 's/href="//;s/\///' | \
-  cut -d. -f1,2 | \
-  sort -u -V | \
-  awk -F. '($1 == 4 && $2 >= 12) || $1 >= 5')
-
-# Collect data for each version
-for version in $VERSIONS; do
-  echo "Querying OCP $version..."
-  opm-rhel9 render registry.redhat.io/redhat/redhat-operator-index:v$version -o json > ocp-$version.json
-  echo "✅ Done"
-done
-```
-
-**Time:** ~30 seconds per version
+📋 **Output format may vary** - The analysis content remains consistent, but formatting may differ.
 
 ---
 
-### Parse and Update Matrix
+## 🤖 Automation Details
 
-```bash
-python3 parse-opm-data.py \
-  --input-dir /Users/nsenthil/AI_TOOL/OPM/json \
-  --output /Users/nsenthil/AI_TOOL/OPM/compatibility_matrix.json
-```
+**Data Collection:**
 
----
+- Runs daily at 2 AM on internal RHEL server
+- Queries Red Hat operator catalogs via OPM
+- Automatically detects new OCP versions (including OCP 5.0 when GA)
+- Pushes updated data to GitHub automatically
 
-## 🤖 Automation (Cron Job)
-
-### Weekly Auto-Update
-
-```bash
-# Edit crontab
-crontab -e
-
-# Add this line (runs every Thursday 2 AM)
-0 2 * * 4 cd /path/to/project && ./update-matrix.sh >> /var/log/ocp-matrix.log 2>&1
-```
-
-**update-matrix.sh:**
-```bash
-#!/bin/bash
-# Auto-detect new OCP versions and update matrix
-
-# Detect new versions
-LATEST=$(curl -s https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/ | \
-  grep -oE 'href="[0-9]+\.[0-9]+\.[0-9]+/"' | \
-  sed 's/href="//;s/\///' | \
-  cut -d. -f1,2 | \
-  sort -u -V | \
-  tail -1)
-
-# Check if new version
-if grep -q "\"$LATEST\":" compatibility_matrix.json; then
-    echo "✅ Up to date (latest: $LATEST)"
-    exit 0
-fi
-
-echo "🆕 New version detected: $LATEST"
-
-# Collect data
-opm-rhel9 render registry.redhat.io/redhat/redhat-operator-index:v$LATEST -o json > json/ocp-$LATEST.json
-
-# Re-parse all
-python3 parse-opm-data.py
-
-# Git commit and push
-git add compatibility_matrix.json
-git commit -m "Auto-update: Add OCP $LATEST"
-git push
-
-echo "✅ Matrix updated with OCP $LATEST"
-```
+**No manual maintenance required!**
 
 ---
 
-## 📋 Matrix Format
+## 🙏 Feedback Welcome
 
-```json
-{
-  "operator-name": {
-    "4.22": {
-      "versions": ["v1.2.3", "v1.2.2", "v1.2.1"],
-      "maxOCPVersion": "4.22",
-      "dependencies": [
-        "multicluster-engine (>=2.0.0)"
-      ],
-      "skipRanges": {
-        "v1.2.3": ">=1.2.0 <1.2.3"
-      },
-      "channels": ["stable", "fast"]
-    }
-  }
-}
-```
+This is the first version - I'd love to hear your thoughts and suggestions!
 
----
+**📝 Share your feedback:** https://docs.google.com/forms/d/e/1FAIpQLSdPpmM164p9J7kSkFB9ph7V5dBgw4McyhwCjPwMJGCLYKYH9g/viewform
 
-## 🎯 Key Features
+Whether you've found it helpful, encountered issues, or have ideas for improvements - all feedback is appreciated!
 
-### 1. Dependency Checking
-Identifies operators that require other operators:
-```
-advanced-cluster-management requires:
-  • multicluster-engine (>=2.0.0)
-```
-
-### 2. Skip Range Information  
-Shows which versions can be skipped during upgrades:
-```
-skipRange: >=2.11.0 <2.13.2
-→ Can upgrade directly from any 2.11.x-2.13.1 to 2.13.2
-```
-
-### 3. Max OCP Version
-Indicates when operators block cluster upgrades:
-```
-maxOCPVersion: 4.20
-→ This operator blocks upgrade to 4.21+
-```
-
----
-
-## 📊 Data Statistics
-
-**Coverage:**
-- OCP Versions: 4.12 through 4.22 (11 versions)
-- Operators: 150+ Red Hat certified operators
-- Total Versions: 3,000+ operator versions
-- Dependencies: Tracked for all operators
-- Skip Ranges: Available for most operators
-
-**Update Frequency:**
-- Manual: On-demand
-- Automated: Weekly (Thursday 2 AM)
-- Detection: Automatic new version detection
-
----
-
-## 🔧 Troubleshooting
-
-### Parser Shows 0 Operators
-
-**Issue:** JSON format not recognized
-
-**Fix:** Make sure JSON files are from `opm render` command:
-```bash
-opm-rhel9 render registry.redhat.io/redhat/redhat-operator-index:v4.22 -o json > ocp-4.22.json
-```
-
-### Large File Sizes
-
-**Normal:** OCP version files are 100MB-1.3GB each (total ~7GB)
-
-**Tip:** Only keep versions you need (delete older versions)
-
-### OPM Command Not Found
-
-**Install OPM:**
-```bash
-curl -LO https://github.com/operator-framework/operator-registry/releases/download/v1.35.0/linux-amd64-opm
-chmod +x linux-amd64-opm
-sudo mv linux-amd64-opm /usr/local/bin/opm-rhel9
-```
-
----
-
-## 🚀 Next Steps
-
-1. ✅ **Parse the data** - Run `python3 parse-opm-data.py`
-2. ✅ **Test the skill** - Use with geminicli in supportshell
-3. ✅ **Push to GitHub** - Share with your team
-4. ✅ **Set up automation** - Weekly cron job for updates
-
----
-
-## 📝 Credits
-
-**Tool:** Created by Navaneetha Senthilkumar  
-**Data Source:** Red Hat Operator Catalogs (registry.redhat.io)  
-**Parser:** Built with Python + OPM data  
-**Automation:** GitHub Actions / Cron  
-**AI Assist:** Claude (Anthropic)  
-
----
-
-**Last Updated:** 2026-09-03  
-**Matrix Version:** 4.12-4.22  
-**Total Operators:** 150+
+**Questions or need help?** Feel free to reach out directly.
