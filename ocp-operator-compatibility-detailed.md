@@ -185,17 +185,24 @@ def main():
         print(f"Max Supported OCP for Current Version: {max_ocp}")
         
         if compatible_versions:
-            # Show first 5 versions
-            version_list = ', '.join(compatible_versions[:5])
-            if len(compatible_versions) > 5:
-                version_list += f" (... {len(compatible_versions)} total)"
-            print(f"Compatible Versions in OCP {target}: {version_list}")
+            # Show version range
+            min_version = compatible_versions[-1]  # Last item (oldest)
+            max_version = compatible_versions[0]   # First item (newest)
+            
+            print(f"Compatible Versions in OCP {target}:")
+            if len(compatible_versions) == 1:
+                print(f"  Only version: {compatible_versions[0]}")
+            else:
+                print(f"  Range: {min_version} to {max_version} ({len(compatible_versions)} versions available)")
+                print(f"  Available versions: {', '.join(compatible_versions[:10])}")
+                if len(compatible_versions) > 10:
+                    print(f"  ... and {len(compatible_versions) - 10} more versions")
             
             if not is_compatible:
-                recommended = compatible_versions[0] if compatible_versions else 'N/A'
-                print(f"Recommendation: Upgrade to {recommended} (Recommended)")
+                print(f"Recommendation: OCP {target} requires at least version {min_version}.")
+                print(f"                Current version {version} is not supported. Upgrade to {max_version} (latest).")
             else:
-                print(f"Recommendation: No upgrade required")
+                print(f"Recommendation: No upgrade required. Current version {version} is compatible.")
         else:
             print(f"Compatible Versions in OCP {target}: None")
             print(f"Recommendation: This operator is not supported in OCP {target}")
