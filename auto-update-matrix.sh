@@ -169,6 +169,15 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
         exit 1
     fi
 
+    # Pull remote changes first (in case there were updates from other sources)
+    echo "Pulling remote changes..."
+    if git pull --rebase origin main; then
+        echo "✅ Remote changes pulled"
+    else
+        echo "⚠️  Pull failed - manual intervention required"
+        exit 1
+    fi
+
     # Push to remote
     if git push origin main; then
         echo "✅ Changes pushed to GitHub"
