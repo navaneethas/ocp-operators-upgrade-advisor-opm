@@ -99863,6 +99863,7 @@
         "web-terminal.v1.12.1-0.1743657317.p",
         "web-terminal.v1.12.1-0.1745393748.p",
         "web-terminal.v1.13.0",
+        "web-terminal.v1.13.1",
         "web-terminal.v1.14.0",
         "web-terminal.v1.3.0",
         "web-terminal.v1.4.0",
@@ -99963,6 +99964,7 @@
         "web-terminal.v1.12.1-0.1743657317.p",
         "web-terminal.v1.12.1-0.1745393748.p",
         "web-terminal.v1.13.0",
+        "web-terminal.v1.13.1",
         "web-terminal.v1.14.0",
         "web-terminal.v1.15.0",
         "web-terminal.v1.15.1",
@@ -100016,6 +100018,7 @@
         "web-terminal.v1.12.1-0.1743657317.p",
         "web-terminal.v1.12.1-0.1745393748.p",
         "web-terminal.v1.13.0",
+        "web-terminal.v1.13.1",
         "web-terminal.v1.14.0",
         "web-terminal.v1.15.0",
         "web-terminal.v1.15.1",
@@ -112490,15 +112493,18 @@
   "bgp-cloud-connector": {
     "4.22": {
       "versions": [
-        "bgp-cloud-connector.v0.0.1"
+        "bgp-cloud-connector.v0.0.1",
+        "bgp-cloud-connector.v0.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "bgp-cloud-connector.v0.1.0": "<0.1.0",
         "bgp-cloud-connector.v0.0.1": "<0.0.1"
       },
       "channels": [
-        "alpha"
+        "alpha",
+        "stable"
       ]
     }
   },
