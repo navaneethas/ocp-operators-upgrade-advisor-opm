@@ -126,116 +126,42 @@ def main():
         else:
             upgrade_required += 1
     
-    # Print report
-    print("\n" + "=" * 100)
-    print("📊 OpenShift Operator Compatibility Analysis")
-    print("=" * 100)
-    print()
-    
-    # Cluster Information
-    print("Cluster Information")
-    print("-" * 100)
-    print(f"Current OCP Version: {current_ocp} (Channel: {current_channel})")
-    print(f"Target OCP Version: {target}")
-    print(f"Total Subscriptions: {len(ops)}")
-    print()
-    
-    # Executive Summary
-    print("Executive Summary")
-    print("-" * 100)
-    print(f"┌{'─'*30}┬{'─'*7}┬{'─'*60}┐")
-    print(f"│ {'Status':<28} │ {'Count':<5} │ {'Description':<58} │")
-    print(f"├{'─'*30}┼{'─'*7}┼{'─'*60}┤")
-    print(f"│ {'✓ Compatible As-Is':<28} │ {compatible:^5} │ {'Operators compatible with target OCP version':<58} │")
-    print(f"│ {'⚠ Upgrade Required':<28} │ {upgrade_required:^5} │ {'Operators requiring upgrade for target OCP':<58} │")
-    print(f"│ {'ℹ Non-Red Hat Operators':<28} │ {len(non_redhat_ops):^5} │ {'Third-party certified/community operators':<58} │")
-    print(f"└{'─'*30}┴{'─'*7}┴{'─'*60}┘")
-    print()
-    
-    # Detailed Operator Analysis
-    print("Detailed Operator Analysis")
-    print("-" * 100)
-    print()
+    # Print compact report
+    print(f"\n=== OCP Upgrade Analysis: {current_ocp} → {target} ===")
+    print(f"Subscriptions: {len(ops)} | Compatible: {compatible} | Upgrade Needed: {upgrade_required} | Non-RH: {len(non_redhat_ops)}\n")
     
     for op_name, op_data in sorted(redhat_ops.items()):
-        csv = op_data.get('csv', 'unknown')
         version = op_data.get('version', 'unknown')
         channel = op_data.get('channel', 'unknown')
         
-        # Get compatibility info
         max_ocp = get_max_supported_ocp(op_name, version, matrix)
         compatible_versions = get_compatible_versions(op_name, target, matrix)
         
-        # Determine status
         if op_name in matrix and target in matrix[op_name]:
             is_compatible = any(version in v for v in matrix[op_name][target].get('versions', []))
-            status = "✓ Compatible As-Is" if is_compatible else "⚠ Upgrade Required"
+            status = "✓" if is_compatible else "⚠"
         else:
-            status = "❌ Not Compatible"
+            status = "❌"
             is_compatible = False
         
-        # Print operator details
-        print(f"{'='*100}")
-        print(f"📦 {op_name}")
-        print(f"{'='*100}")
-        print()
-        print(f"Current Installed Version: {version} (CSV: {csv})")
-        print(f"Current Channel: {channel}")
-        print(f"Status: {status}")
-        print(f"Max Supported OCP for Current Version: {max_ocp}")
+        print(f"{status} {op_name} | v{version} (ch:{channel}) | MaxOCP:{max_ocp}")
         
-        if compatible_versions:
-            # Show version range
-            min_version = compatible_versions[-1]  # Last item (oldest)
-            max_version = compatible_versions[0]   # First item (newest)
-            
-            print(f"Compatible Versions in OCP {target}:")
-            if len(compatible_versions) == 1:
-                print(f"  Only version: {compatible_versions[0]}")
-            else:
-                print(f"  Range: {min_version} to {max_version} ({len(compatible_versions)} versions available)")
-                print(f"  Available versions: {', '.join(compatible_versions[:10])}")
-                if len(compatible_versions) > 10:
-                    print(f"  ... and {len(compatible_versions) - 10} more versions")
-            
-            if not is_compatible:
-                print(f"Recommendation: OCP {target} requires at least version {min_version}.")
-                print(f"                Current version {version} is not supported. Upgrade to {max_version} (latest).")
-            else:
-                print(f"Recommendation: No upgrade required. Current version {version} is compatible.")
+        if compatible_versions and not is_compatible:
+            min_v = compatible_versions[-1]
+            max_v = compatible_versions[0]
+            print(f"  → Upgrade needed: {min_v} to {max_v} ({len(compatible_versions)} versions) | Latest: {max_v}")
+        elif compatible_versions:
+            print(f"  → OK (compatible)")
         else:
-            print(f"Compatible Versions in OCP {target}: None")
-            print(f"Recommendation: This operator is not supported in OCP {target}")
-        
-        print()
+            print(f"  → Not supported in OCP {target}")
     
     # Non-Red Hat operators
     if non_redhat_ops:
-        print("=" * 100)
-        print("⚠️  Non-Red Hat Operators (Not Tracked)")
-        print("=" * 100)
-        print()
-        print("These operators are not tracked in Red Hat compatibility matrices.")
-        print("Please verify compatibility with vendors before upgrading.")
-        print()
-        
+        print(f"\n⚠ Non-RH Operators ({len(non_redhat_ops)}): Use oc-mirror to verify - https://access.redhat.com/solutions/6994677")
         for op_name, op_data in non_redhat_ops.items():
-            csv = op_data.get('csv', 'unknown')
-            version = op_data.get('version', 'unknown')
-            channel = op_data.get('channel', 'unknown')
-            source = op_data.get('source', 'unknown')
-            
-            print(f"• {op_name}")
-            print(f"  CSV: {csv}")
-            print(f"  Version: {version}")
-            print(f"  Channel: {channel}")
-            print(f"  Source: {source}")
-            print(f"  Recommendation: Use oc-mirror with the respective catalog to check compatibility with OCP {target}.")
-            print(f"                  To know how to use oc-mirror, please refer to: https://access.redhat.com/solutions/6994677")
-            print()
+            print(f"  • {op_name} v{op_data.get('version', '?')} (ch:{op_data.get('channel', '?')})")
     
-    print("=" * 100)
-    print("📋 For more information: https://access.redhat.com/labs/ocpouic/")
+    print(f"\nℹ More info: https://access.redhat.com/labs/ocpouic/")
     print()
 
 if __name__ == '__main__':
