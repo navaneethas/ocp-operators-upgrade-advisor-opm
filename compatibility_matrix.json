@@ -102507,7 +102507,8 @@
         "lifecycle-agent.v4.20.2",
         "lifecycle-agent.v4.20.3",
         "lifecycle-agent.v4.20.4",
-        "lifecycle-agent.v4.20.5"
+        "lifecycle-agent.v4.20.5",
+        "lifecycle-agent.v4.20.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -102517,7 +102518,8 @@
         "lifecycle-agent.v4.20.2": ">=4.18.0 <4.20.2",
         "lifecycle-agent.v4.20.3": ">=4.18.0 <4.20.3",
         "lifecycle-agent.v4.20.4": ">=4.18.0 <4.20.4",
-        "lifecycle-agent.v4.20.5": ">=4.18.0 <4.20.5"
+        "lifecycle-agent.v4.20.5": ">=4.18.0 <4.20.5",
+        "lifecycle-agent.v4.20.6": ">=4.18.0 <4.20.6"
       },
       "channels": [
         "4.20",
@@ -113856,11 +113858,13 @@
     "4.22": {
       "versions": [
         "bgp-cloud-connector.v0.0.1",
-        "bgp-cloud-connector.v0.1.0"
+        "bgp-cloud-connector.v0.1.0",
+        "bgp-cloud-connector.v1.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "bgp-cloud-connector.v1.0.0": "<1.0.0",
         "bgp-cloud-connector.v0.1.0": "<0.1.0",
         "bgp-cloud-connector.v0.0.1": "<0.0.1"
       },
