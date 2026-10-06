@@ -12289,7 +12289,8 @@
         "apicurio-registry-3.v3.2.5-r1",
         "apicurio-registry-3.v3.2.6-r1",
         "apicurio-registry-3.v3.2.6-r2",
-        "apicurio-registry-3.v3.3.1-r1"
+        "apicurio-registry-3.v3.3.1-r1",
+        "apicurio-registry-3.v3.3.3-r1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -12320,7 +12321,8 @@
         "apicurio-registry-3.v3.2.5-r1",
         "apicurio-registry-3.v3.2.6-r1",
         "apicurio-registry-3.v3.2.6-r2",
-        "apicurio-registry-3.v3.3.1-r1"
+        "apicurio-registry-3.v3.3.1-r1",
+        "apicurio-registry-3.v3.3.3-r1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -12351,7 +12353,8 @@
         "apicurio-registry-3.v3.2.5-r1",
         "apicurio-registry-3.v3.2.6-r1",
         "apicurio-registry-3.v3.2.6-r2",
-        "apicurio-registry-3.v3.3.1-r1"
+        "apicurio-registry-3.v3.3.1-r1",
+        "apicurio-registry-3.v3.3.3-r1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -13923,7 +13926,8 @@
         "aws-efs-csi-driver-operator.v4.21.0-202609021334",
         "aws-efs-csi-driver-operator.v4.21.0-202609090243",
         "aws-efs-csi-driver-operator.v4.21.0-202609161813",
-        "aws-efs-csi-driver-operator.v4.21.0-202609230208"
+        "aws-efs-csi-driver-operator.v4.21.0-202609230208",
+        "aws-efs-csi-driver-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [],
@@ -13959,7 +13963,8 @@
         "aws-efs-csi-driver-operator.v4.21.0-202609021334": ">=4.9.0-0 <4.21.0-202609021334",
         "aws-efs-csi-driver-operator.v4.21.0-202609090243": ">=4.9.0-0 <4.21.0-202609090243",
         "aws-efs-csi-driver-operator.v4.21.0-202609161813": ">=4.9.0-0 <4.21.0-202609161813",
-        "aws-efs-csi-driver-operator.v4.21.0-202609230208": ">=4.9.0-0 <4.21.0-202609230208"
+        "aws-efs-csi-driver-operator.v4.21.0-202609230208": ">=4.9.0-0 <4.21.0-202609230208",
+        "aws-efs-csi-driver-operator.v4.21.0-202609291522": ">=4.9.0-0 <4.21.0-202609291522"
       },
       "channels": [
         "stable"
@@ -13983,7 +13988,8 @@
         "aws-efs-csi-driver-operator.v4.22.0-202609011951",
         "aws-efs-csi-driver-operator.v4.22.0-202609081346",
         "aws-efs-csi-driver-operator.v4.22.0-202609151747",
-        "aws-efs-csi-driver-operator.v4.22.0-202609212027"
+        "aws-efs-csi-driver-operator.v4.22.0-202609212027",
+        "aws-efs-csi-driver-operator.v4.22.0-202609300304"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -14004,7 +14010,8 @@
         "aws-efs-csi-driver-operator.v4.22.0-202609011951": ">=4.9.0-0 <4.22.0-202609011951",
         "aws-efs-csi-driver-operator.v4.22.0-202609081346": ">=4.9.0-0 <4.22.0-202609081346",
         "aws-efs-csi-driver-operator.v4.22.0-202609151747": ">=4.9.0-0 <4.22.0-202609151747",
-        "aws-efs-csi-driver-operator.v4.22.0-202609212027": ">=4.9.0-0 <4.22.0-202609212027"
+        "aws-efs-csi-driver-operator.v4.22.0-202609212027": ">=4.9.0-0 <4.22.0-202609212027",
+        "aws-efs-csi-driver-operator.v4.22.0-202609300304": ">=4.9.0-0 <4.22.0-202609300304"
       },
       "channels": [
         "stable"
@@ -19294,7 +19301,8 @@
         "clusterresourceoverride-operator.v4.21.0-202609011326",
         "clusterresourceoverride-operator.v4.21.0-202609090243",
         "clusterresourceoverride-operator.v4.21.0-202609140345",
-        "clusterresourceoverride-operator.v4.21.0-202609201335"
+        "clusterresourceoverride-operator.v4.21.0-202609201335",
+        "clusterresourceoverride-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -19327,7 +19335,8 @@
         "clusterresourceoverride-operator.v4.21.0-202609011326": ">=4.3.0 <4.21.0-202609011326",
         "clusterresourceoverride-operator.v4.21.0-202609090243": ">=4.3.0 <4.21.0-202609090243",
         "clusterresourceoverride-operator.v4.21.0-202609140345": ">=4.3.0 <4.21.0-202609140345",
-        "clusterresourceoverride-operator.v4.21.0-202609201335": ">=4.3.0 <4.21.0-202609201335"
+        "clusterresourceoverride-operator.v4.21.0-202609201335": ">=4.3.0 <4.21.0-202609201335",
+        "clusterresourceoverride-operator.v4.21.0-202609291522": ">=4.3.0 <4.21.0-202609291522"
       },
       "channels": [
         "stable"
@@ -19350,7 +19359,8 @@
         "clusterresourceoverride-operator.v4.22.0-202609011951",
         "clusterresourceoverride-operator.v4.22.0-202609081346",
         "clusterresourceoverride-operator.v4.22.0-202609151747",
-        "clusterresourceoverride-operator.v4.22.0-202609210744"
+        "clusterresourceoverride-operator.v4.22.0-202609210744",
+        "clusterresourceoverride-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -19370,7 +19380,8 @@
         "clusterresourceoverride-operator.v4.22.0-202609011951": ">=4.3.0 <4.22.0-202609011951",
         "clusterresourceoverride-operator.v4.22.0-202609081346": ">=4.3.0 <4.22.0-202609081346",
         "clusterresourceoverride-operator.v4.22.0-202609151747": ">=4.3.0 <4.22.0-202609151747",
-        "clusterresourceoverride-operator.v4.22.0-202609210744": ">=4.3.0 <4.22.0-202609210744"
+        "clusterresourceoverride-operator.v4.22.0-202609210744": ">=4.3.0 <4.22.0-202609210744",
+        "clusterresourceoverride-operator.v4.22.0-202609291750": ">=4.3.0 <4.22.0-202609291750"
       },
       "channels": [
         "stable"
@@ -29947,6 +29958,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -29978,7 +29990,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30001,6 +30014,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30032,7 +30046,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30055,6 +30070,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30086,7 +30102,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30109,6 +30126,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30140,7 +30158,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30163,6 +30182,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30194,7 +30214,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30217,6 +30238,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30248,7 +30270,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30271,6 +30294,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30302,7 +30326,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30325,6 +30350,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30356,7 +30382,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30379,6 +30406,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30410,7 +30438,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30433,6 +30462,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30464,7 +30494,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -30487,6 +30518,7 @@
         "external-dns-operator.v1.3.0",
         "external-dns-operator.v1.3.1",
         "external-dns-operator.v1.3.10",
+        "external-dns-operator.v1.3.11",
         "external-dns-operator.v1.3.2",
         "external-dns-operator.v1.3.3",
         "external-dns-operator.v1.3.4",
@@ -30518,7 +30550,8 @@
         "external-dns-operator.v1.3.7": "<1.3.7",
         "external-dns-operator.v1.3.8": "<1.3.8",
         "external-dns-operator.v1.3.9": "<1.3.9",
-        "external-dns-operator.v1.3.10": "<1.3.10"
+        "external-dns-operator.v1.3.10": "<1.3.10",
+        "external-dns-operator.v1.3.11": "<1.3.11"
       },
       "channels": [
         "stable-v1",
@@ -36290,7 +36323,8 @@
         "gcp-filestore-csi-driver-operator.v4.21.0-202609011326",
         "gcp-filestore-csi-driver-operator.v4.21.0-202609090243",
         "gcp-filestore-csi-driver-operator.v4.21.0-202609150222",
-        "gcp-filestore-csi-driver-operator.v4.21.0-202609200356"
+        "gcp-filestore-csi-driver-operator.v4.21.0-202609200356",
+        "gcp-filestore-csi-driver-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [],
@@ -36325,7 +36359,8 @@
         "gcp-filestore-csi-driver-operator.v4.21.0-202609011326": ">=4.11.0-0 <4.21.0",
         "gcp-filestore-csi-driver-operator.v4.21.0-202609090243": ">=4.11.0-0 <4.21.0",
         "gcp-filestore-csi-driver-operator.v4.21.0-202609150222": ">=4.11.0-0 <4.21.0",
-        "gcp-filestore-csi-driver-operator.v4.21.0-202609200356": ">=4.11.0-0 <4.21.0"
+        "gcp-filestore-csi-driver-operator.v4.21.0-202609200356": ">=4.11.0-0 <4.21.0",
+        "gcp-filestore-csi-driver-operator.v4.21.0-202609291522": ">=4.11.0-0 <4.21.0"
       },
       "channels": [
         "stable"
@@ -36348,7 +36383,8 @@
         "gcp-filestore-csi-driver-operator.v4.22.0-202609011951",
         "gcp-filestore-csi-driver-operator.v4.22.0-202609081346",
         "gcp-filestore-csi-driver-operator.v4.22.0-202609151747",
-        "gcp-filestore-csi-driver-operator.v4.22.0-202609212027"
+        "gcp-filestore-csi-driver-operator.v4.22.0-202609212027",
+        "gcp-filestore-csi-driver-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -36368,7 +36404,8 @@
         "gcp-filestore-csi-driver-operator.v4.22.0-202609011951": ">=4.11.0-0 <4.22.0",
         "gcp-filestore-csi-driver-operator.v4.22.0-202609081346": ">=4.11.0-0 <4.22.0",
         "gcp-filestore-csi-driver-operator.v4.22.0-202609151747": ">=4.11.0-0 <4.22.0",
-        "gcp-filestore-csi-driver-operator.v4.22.0-202609212027": ">=4.11.0-0 <4.22.0"
+        "gcp-filestore-csi-driver-operator.v4.22.0-202609212027": ">=4.11.0-0 <4.22.0",
+        "gcp-filestore-csi-driver-operator.v4.22.0-202609291750": ">=4.11.0-0 <4.22.0"
       },
       "channels": [
         "stable"
@@ -37220,7 +37257,8 @@
         "ingress-node-firewall.v4.21.0-202609011326",
         "ingress-node-firewall.v4.21.0-202609090243",
         "ingress-node-firewall.v4.21.0-202609140345",
-        "ingress-node-firewall.v4.21.0-202609201335"
+        "ingress-node-firewall.v4.21.0-202609201335",
+        "ingress-node-firewall.v4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -37254,7 +37292,8 @@
         "ingress-node-firewall.v4.21.0-202609011326": ">=4.11.0 <4.21.0",
         "ingress-node-firewall.v4.21.0-202609090243": ">=4.11.0 <4.21.0",
         "ingress-node-firewall.v4.21.0-202609140345": ">=4.11.0 <4.21.0",
-        "ingress-node-firewall.v4.21.0-202609201335": ">=4.11.0 <4.21.0"
+        "ingress-node-firewall.v4.21.0-202609201335": ">=4.11.0 <4.21.0",
+        "ingress-node-firewall.v4.21.0-202609291522": ">=4.11.0 <4.21.0"
       },
       "channels": [
         "stable"
@@ -37277,7 +37316,8 @@
         "ingress-node-firewall.v4.22.0-202609011951",
         "ingress-node-firewall.v4.22.0-202609081346",
         "ingress-node-firewall.v4.22.0-202609151747",
-        "ingress-node-firewall.v4.22.0-202609210744"
+        "ingress-node-firewall.v4.22.0-202609210744",
+        "ingress-node-firewall.v4.22.0-202609291750"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -37297,7 +37337,8 @@
         "ingress-node-firewall.v4.22.0-202609011951": ">=4.11.0 <4.22.0",
         "ingress-node-firewall.v4.22.0-202609081346": ">=4.11.0 <4.22.0",
         "ingress-node-firewall.v4.22.0-202609151747": ">=4.11.0 <4.22.0",
-        "ingress-node-firewall.v4.22.0-202609210744": ">=4.11.0 <4.22.0"
+        "ingress-node-firewall.v4.22.0-202609210744": ">=4.11.0 <4.22.0",
+        "ingress-node-firewall.v4.22.0-202609291750": ">=4.11.0 <4.22.0"
       },
       "channels": [
         "stable"
@@ -39292,6 +39333,7 @@
         "kiali-operator.v2.27.2",
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
+        "kiali-operator.v2.27.5",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -39341,7 +39383,8 @@
         "kiali-operator.v2.27.1": ">=1.0.0 <2.27.1",
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
-        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4"
+        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
       },
       "channels": [
         "candidate",
@@ -39466,6 +39509,7 @@
         "kiali-operator.v2.27.2",
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
+        "kiali-operator.v2.27.5",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -39515,7 +39559,8 @@
         "kiali-operator.v2.27.1": ">=1.0.0 <2.27.1",
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
-        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4"
+        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
       },
       "channels": [
         "candidate",
@@ -39640,6 +39685,7 @@
         "kiali-operator.v2.27.2",
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
+        "kiali-operator.v2.27.5",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -39689,7 +39735,8 @@
         "kiali-operator.v2.27.1": ">=1.0.0 <2.27.1",
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
-        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4"
+        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
       },
       "channels": [
         "candidate",
@@ -39734,6 +39781,7 @@
         "kiali-operator.v2.27.2",
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
+        "kiali-operator.v2.27.5",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -39783,7 +39831,8 @@
         "kiali-operator.v2.27.1": ">=1.0.0 <2.27.1",
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
-        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4"
+        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
       },
       "channels": [
         "candidate",
@@ -39828,6 +39877,7 @@
         "kiali-operator.v2.27.2",
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
+        "kiali-operator.v2.27.5",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -39877,7 +39927,8 @@
         "kiali-operator.v2.27.1": ">=1.0.0 <2.27.1",
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
-        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4"
+        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
       },
       "channels": [
         "candidate",
@@ -39922,6 +39973,7 @@
         "kiali-operator.v2.27.2",
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
+        "kiali-operator.v2.27.5",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -39971,7 +40023,8 @@
         "kiali-operator.v2.27.1": ">=1.0.0 <2.27.1",
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
-        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4"
+        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
       },
       "channels": [
         "candidate",
@@ -40016,6 +40069,7 @@
         "kiali-operator.v2.27.2",
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
+        "kiali-operator.v2.27.5",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40065,7 +40119,8 @@
         "kiali-operator.v2.27.1": ">=1.0.0 <2.27.1",
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
-        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4"
+        "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
       },
       "channels": [
         "candidate",
@@ -41187,7 +41242,8 @@
         "kubernetes-nmstate-operator.4.21.0-202609021031",
         "kubernetes-nmstate-operator.4.21.0-202609090243",
         "kubernetes-nmstate-operator.4.21.0-202609162010",
-        "kubernetes-nmstate-operator.4.21.0-202609230457"
+        "kubernetes-nmstate-operator.4.21.0-202609230457",
+        "kubernetes-nmstate-operator.4.21.0-202609301335"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -41223,7 +41279,8 @@
         "kubernetes-nmstate-operator.4.21.0-202609021031": ">=4.3.0 <4.21.0-202609021031",
         "kubernetes-nmstate-operator.4.21.0-202609090243": ">=4.3.0 <4.21.0-202609090243",
         "kubernetes-nmstate-operator.4.21.0-202609162010": ">=4.3.0 <4.21.0-202609162010",
-        "kubernetes-nmstate-operator.4.21.0-202609230457": ">=4.3.0 <4.21.0-202609230457"
+        "kubernetes-nmstate-operator.4.21.0-202609230457": ">=4.3.0 <4.21.0-202609230457",
+        "kubernetes-nmstate-operator.4.21.0-202609301335": ">=4.3.0 <4.21.0-202609301335"
       },
       "channels": [
         "stable"
@@ -41247,7 +41304,8 @@
         "kubernetes-nmstate-operator.4.22.0-202609011951",
         "kubernetes-nmstate-operator.4.22.0-202609090959",
         "kubernetes-nmstate-operator.4.22.0-202609161240",
-        "kubernetes-nmstate-operator.4.22.0-202609230131"
+        "kubernetes-nmstate-operator.4.22.0-202609230131",
+        "kubernetes-nmstate-operator.4.22.0-202609301304"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -41268,7 +41326,8 @@
         "kubernetes-nmstate-operator.4.22.0-202609011951": ">=4.3.0 <4.22.0-202609011951",
         "kubernetes-nmstate-operator.4.22.0-202609090959": ">=4.3.0 <4.22.0-202609090959",
         "kubernetes-nmstate-operator.4.22.0-202609161240": ">=4.3.0 <4.22.0-202609161240",
-        "kubernetes-nmstate-operator.4.22.0-202609230131": ">=4.3.0 <4.22.0-202609230131"
+        "kubernetes-nmstate-operator.4.22.0-202609230131": ">=4.3.0 <4.22.0-202609230131",
+        "kubernetes-nmstate-operator.4.22.0-202609301304": ">=4.3.0 <4.22.0-202609301304"
       },
       "channels": [
         "stable"
@@ -42409,7 +42468,7 @@
         "kubevirt-hyperconverged-operator.v4.22.9": ">=4.21.17 <4.22.9",
         "kubevirt-hyperconverged-operator.v4.22.10": ">=4.22.0 <4.22.10",
         "kubevirt-hyperconverged-operator.v4.22.11": ">=4.22.0 <4.22.11",
-        "kubevirt-hyperconverged-operator.v4.22.12": ">=4.22.0 <4.22.12",
+        "kubevirt-hyperconverged-operator.v4.22.12": ">=4.21.17 <4.22.12",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -43458,7 +43517,8 @@
         "local-storage-operator.v4.21.0-202609011326",
         "local-storage-operator.v4.21.0-202609090902",
         "local-storage-operator.v4.21.0-202609140345",
-        "local-storage-operator.v4.21.0-202609200356"
+        "local-storage-operator.v4.21.0-202609200356",
+        "local-storage-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [],
@@ -43492,7 +43552,8 @@
         "local-storage-operator.v4.21.0-202609011326": ">=4.3.0 <4.21.0-202609011326",
         "local-storage-operator.v4.21.0-202609090902": ">=4.3.0 <4.21.0-202609090902",
         "local-storage-operator.v4.21.0-202609140345": ">=4.3.0 <4.21.0-202609140345",
-        "local-storage-operator.v4.21.0-202609200356": ">=4.3.0 <4.21.0-202609200356"
+        "local-storage-operator.v4.21.0-202609200356": ">=4.3.0 <4.21.0-202609200356",
+        "local-storage-operator.v4.21.0-202609291522": ">=4.3.0 <4.21.0-202609291522"
       },
       "channels": [
         "stable"
@@ -43515,7 +43576,8 @@
         "local-storage-operator.v4.22.0-202609011951",
         "local-storage-operator.v4.22.0-202609081346",
         "local-storage-operator.v4.22.0-202609151747",
-        "local-storage-operator.v4.22.0-202609212027"
+        "local-storage-operator.v4.22.0-202609212027",
+        "local-storage-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -43535,7 +43597,8 @@
         "local-storage-operator.v4.22.0-202609011951": ">=4.3.0 <4.22.0-202609011951",
         "local-storage-operator.v4.22.0-202609081346": ">=4.3.0 <4.22.0-202609081346",
         "local-storage-operator.v4.22.0-202609151747": ">=4.3.0 <4.22.0-202609151747",
-        "local-storage-operator.v4.22.0-202609212027": ">=4.3.0 <4.22.0-202609212027"
+        "local-storage-operator.v4.22.0-202609212027": ">=4.3.0 <4.22.0-202609212027",
+        "local-storage-operator.v4.22.0-202609291750": ">=4.3.0 <4.22.0-202609291750"
       },
       "channels": [
         "stable"
@@ -47820,7 +47883,8 @@
         "metallb-operator.v4.21.0-202609011326",
         "metallb-operator.v4.21.0-202609090243",
         "metallb-operator.v4.21.0-202609150222",
-        "metallb-operator.v4.21.0-202609200356"
+        "metallb-operator.v4.21.0-202609200356",
+        "metallb-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -47855,7 +47919,8 @@
         "metallb-operator.v4.21.0-202609011326": ">=4.8.0 <4.21.0",
         "metallb-operator.v4.21.0-202609090243": ">=4.8.0 <4.21.0",
         "metallb-operator.v4.21.0-202609150222": ">=4.8.0 <4.21.0",
-        "metallb-operator.v4.21.0-202609200356": ">=4.8.0 <4.21.0"
+        "metallb-operator.v4.21.0-202609200356": ">=4.8.0 <4.21.0",
+        "metallb-operator.v4.21.0-202609291522": ">=4.8.0 <4.21.0"
       },
       "channels": [
         "stable"
@@ -47878,7 +47943,8 @@
         "metallb-operator.v4.22.0-202609011951",
         "metallb-operator.v4.22.0-202609081346",
         "metallb-operator.v4.22.0-202609151747",
-        "metallb-operator.v4.22.0-202609221726"
+        "metallb-operator.v4.22.0-202609221726",
+        "metallb-operator.v4.22.0-202609300304"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -47898,7 +47964,8 @@
         "metallb-operator.v4.22.0-202609011951": ">=4.8.0 <4.22.0",
         "metallb-operator.v4.22.0-202609081346": ">=4.8.0 <4.22.0",
         "metallb-operator.v4.22.0-202609151747": ">=4.8.0 <4.22.0",
-        "metallb-operator.v4.22.0-202609221726": ">=4.8.0 <4.22.0"
+        "metallb-operator.v4.22.0-202609221726": ">=4.8.0 <4.22.0",
+        "metallb-operator.v4.22.0-202609300304": ">=4.8.0 <4.22.0"
       },
       "channels": [
         "stable"
@@ -53655,7 +53722,8 @@
         "nfd.4.21.0-202609011326",
         "nfd.4.21.0-202609090243",
         "nfd.4.21.0-202609151411",
-        "nfd.4.21.0-202609221600"
+        "nfd.4.21.0-202609221600",
+        "nfd.4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53690,7 +53758,8 @@
         "nfd.4.21.0-202609011326": ">=4.9.0 <4.21.0-202609011326",
         "nfd.4.21.0-202609090243": ">=4.9.0 <4.21.0-202609090243",
         "nfd.4.21.0-202609151411": ">=4.9.0 <4.21.0-202609151411",
-        "nfd.4.21.0-202609221600": ">=4.9.0 <4.21.0-202609221600"
+        "nfd.4.21.0-202609221600": ">=4.9.0 <4.21.0-202609221600",
+        "nfd.4.21.0-202609291522": ">=4.9.0 <4.21.0-202609291522"
       },
       "channels": [
         "stable"
@@ -53713,7 +53782,8 @@
         "nfd.4.22.0-202609011951",
         "nfd.4.22.0-202609081346",
         "nfd.4.22.0-202609151747",
-        "nfd.4.22.0-202609212027"
+        "nfd.4.22.0-202609212027",
+        "nfd.4.22.0-202609291750"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53733,7 +53803,8 @@
         "nfd.4.22.0-202609011951": ">=4.9.0 <4.22.0-202609011951",
         "nfd.4.22.0-202609081346": ">=4.9.0 <4.22.0-202609081346",
         "nfd.4.22.0-202609151747": ">=4.9.0 <4.22.0-202609151747",
-        "nfd.4.22.0-202609212027": ">=4.9.0 <4.22.0-202609212027"
+        "nfd.4.22.0-202609212027": ">=4.9.0 <4.22.0-202609212027",
+        "nfd.4.22.0-202609291750": ">=4.9.0 <4.22.0-202609291750"
       },
       "channels": [
         "stable"
@@ -54744,7 +54815,8 @@
         "numaresources-operator.v4.21.0",
         "numaresources-operator.v4.21.1",
         "numaresources-operator.v4.21.2",
-        "numaresources-operator.v4.21.3"
+        "numaresources-operator.v4.21.3",
+        "numaresources-operator.v4.21.4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -54752,7 +54824,8 @@
         "numaresources-operator.v4.21.0": ">=4.20.0 <4.21.0",
         "numaresources-operator.v4.21.1": ">=4.20.0 <4.21.1",
         "numaresources-operator.v4.21.2": ">=4.20.0 <4.21.2",
-        "numaresources-operator.v4.21.3": ">=4.20.0 <4.21.3"
+        "numaresources-operator.v4.21.3": ">=4.20.0 <4.21.3",
+        "numaresources-operator.v4.21.4": ">=4.20.0 <4.21.4"
       },
       "channels": [
         "4.21",
@@ -72552,7 +72625,8 @@
         "ptp-operator.v4.21.0-202609011326",
         "ptp-operator.v4.21.0-202609090243",
         "ptp-operator.v4.21.0-202609150222",
-        "ptp-operator.v4.21.0-202609200356"
+        "ptp-operator.v4.21.0-202609200356",
+        "ptp-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -72588,7 +72662,8 @@
         "ptp-operator.v4.21.0-202609011326": ">=4.3.0-0 <4.21.0-202609011326",
         "ptp-operator.v4.21.0-202609090243": ">=4.3.0-0 <4.21.0-202609090243",
         "ptp-operator.v4.21.0-202609150222": ">=4.3.0-0 <4.21.0-202609150222",
-        "ptp-operator.v4.21.0-202609200356": ">=4.3.0-0 <4.21.0-202609200356"
+        "ptp-operator.v4.21.0-202609200356": ">=4.3.0-0 <4.21.0-202609200356",
+        "ptp-operator.v4.21.0-202609291522": ">=4.3.0-0 <4.21.0-202609291522"
       },
       "channels": [
         "stable"
@@ -72612,7 +72687,8 @@
         "ptp-operator.v4.22.0-202609011951",
         "ptp-operator.v4.22.0-202609082127",
         "ptp-operator.v4.22.0-202609151747",
-        "ptp-operator.v4.22.0-202609210744"
+        "ptp-operator.v4.22.0-202609210744",
+        "ptp-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -72633,7 +72709,8 @@
         "ptp-operator.v4.22.0-202609011951": ">=4.3.0-0 <4.22.0-202609011951",
         "ptp-operator.v4.22.0-202609082127": ">=4.3.0-0 <4.22.0-202609082127",
         "ptp-operator.v4.22.0-202609151747": ">=4.3.0-0 <4.22.0-202609151747",
-        "ptp-operator.v4.22.0-202609210744": ">=4.3.0-0 <4.22.0-202609210744"
+        "ptp-operator.v4.22.0-202609210744": ">=4.3.0-0 <4.22.0-202609210744",
+        "ptp-operator.v4.22.0-202609291750": ">=4.3.0-0 <4.22.0-202609291750"
       },
       "channels": [
         "stable"
@@ -92261,6 +92338,7 @@
         "rhsso-operator.7.6.12-opr-011",
         "rhsso-operator.7.6.12-opr-012",
         "rhsso-operator.7.6.12-opr-013",
+        "rhsso-operator.7.6.13-opr-001",
         "rhsso-operator.7.6.2-opr-001",
         "rhsso-operator.7.6.2-opr-002",
         "rhsso-operator.7.6.2-opr-003",
@@ -92348,6 +92426,7 @@
         "rhsso-operator.7.6.12-opr-011",
         "rhsso-operator.7.6.12-opr-012",
         "rhsso-operator.7.6.12-opr-013",
+        "rhsso-operator.7.6.13-opr-001",
         "rhsso-operator.7.6.2-opr-001",
         "rhsso-operator.7.6.2-opr-002",
         "rhsso-operator.7.6.2-opr-003",
@@ -93154,6 +93233,7 @@
     "4.12": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93168,7 +93248,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93177,6 +93258,7 @@
     "4.13": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93191,7 +93273,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93200,6 +93283,7 @@
     "4.14": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93214,7 +93298,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93223,6 +93308,7 @@
     "4.15": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93237,7 +93323,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93246,6 +93333,7 @@
     "4.16": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93260,7 +93348,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93269,6 +93358,7 @@
     "4.17": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93283,7 +93373,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93292,6 +93383,7 @@
     "4.18": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93306,7 +93398,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93315,6 +93408,7 @@
     "4.19": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93329,7 +93423,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93338,6 +93433,7 @@
     "4.20": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93352,7 +93448,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93361,6 +93458,7 @@
     "4.21": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93375,7 +93473,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -93384,6 +93483,7 @@
     "4.22": {
       "versions": [
         "security-profiles-operator.v0.10.0",
+        "security-profiles-operator.v0.10.1",
         "security-profiles-operator.v0.8.2",
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
@@ -93398,7 +93498,8 @@
         "security-profiles-operator.v0.8.5": ">=0.4.1 <0.8.5",
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
-        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0"
+        "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -98562,7 +98663,8 @@
         "sriov-network-operator.v4.21.0-202609011326",
         "sriov-network-operator.v4.21.0-202609090243",
         "sriov-network-operator.v4.21.0-202609150222",
-        "sriov-network-operator.v4.21.0-202609200356"
+        "sriov-network-operator.v4.21.0-202609200356",
+        "sriov-network-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -98596,7 +98698,8 @@
         "sriov-network-operator.v4.21.0-202609011326": ">=4.3.0-0 <4.21.0-202609011326",
         "sriov-network-operator.v4.21.0-202609090243": ">=4.3.0-0 <4.21.0-202609090243",
         "sriov-network-operator.v4.21.0-202609150222": ">=4.3.0-0 <4.21.0-202609150222",
-        "sriov-network-operator.v4.21.0-202609200356": ">=4.3.0-0 <4.21.0-202609200356"
+        "sriov-network-operator.v4.21.0-202609200356": ">=4.3.0-0 <4.21.0-202609200356",
+        "sriov-network-operator.v4.21.0-202609291522": ">=4.3.0-0 <4.21.0-202609291522"
       },
       "channels": [
         "stable"
@@ -98618,7 +98721,8 @@
         "sriov-network-operator.v4.22.0-202609011951",
         "sriov-network-operator.v4.22.0-202609081346",
         "sriov-network-operator.v4.22.0-202609151747",
-        "sriov-network-operator.v4.22.0-202609212027"
+        "sriov-network-operator.v4.22.0-202609212027",
+        "sriov-network-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -98637,7 +98741,8 @@
         "sriov-network-operator.v4.22.0-202609011951": ">=4.3.0-0 <4.22.0-202609011951",
         "sriov-network-operator.v4.22.0-202609081346": ">=4.3.0-0 <4.22.0-202609081346",
         "sriov-network-operator.v4.22.0-202609151747": ">=4.3.0-0 <4.22.0-202609151747",
-        "sriov-network-operator.v4.22.0-202609212027": ">=4.3.0-0 <4.22.0-202609212027"
+        "sriov-network-operator.v4.22.0-202609212027": ">=4.3.0-0 <4.22.0-202609212027",
+        "sriov-network-operator.v4.22.0-202609291750": ">=4.3.0-0 <4.22.0-202609291750"
       },
       "channels": [
         "stable"
@@ -100029,6 +100134,7 @@
         "topology-aware-lifecycle-manager.v4.14.1",
         "topology-aware-lifecycle-manager.v4.14.10",
         "topology-aware-lifecycle-manager.v4.14.11",
+        "topology-aware-lifecycle-manager.v4.14.12",
         "topology-aware-lifecycle-manager.v4.14.2",
         "topology-aware-lifecycle-manager.v4.14.3",
         "topology-aware-lifecycle-manager.v4.14.4",
@@ -100052,7 +100158,8 @@
         "topology-aware-lifecycle-manager.v4.14.8": ">=4.12.0 <4.14.8",
         "topology-aware-lifecycle-manager.v4.14.9": ">=4.12.0 <4.14.9",
         "topology-aware-lifecycle-manager.v4.14.10": ">=4.12.0 <4.14.10",
-        "topology-aware-lifecycle-manager.v4.14.11": ">=4.12.0 <4.14.11"
+        "topology-aware-lifecycle-manager.v4.14.11": ">=4.12.0 <4.14.11",
+        "topology-aware-lifecycle-manager.v4.14.12": ">=4.12.0 <4.14.12"
       },
       "channels": [
         "4.14",
@@ -101187,7 +101294,8 @@
         "vertical-pod-autoscaler.v4.21.0-202609011326",
         "vertical-pod-autoscaler.v4.21.0-202609090243",
         "vertical-pod-autoscaler.v4.21.0-202609140345",
-        "vertical-pod-autoscaler.v4.21.0-202609201335"
+        "vertical-pod-autoscaler.v4.21.0-202609201335",
+        "vertical-pod-autoscaler.v4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101221,7 +101329,8 @@
         "vertical-pod-autoscaler.v4.21.0-202609011326": ">=4.5.0 <4.21.0",
         "vertical-pod-autoscaler.v4.21.0-202609090243": ">=4.5.0 <4.21.0",
         "vertical-pod-autoscaler.v4.21.0-202609140345": ">=4.5.0 <4.21.0",
-        "vertical-pod-autoscaler.v4.21.0-202609201335": ">=4.5.0 <4.21.0"
+        "vertical-pod-autoscaler.v4.21.0-202609201335": ">=4.5.0 <4.21.0",
+        "vertical-pod-autoscaler.v4.21.0-202609291522": ">=4.5.0 <4.21.0"
       },
       "channels": [
         "stable"
@@ -101244,7 +101353,8 @@
         "vertical-pod-autoscaler.v4.22.0-202609011951",
         "vertical-pod-autoscaler.v4.22.0-202609081346",
         "vertical-pod-autoscaler.v4.22.0-202609151747",
-        "vertical-pod-autoscaler.v4.22.0-202609212027"
+        "vertical-pod-autoscaler.v4.22.0-202609212027",
+        "vertical-pod-autoscaler.v4.22.0-202609291750"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101264,7 +101374,8 @@
         "vertical-pod-autoscaler.v4.22.0-202609011951": ">=4.5.0 <4.22.0",
         "vertical-pod-autoscaler.v4.22.0-202609081346": ">=4.5.0 <4.22.0",
         "vertical-pod-autoscaler.v4.22.0-202609151747": ">=4.5.0 <4.22.0",
-        "vertical-pod-autoscaler.v4.22.0-202609212027": ">=4.5.0 <4.22.0"
+        "vertical-pod-autoscaler.v4.22.0-202609212027": ">=4.5.0 <4.22.0",
+        "vertical-pod-autoscaler.v4.22.0-202609291750": ">=4.5.0 <4.22.0"
       },
       "channels": [
         "stable"
@@ -102964,21 +103075,24 @@
         "rhtas-operator.v1.4.0",
         "rhtas-operator.v1.4.1",
         "rhtas-operator.v1.4.2",
-        "rhtas-operator.v1.4.3"
+        "rhtas-operator.v1.4.3",
+        "rhtas-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "rhtas-operator.v1.4.2": ">=1.3.0 <1.4.2",
         "rhtas-operator.v1.4.3": ">=1.3.0 <1.4.3",
-        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8"
+        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8",
+        "rhtas-operator.v1.5.0": ">=1.4.0 <1.5.0"
       },
       "channels": [
         "stable",
         "stable-v1.1",
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.18": {
@@ -103001,21 +103115,24 @@
         "rhtas-operator.v1.4.0",
         "rhtas-operator.v1.4.1",
         "rhtas-operator.v1.4.2",
-        "rhtas-operator.v1.4.3"
+        "rhtas-operator.v1.4.3",
+        "rhtas-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "rhtas-operator.v1.4.2": ">=1.3.0 <1.4.2",
         "rhtas-operator.v1.4.3": ">=1.3.0 <1.4.3",
-        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8"
+        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8",
+        "rhtas-operator.v1.5.0": ">=1.4.0 <1.5.0"
       },
       "channels": [
         "stable",
         "stable-v1.1",
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.19": {
@@ -103038,21 +103155,24 @@
         "rhtas-operator.v1.4.0",
         "rhtas-operator.v1.4.1",
         "rhtas-operator.v1.4.2",
-        "rhtas-operator.v1.4.3"
+        "rhtas-operator.v1.4.3",
+        "rhtas-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "rhtas-operator.v1.4.2": ">=1.3.0 <1.4.2",
         "rhtas-operator.v1.4.3": ">=1.3.0 <1.4.3",
-        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8"
+        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8",
+        "rhtas-operator.v1.5.0": ">=1.4.0 <1.5.0"
       },
       "channels": [
         "stable",
         "stable-v1.1",
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.20": {
@@ -103074,21 +103194,24 @@
         "rhtas-operator.v1.4.0",
         "rhtas-operator.v1.4.1",
         "rhtas-operator.v1.4.2",
-        "rhtas-operator.v1.4.3"
+        "rhtas-operator.v1.4.3",
+        "rhtas-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "rhtas-operator.v1.4.2": ">=1.3.0 <1.4.2",
         "rhtas-operator.v1.4.3": ">=1.3.0 <1.4.3",
-        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8"
+        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8",
+        "rhtas-operator.v1.5.0": ">=1.4.0 <1.5.0"
       },
       "channels": [
         "stable",
         "stable-v1.1",
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.21": {
@@ -103105,37 +103228,43 @@
         "rhtas-operator.v1.4.0",
         "rhtas-operator.v1.4.1",
         "rhtas-operator.v1.4.2",
-        "rhtas-operator.v1.4.3"
+        "rhtas-operator.v1.4.3",
+        "rhtas-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "rhtas-operator.v1.4.2": ">=1.3.0 <1.4.2",
         "rhtas-operator.v1.4.3": ">=1.3.0 <1.4.3",
-        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8"
+        "rhtas-operator.v1.3.8": ">=1.2.0 <1.3.8",
+        "rhtas-operator.v1.5.0": ">=1.4.0 <1.5.0"
       },
       "channels": [
         "stable",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.22": {
       "versions": [
         "rhtas-operator.v1.4.1",
         "rhtas-operator.v1.4.2",
-        "rhtas-operator.v1.4.3"
+        "rhtas-operator.v1.4.3",
+        "rhtas-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "rhtas-operator.v1.4.1": ">=1.3.0 <1.4.1",
         "rhtas-operator.v1.4.2": ">=1.3.0 <1.4.2",
-        "rhtas-operator.v1.4.3": ">=1.3.0 <1.4.3"
+        "rhtas-operator.v1.4.3": ">=1.3.0 <1.4.3",
+        "rhtas-operator.v1.5.0": ">=1.4.0 <1.5.0"
       },
       "channels": [
         "stable",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     }
   },
@@ -103573,6 +103702,7 @@
         "automation-orchestrator-operator.v2026.8.1789549281",
         "automation-orchestrator-operator.v2026.8.1789722392",
         "automation-orchestrator-operator.v2026.8.1790283325",
+        "automation-orchestrator-operator.v2026.8.1790936140",
         "automation-orchestrator-operator.v2026.9.1784677103"
       ],
       "maxOCPVersion": null,
@@ -103592,6 +103722,7 @@
         "automation-orchestrator-operator.v2026.8.1789549281",
         "automation-orchestrator-operator.v2026.8.1789722392",
         "automation-orchestrator-operator.v2026.8.1790283325",
+        "automation-orchestrator-operator.v2026.8.1790936140",
         "automation-orchestrator-operator.v2026.9.1784677103"
       ],
       "maxOCPVersion": null,
@@ -103611,6 +103742,7 @@
         "automation-orchestrator-operator.v2026.8.1789549281",
         "automation-orchestrator-operator.v2026.8.1789722392",
         "automation-orchestrator-operator.v2026.8.1790283325",
+        "automation-orchestrator-operator.v2026.8.1790936140",
         "automation-orchestrator-operator.v2026.9.1784677103"
       ],
       "maxOCPVersion": null,
@@ -103630,6 +103762,7 @@
         "automation-orchestrator-operator.v2026.8.1789549281",
         "automation-orchestrator-operator.v2026.8.1789722392",
         "automation-orchestrator-operator.v2026.8.1790283325",
+        "automation-orchestrator-operator.v2026.8.1790936140",
         "automation-orchestrator-operator.v2026.9.1784677103"
       ],
       "maxOCPVersion": null,
@@ -103649,6 +103782,7 @@
         "automation-orchestrator-operator.v2026.8.1789549281",
         "automation-orchestrator-operator.v2026.8.1789722392",
         "automation-orchestrator-operator.v2026.8.1790283325",
+        "automation-orchestrator-operator.v2026.8.1790936140",
         "automation-orchestrator-operator.v2026.9.1784677103"
       ],
       "maxOCPVersion": null,
@@ -103668,6 +103802,7 @@
         "automation-orchestrator-operator.v2026.8.1789549281",
         "automation-orchestrator-operator.v2026.8.1789722392",
         "automation-orchestrator-operator.v2026.8.1790283325",
+        "automation-orchestrator-operator.v2026.8.1790936140",
         "automation-orchestrator-operator.v2026.9.1784677103"
       ],
       "maxOCPVersion": null,
@@ -103687,6 +103822,7 @@
         "automation-orchestrator-operator.v2026.8.1789549281",
         "automation-orchestrator-operator.v2026.8.1789722392",
         "automation-orchestrator-operator.v2026.8.1790283325",
+        "automation-orchestrator-operator.v2026.8.1790936140",
         "automation-orchestrator-operator.v2026.9.1784677103"
       ],
       "maxOCPVersion": null,
@@ -103828,7 +103964,8 @@
         "lifecycle-agent.v4.19.2",
         "lifecycle-agent.v4.19.3",
         "lifecycle-agent.v4.19.4",
-        "lifecycle-agent.v4.19.5"
+        "lifecycle-agent.v4.19.5",
+        "lifecycle-agent.v4.19.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -103838,7 +103975,8 @@
         "lifecycle-agent.v4.19.2": ">=4.18.0 <4.19.2",
         "lifecycle-agent.v4.19.3": ">=4.18.0 <4.19.3",
         "lifecycle-agent.v4.19.4": ">=4.18.0 <4.19.4",
-        "lifecycle-agent.v4.19.5": ">=4.18.0 <4.19.5"
+        "lifecycle-agent.v4.19.5": ">=4.18.0 <4.19.5",
+        "lifecycle-agent.v4.19.6": ">=4.18.0 <4.19.6"
       },
       "channels": [
         "4.19",
@@ -104874,7 +105012,8 @@
         "secrets-store-csi-driver-operator.v4.21.0-202609011326",
         "secrets-store-csi-driver-operator.v4.21.0-202609090243",
         "secrets-store-csi-driver-operator.v4.21.0-202609140345",
-        "secrets-store-csi-driver-operator.v4.21.0-202609200356"
+        "secrets-store-csi-driver-operator.v4.21.0-202609200356",
+        "secrets-store-csi-driver-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [],
@@ -104908,7 +105047,8 @@
         "secrets-store-csi-driver-operator.v4.21.0-202609011326": ">=4.13.0-0 <4.21.0",
         "secrets-store-csi-driver-operator.v4.21.0-202609090243": ">=4.13.0-0 <4.21.0",
         "secrets-store-csi-driver-operator.v4.21.0-202609140345": ">=4.13.0-0 <4.21.0",
-        "secrets-store-csi-driver-operator.v4.21.0-202609200356": ">=4.13.0-0 <4.21.0"
+        "secrets-store-csi-driver-operator.v4.21.0-202609200356": ">=4.13.0-0 <4.21.0",
+        "secrets-store-csi-driver-operator.v4.21.0-202609291522": ">=4.13.0-0 <4.21.0"
       },
       "channels": [
         "stable"
@@ -104931,7 +105071,8 @@
         "secrets-store-csi-driver-operator.v4.22.0-202609011951",
         "secrets-store-csi-driver-operator.v4.22.0-202609090125",
         "secrets-store-csi-driver-operator.v4.22.0-202609151747",
-        "secrets-store-csi-driver-operator.v4.22.0-202609212027"
+        "secrets-store-csi-driver-operator.v4.22.0-202609212027",
+        "secrets-store-csi-driver-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -104951,7 +105092,8 @@
         "secrets-store-csi-driver-operator.v4.22.0-202609011951": ">=4.13.0-0 <4.22.0",
         "secrets-store-csi-driver-operator.v4.22.0-202609090125": ">=4.13.0-0 <4.22.0",
         "secrets-store-csi-driver-operator.v4.22.0-202609151747": ">=4.13.0-0 <4.22.0",
-        "secrets-store-csi-driver-operator.v4.22.0-202609212027": ">=4.13.0-0 <4.22.0"
+        "secrets-store-csi-driver-operator.v4.22.0-202609212027": ">=4.13.0-0 <4.22.0",
+        "secrets-store-csi-driver-operator.v4.22.0-202609291750": ">=4.13.0-0 <4.22.0"
       },
       "channels": [
         "stable"
@@ -104971,6 +105113,7 @@
         "servicemeshoperator3.v3.0.13",
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
+        "servicemeshoperator3.v3.0.16",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -105001,11 +105144,12 @@
         "servicemeshoperator3.v3.0.12": ">=1.0.0 <3.0.12",
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
+        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
         "servicemeshoperator3.v3.1.3": ">=1.0.0 <3.1.3",
-        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15"
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16"
       },
       "channels": [
         "candidates",
@@ -105073,6 +105217,7 @@
         "servicemeshoperator3.v3.0.13",
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
+        "servicemeshoperator3.v3.0.16",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -105086,6 +105231,7 @@
         "servicemeshoperator3.v3.1.10",
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
+        "servicemeshoperator3.v3.1.13",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -105112,6 +105258,7 @@
         "servicemeshoperator3.v3.0.12": ">=1.0.0 <3.0.12",
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
+        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -105124,8 +105271,9 @@
         "servicemeshoperator3.v3.1.9": ">=1.0.0 <3.1.9",
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
-        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
-        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12"
+        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13"
       },
       "channels": [
         "candidates",
@@ -105203,6 +105351,7 @@
         "servicemeshoperator3.v3.0.13",
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
+        "servicemeshoperator3.v3.0.16",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -105216,6 +105365,7 @@
         "servicemeshoperator3.v3.1.10",
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
+        "servicemeshoperator3.v3.1.13",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -105226,6 +105376,7 @@
         "servicemeshoperator3.v3.1.9",
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
+        "servicemeshoperator3.v3.2.10",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -105241,7 +105392,8 @@
         "servicemeshoperator3.v3.3.4",
         "servicemeshoperator3.v3.3.5",
         "servicemeshoperator3.v3.3.6",
-        "servicemeshoperator3.v3.3.7"
+        "servicemeshoperator3.v3.3.7",
+        "servicemeshoperator3.v3.3.8"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -105260,6 +105412,7 @@
         "servicemeshoperator3.v3.0.12": ">=1.0.0 <3.0.12",
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
+        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -105272,6 +105425,7 @@
         "servicemeshoperator3.v3.1.9": ">=1.0.0 <3.1.9",
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
+        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -105281,6 +105435,7 @@
         "servicemeshoperator3.v3.2.6": ">=1.0.0 <3.2.6",
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
+        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -105288,10 +105443,11 @@
         "servicemeshoperator3.v3.3.4": ">=1.0.0 <3.3.4",
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
-        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
-        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
-        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
-        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7"
+        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8"
       },
       "channels": [
         "candidates",
@@ -105314,6 +105470,7 @@
         "servicemeshoperator3.v3.0.13",
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
+        "servicemeshoperator3.v3.0.16",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -105327,6 +105484,7 @@
         "servicemeshoperator3.v3.1.10",
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
+        "servicemeshoperator3.v3.1.13",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -105337,6 +105495,7 @@
         "servicemeshoperator3.v3.1.9",
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
+        "servicemeshoperator3.v3.2.10",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -105352,7 +105511,8 @@
         "servicemeshoperator3.v3.3.4",
         "servicemeshoperator3.v3.3.5",
         "servicemeshoperator3.v3.3.6",
-        "servicemeshoperator3.v3.3.7"
+        "servicemeshoperator3.v3.3.7",
+        "servicemeshoperator3.v3.3.8"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -105371,6 +105531,7 @@
         "servicemeshoperator3.v3.0.12": ">=1.0.0 <3.0.12",
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
+        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -105383,6 +105544,7 @@
         "servicemeshoperator3.v3.1.9": ">=1.0.0 <3.1.9",
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
+        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -105392,6 +105554,7 @@
         "servicemeshoperator3.v3.2.6": ">=1.0.0 <3.2.6",
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
+        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -105399,10 +105562,11 @@
         "servicemeshoperator3.v3.3.4": ">=1.0.0 <3.3.4",
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
-        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
-        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
-        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
-        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7"
+        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8"
       },
       "channels": [
         "candidates",
@@ -105425,6 +105589,7 @@
         "servicemeshoperator3.v3.0.13",
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
+        "servicemeshoperator3.v3.0.16",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -105438,6 +105603,7 @@
         "servicemeshoperator3.v3.1.10",
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
+        "servicemeshoperator3.v3.1.13",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -105448,6 +105614,7 @@
         "servicemeshoperator3.v3.1.9",
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
+        "servicemeshoperator3.v3.2.10",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -105464,9 +105631,11 @@
         "servicemeshoperator3.v3.3.5",
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
+        "servicemeshoperator3.v3.3.8",
         "servicemeshoperator3.v3.4.0",
         "servicemeshoperator3.v3.4.1",
-        "servicemeshoperator3.v3.4.2"
+        "servicemeshoperator3.v3.4.2",
+        "servicemeshoperator3.v3.4.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -105485,6 +105654,7 @@
         "servicemeshoperator3.v3.0.12": ">=1.0.0 <3.0.12",
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
+        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -105497,6 +105667,7 @@
         "servicemeshoperator3.v3.1.9": ">=1.0.0 <3.1.9",
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
+        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -105506,6 +105677,7 @@
         "servicemeshoperator3.v3.2.6": ">=1.0.0 <3.2.6",
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
+        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -105513,13 +105685,15 @@
         "servicemeshoperator3.v3.3.4": ">=1.0.0 <3.3.4",
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
+        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
         "servicemeshoperator3.v3.4.0": ">=1.0.0 <3.4.0",
         "servicemeshoperator3.v3.4.1": ">=1.0.0 <3.4.1",
-        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
-        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
-        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
-        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
-        "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2"
+        "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
+        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3"
       },
       "channels": [
         "candidates",
@@ -105543,6 +105717,7 @@
         "servicemeshoperator3.v3.0.13",
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
+        "servicemeshoperator3.v3.0.16",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -105556,6 +105731,7 @@
         "servicemeshoperator3.v3.1.10",
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
+        "servicemeshoperator3.v3.1.13",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -105566,6 +105742,7 @@
         "servicemeshoperator3.v3.1.9",
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
+        "servicemeshoperator3.v3.2.10",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -105582,9 +105759,11 @@
         "servicemeshoperator3.v3.3.5",
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
+        "servicemeshoperator3.v3.3.8",
         "servicemeshoperator3.v3.4.0",
         "servicemeshoperator3.v3.4.1",
-        "servicemeshoperator3.v3.4.2"
+        "servicemeshoperator3.v3.4.2",
+        "servicemeshoperator3.v3.4.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -105603,6 +105782,7 @@
         "servicemeshoperator3.v3.0.12": ">=1.0.0 <3.0.12",
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
+        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -105615,6 +105795,7 @@
         "servicemeshoperator3.v3.1.9": ">=1.0.0 <3.1.9",
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
+        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -105624,6 +105805,7 @@
         "servicemeshoperator3.v3.2.6": ">=1.0.0 <3.2.6",
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
+        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -105631,13 +105813,15 @@
         "servicemeshoperator3.v3.3.4": ">=1.0.0 <3.3.4",
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
+        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
         "servicemeshoperator3.v3.4.0": ">=1.0.0 <3.4.0",
         "servicemeshoperator3.v3.4.1": ">=1.0.0 <3.4.1",
-        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
-        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
-        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
-        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
-        "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2"
+        "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
+        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3"
       },
       "channels": [
         "candidates",
@@ -105661,6 +105845,7 @@
         "servicemeshoperator3.v3.0.13",
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
+        "servicemeshoperator3.v3.0.16",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -105674,6 +105859,7 @@
         "servicemeshoperator3.v3.1.10",
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
+        "servicemeshoperator3.v3.1.13",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -105684,6 +105870,7 @@
         "servicemeshoperator3.v3.1.9",
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
+        "servicemeshoperator3.v3.2.10",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -105700,9 +105887,11 @@
         "servicemeshoperator3.v3.3.5",
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
+        "servicemeshoperator3.v3.3.8",
         "servicemeshoperator3.v3.4.0",
         "servicemeshoperator3.v3.4.1",
-        "servicemeshoperator3.v3.4.2"
+        "servicemeshoperator3.v3.4.2",
+        "servicemeshoperator3.v3.4.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -105721,6 +105910,7 @@
         "servicemeshoperator3.v3.0.12": ">=1.0.0 <3.0.12",
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
+        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -105733,6 +105923,7 @@
         "servicemeshoperator3.v3.1.9": ">=1.0.0 <3.1.9",
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
+        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -105742,6 +105933,7 @@
         "servicemeshoperator3.v3.2.6": ">=1.0.0 <3.2.6",
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
+        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -105749,13 +105941,15 @@
         "servicemeshoperator3.v3.3.4": ">=1.0.0 <3.3.4",
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
+        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
         "servicemeshoperator3.v3.4.0": ">=1.0.0 <3.4.0",
         "servicemeshoperator3.v3.4.1": ">=1.0.0 <3.4.1",
-        "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
-        "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
-        "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
-        "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
-        "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2"
+        "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
+        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3"
       },
       "channels": [
         "candidates",
@@ -107108,11 +107302,14 @@
         "model-validation-operator.v0.0.3",
         "model-validation-operator.v0.1.0",
         "model-validation-operator.v0.1.1",
-        "model-validation-operator.v0.1.2"
+        "model-validation-operator.v0.1.2",
+        "model-validation-operator.v0.1.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "model-validation-operator.v0.1.3": ">=0.0.0 <0.1.3"
+      },
       "channels": [
         "tech-preview"
       ]
@@ -107124,11 +107321,14 @@
         "model-validation-operator.v0.0.3",
         "model-validation-operator.v0.1.0",
         "model-validation-operator.v0.1.1",
-        "model-validation-operator.v0.1.2"
+        "model-validation-operator.v0.1.2",
+        "model-validation-operator.v0.1.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "model-validation-operator.v0.1.3": ">=0.0.0 <0.1.3"
+      },
       "channels": [
         "tech-preview"
       ]
@@ -107140,11 +107340,14 @@
         "model-validation-operator.v0.0.3",
         "model-validation-operator.v0.1.0",
         "model-validation-operator.v0.1.1",
-        "model-validation-operator.v0.1.2"
+        "model-validation-operator.v0.1.2",
+        "model-validation-operator.v0.1.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "model-validation-operator.v0.1.3": ">=0.0.0 <0.1.3"
+      },
       "channels": [
         "tech-preview"
       ]
@@ -107156,11 +107359,14 @@
         "model-validation-operator.v0.0.3",
         "model-validation-operator.v0.1.0",
         "model-validation-operator.v0.1.1",
-        "model-validation-operator.v0.1.2"
+        "model-validation-operator.v0.1.2",
+        "model-validation-operator.v0.1.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "model-validation-operator.v0.1.3": ">=0.0.0 <0.1.3"
+      },
       "channels": [
         "tech-preview"
       ]
@@ -107172,11 +107378,14 @@
         "model-validation-operator.v0.0.3",
         "model-validation-operator.v0.1.0",
         "model-validation-operator.v0.1.1",
-        "model-validation-operator.v0.1.2"
+        "model-validation-operator.v0.1.2",
+        "model-validation-operator.v0.1.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "model-validation-operator.v0.1.3": ">=0.0.0 <0.1.3"
+      },
       "channels": [
         "tech-preview"
       ]
@@ -107188,11 +107397,14 @@
         "model-validation-operator.v0.0.3",
         "model-validation-operator.v0.1.0",
         "model-validation-operator.v0.1.1",
-        "model-validation-operator.v0.1.2"
+        "model-validation-operator.v0.1.2",
+        "model-validation-operator.v0.1.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "model-validation-operator.v0.1.3": ">=0.0.0 <0.1.3"
+      },
       "channels": [
         "tech-preview"
       ]
@@ -107200,11 +107412,14 @@
     "4.22": {
       "versions": [
         "model-validation-operator.v0.1.1",
-        "model-validation-operator.v0.1.2"
+        "model-validation-operator.v0.1.2",
+        "model-validation-operator.v0.1.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "model-validation-operator.v0.1.3": ">=0.0.0 <0.1.3"
+      },
       "channels": [
         "tech-preview"
       ]
@@ -108383,14 +108598,18 @@
         "policy-controller-operator.v0.0.2-techpreview",
         "policy-controller-operator.v1.0.0",
         "policy-controller-operator.v1.0.1",
-        "policy-controller-operator.v1.0.2"
+        "policy-controller-operator.v1.0.2",
+        "policy-controller-operator.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "policy-controller-operator.v1.1.0": ">=1.0.0 <1.1.0"
+      },
       "channels": [
         "stable",
         "stable-v1.0",
+        "stable-v1.1",
         "tech-preview"
       ]
     },
@@ -108400,14 +108619,18 @@
         "policy-controller-operator.v0.0.2-techpreview",
         "policy-controller-operator.v1.0.0",
         "policy-controller-operator.v1.0.1",
-        "policy-controller-operator.v1.0.2"
+        "policy-controller-operator.v1.0.2",
+        "policy-controller-operator.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "policy-controller-operator.v1.1.0": ">=1.0.0 <1.1.0"
+      },
       "channels": [
         "stable",
         "stable-v1.0",
+        "stable-v1.1",
         "tech-preview"
       ]
     },
@@ -108417,14 +108640,18 @@
         "policy-controller-operator.v0.0.2-techpreview",
         "policy-controller-operator.v1.0.0",
         "policy-controller-operator.v1.0.1",
-        "policy-controller-operator.v1.0.2"
+        "policy-controller-operator.v1.0.2",
+        "policy-controller-operator.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "policy-controller-operator.v1.1.0": ">=1.0.0 <1.1.0"
+      },
       "channels": [
         "stable",
         "stable-v1.0",
+        "stable-v1.1",
         "tech-preview"
       ]
     },
@@ -108434,14 +108661,18 @@
         "policy-controller-operator.v0.0.2-techpreview",
         "policy-controller-operator.v1.0.0",
         "policy-controller-operator.v1.0.1",
-        "policy-controller-operator.v1.0.2"
+        "policy-controller-operator.v1.0.2",
+        "policy-controller-operator.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "policy-controller-operator.v1.1.0": ">=1.0.0 <1.1.0"
+      },
       "channels": [
         "stable",
         "stable-v1.0",
+        "stable-v1.1",
         "tech-preview"
       ]
     },
@@ -108451,14 +108682,18 @@
         "policy-controller-operator.v0.0.2-techpreview",
         "policy-controller-operator.v1.0.0",
         "policy-controller-operator.v1.0.1",
-        "policy-controller-operator.v1.0.2"
+        "policy-controller-operator.v1.0.2",
+        "policy-controller-operator.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "policy-controller-operator.v1.1.0": ">=1.0.0 <1.1.0"
+      },
       "channels": [
         "stable",
         "stable-v1.0",
+        "stable-v1.1",
         "tech-preview"
       ]
     },
@@ -108468,28 +108703,36 @@
         "policy-controller-operator.v0.0.2-techpreview",
         "policy-controller-operator.v1.0.0",
         "policy-controller-operator.v1.0.1",
-        "policy-controller-operator.v1.0.2"
+        "policy-controller-operator.v1.0.2",
+        "policy-controller-operator.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "policy-controller-operator.v1.1.0": ">=1.0.0 <1.1.0"
+      },
       "channels": [
         "stable",
         "stable-v1.0",
+        "stable-v1.1",
         "tech-preview"
       ]
     },
     "4.22": {
       "versions": [
         "policy-controller-operator.v1.0.1",
-        "policy-controller-operator.v1.0.2"
+        "policy-controller-operator.v1.0.2",
+        "policy-controller-operator.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
-      "skipRanges": {},
+      "skipRanges": {
+        "policy-controller-operator.v1.1.0": ">=1.0.0 <1.1.0"
+      },
       "channels": [
         "stable",
-        "stable-v1.0"
+        "stable-v1.0",
+        "stable-v1.1"
       ]
     }
   },
@@ -111070,7 +111313,8 @@
         "smb-csi-driver-operator.v4.21.0-202609011326",
         "smb-csi-driver-operator.v4.21.0-202609090243",
         "smb-csi-driver-operator.v4.21.0-202609150222",
-        "smb-csi-driver-operator.v4.21.0-202609200356"
+        "smb-csi-driver-operator.v4.21.0-202609200356",
+        "smb-csi-driver-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [],
@@ -111106,7 +111350,8 @@
         "smb-csi-driver-operator.v4.21.0-202609011326": ">=4.15.0-0 <4.21.0",
         "smb-csi-driver-operator.v4.21.0-202609090243": ">=4.15.0-0 <4.21.0",
         "smb-csi-driver-operator.v4.21.0-202609150222": ">=4.15.0-0 <4.21.0",
-        "smb-csi-driver-operator.v4.21.0-202609200356": ">=4.15.0-0 <4.21.0"
+        "smb-csi-driver-operator.v4.21.0-202609200356": ">=4.15.0-0 <4.21.0",
+        "smb-csi-driver-operator.v4.21.0-202609291522": ">=4.15.0-0 <4.21.0"
       },
       "channels": [
         "stable"
@@ -111129,7 +111374,8 @@
         "smb-csi-driver-operator.v4.22.0-202609011951",
         "smb-csi-driver-operator.v4.22.0-202609081346",
         "smb-csi-driver-operator.v4.22.0-202609151747",
-        "smb-csi-driver-operator.v4.22.0-202609212027"
+        "smb-csi-driver-operator.v4.22.0-202609212027",
+        "smb-csi-driver-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -111149,7 +111395,8 @@
         "smb-csi-driver-operator.v4.22.0-202609011951": ">=4.15.0-0 <4.22.0",
         "smb-csi-driver-operator.v4.22.0-202609081346": ">=4.15.0-0 <4.22.0",
         "smb-csi-driver-operator.v4.22.0-202609151747": ">=4.15.0-0 <4.22.0",
-        "smb-csi-driver-operator.v4.22.0-202609212027": ">=4.15.0-0 <4.22.0"
+        "smb-csi-driver-operator.v4.22.0-202609212027": ">=4.15.0-0 <4.22.0",
+        "smb-csi-driver-operator.v4.22.0-202609291750": ">=4.15.0-0 <4.22.0"
       },
       "channels": [
         "stable"
@@ -114686,7 +114933,8 @@
         "pf-status-relay-operator.v4.21.0-202609011326",
         "pf-status-relay-operator.v4.21.0-202609090243",
         "pf-status-relay-operator.v4.21.0-202609140345",
-        "pf-status-relay-operator.v4.21.0-202609200356"
+        "pf-status-relay-operator.v4.21.0-202609200356",
+        "pf-status-relay-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114720,7 +114968,8 @@
         "pf-status-relay-operator.v4.21.0-202609011326": ">=4.3.0-0 <4.19.0",
         "pf-status-relay-operator.v4.21.0-202609090243": ">=4.3.0-0 <4.19.0",
         "pf-status-relay-operator.v4.21.0-202609140345": ">=4.3.0-0 <4.19.0",
-        "pf-status-relay-operator.v4.21.0-202609200356": ">=4.3.0-0 <4.19.0"
+        "pf-status-relay-operator.v4.21.0-202609200356": ">=4.3.0-0 <4.19.0",
+        "pf-status-relay-operator.v4.21.0-202609291522": ">=4.3.0-0 <4.19.0"
       },
       "channels": [
         "stable"
@@ -114735,7 +114984,8 @@
         "pf-status-relay-operator.v4.22.0-202609011951",
         "pf-status-relay-operator.v4.22.0-202609081346",
         "pf-status-relay-operator.v4.22.0-202609151747",
-        "pf-status-relay-operator.v4.22.0-202609210744"
+        "pf-status-relay-operator.v4.22.0-202609210744",
+        "pf-status-relay-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114747,7 +114997,8 @@
         "pf-status-relay-operator.v4.22.0-202609011951": ">=4.3.0-0 <4.22.0-202609011951",
         "pf-status-relay-operator.v4.22.0-202609081346": ">=4.3.0-0 <4.22.0-202609081346",
         "pf-status-relay-operator.v4.22.0-202609151747": ">=4.3.0-0 <4.22.0-202609151747",
-        "pf-status-relay-operator.v4.22.0-202609210744": ">=4.3.0-0 <4.22.0-202609210744"
+        "pf-status-relay-operator.v4.22.0-202609210744": ">=4.3.0-0 <4.22.0-202609210744",
+        "pf-status-relay-operator.v4.22.0-202609291750": ">=4.3.0-0 <4.22.0-202609291750"
       },
       "channels": [
         "stable"
@@ -115295,7 +115546,8 @@
         "support-log-gather-operator.v4.21.0-202609011326",
         "support-log-gather-operator.v4.21.0-202609090243",
         "support-log-gather-operator.v4.21.0-202609140345",
-        "support-log-gather-operator.v4.21.0-202609200356"
+        "support-log-gather-operator.v4.21.0-202609200356",
+        "support-log-gather-operator.v4.21.0-202609291522"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [],
@@ -115324,7 +115576,8 @@
         "support-log-gather-operator.v4.21.0-202609011326": ">=4.20.0-0 <4.21.0-202609011326",
         "support-log-gather-operator.v4.21.0-202609090243": ">=4.20.0-0 <4.21.0-202609090243",
         "support-log-gather-operator.v4.21.0-202609140345": ">=4.20.0-0 <4.21.0-202609140345",
-        "support-log-gather-operator.v4.21.0-202609200356": ">=4.20.0-0 <4.21.0-202609200356"
+        "support-log-gather-operator.v4.21.0-202609200356": ">=4.20.0-0 <4.21.0-202609200356",
+        "support-log-gather-operator.v4.21.0-202609291522": ">=4.20.0-0 <4.21.0-202609291522"
       },
       "channels": [
         "tech-preview"
@@ -115347,7 +115600,8 @@
         "support-log-gather-operator.v4.22.0-202609011951",
         "support-log-gather-operator.v4.22.0-202609081346",
         "support-log-gather-operator.v4.22.0-202609151747",
-        "support-log-gather-operator.v4.22.0-202609212027"
+        "support-log-gather-operator.v4.22.0-202609212027",
+        "support-log-gather-operator.v4.22.0-202609291750"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -115367,7 +115621,8 @@
         "support-log-gather-operator.v4.22.0-202609011951": ">=4.20.0-0 <4.22.0-202609011951",
         "support-log-gather-operator.v4.22.0-202609081346": ">=4.20.0-0 <4.22.0-202609081346",
         "support-log-gather-operator.v4.22.0-202609151747": ">=4.20.0-0 <4.22.0-202609151747",
-        "support-log-gather-operator.v4.22.0-202609212027": ">=4.20.0-0 <4.22.0-202609212027"
+        "support-log-gather-operator.v4.22.0-202609212027": ">=4.20.0-0 <4.22.0-202609212027",
+        "support-log-gather-operator.v4.22.0-202609291750": ">=4.20.0-0 <4.22.0-202609291750"
       },
       "channels": [
         "tech-preview"
