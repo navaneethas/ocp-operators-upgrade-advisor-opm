@@ -9,8 +9,25 @@ Comprehensive operator compatibility analysis for OCP upgrades.
 
 ## Usage
 
+**Mode 1: Must-gather analysis**
 ```bash
 gemini check operators compatibility for OCP <version> <must-gather-path>
+```
+
+**Mode 2: Single operator lookup (for customer queries)**
+```bash
+gemini check operator <name> version <version> for OCP <version>
+```
+
+**Examples:**
+```bash
+# Must-gather analysis
+gemini check operators compatibility for OCP 4.22 /path/to/must-gather
+
+# Single operator queries
+gemini check operator amq-broker version 7.12.7 for OCP 4.21
+gemini check operator tempo-product version 0.22.0-1 for OCP 4.22
+gemini check operator amq-streams version 3.2.1-11 for OCP 4.21 4.22
 ```
 
 **Download matrix first:**
@@ -93,13 +110,74 @@ def get_compatible_versions(op_name, target_ocp, matrix):
             clean_versions.append(v.rsplit('.', 1)[-1])
     return clean_versions
 
+def check_single_operator(matrix, args):
+    """Check single operator compatibility - for customer queries"""
+    import re
+    
+    # Parse: operator <name> version <version> for OCP <version>
+    args_str = ' '.join(args)
+    op_match = re.search(r'operator\s+([a-zA-Z0-9\-_]+)', args_str, re.I)
+    ver_match = re.search(r'version\s+([a-zA-Z0-9\.\-_]+)', args_str, re.I)
+    ocp_matches = re.findall(r'(\d+\.\d+)', args_str)
+    
+    if not op_match or not ver_match:
+        print("Usage: check operator <name> version <version> for OCP <version>")
+        return
+    
+    op_query = op_match.group(1).lower()
+    current_ver = ver_match.group(1)
+    targets = ocp_matches if ocp_matches else ['4.22']
+    
+    # Find operator (partial match)
+    matches = [k for k in matrix.keys() if op_query.replace('-','') in k.lower().replace('-','')]
+    
+    if not matches:
+        print(f"❌ '{op_query}' not found. Try: amq-broker, tempo-product, amq-streams, etc.")
+        return
+    
+    op_name = matches[0]
+    if len(matches) > 1:
+        print(f"Multiple matches, using: {op_name}\n")
+    
+    print(f"Operator: {op_name} | Current: {current_ver}\n")
+    
+    for target in targets:
+        if target not in matrix[op_name]:
+            print(f"OCP {target}: ❌ Not available")
+            continue
+        
+        versions = matrix[op_name][target].get('versions', [])
+        is_compat = any(current_ver in v for v in versions)
+        
+        if is_compat:
+            print(f"OCP {target}: ✅ SUPPORTED")
+        else:
+            clean = [v.rsplit('.v',1)[-1] if '.v' in v else v.rsplit('.',1)[-1] for v in versions[:15]]
+            print(f"OCP {target}: ❌ NOT SUPPORTED")
+            print(f"  Available: {clean[0]} (latest) ← {clean[-1]} (oldest)")
+            print(f"  Versions: {', '.join(clean[:8])}")
+            print(f"  Recommendation: Upgrade to {clean[0]}")
+        print()
+
 def main():
-    if len(sys.argv) < 3:
-        print("Usage: check operators compatibility for OCP <version> <must-gather-path>")
+    args = sys.argv[1:]
+    
+    # Detect mode: single operator lookup vs must-gather analysis
+    if 'operator' in ' '.join(args).lower() and 'version' in ' '.join(args).lower():
+        # Single operator mode
+        matrix = load_matrix()
+        check_single_operator(matrix, args)
+        return
+    
+    # Must-gather mode
+    if len(args) < 3:
+        print("Usage:")
+        print("  Must-gather: check operators compatibility for OCP <version> <must-gather-path>")
+        print("  Single op:   check operator <name> version <version> for OCP <version>")
         sys.exit(1)
     
-    target = next((a for a in sys.argv if '.' in a and a.replace('.','').isdigit()), None)
-    mg_path = next((a for a in sys.argv if os.path.exists(a)), None)
+    target = next((a for a in args if '.' in a and a.replace('.','').isdigit()), None)
+    mg_path = next((a for a in args if os.path.exists(a)), None)
     
     if not target or not mg_path:
         print("❌ Missing OCP version or must-gather path"); sys.exit(1)
