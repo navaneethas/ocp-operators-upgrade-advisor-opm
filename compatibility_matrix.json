@@ -20780,7 +20780,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -20818,7 +20817,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -20871,6 +20869,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -20934,7 +20933,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -20974,7 +20972,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -21012,7 +21009,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -21125,8 +21121,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -21168,7 +21163,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -21206,7 +21200,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -21259,6 +21252,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -21322,7 +21316,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -21362,7 +21355,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -21400,7 +21392,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -21513,8 +21504,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -21556,7 +21546,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -21594,7 +21583,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -21647,6 +21635,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -21710,7 +21699,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -21750,7 +21738,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -21788,7 +21775,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -21901,8 +21887,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -21944,7 +21929,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -21982,7 +21966,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -22035,6 +22018,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.6.0",
         "container-security-operator.v3.6.1",
@@ -22097,7 +22081,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -22136,7 +22119,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -22174,7 +22156,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -22287,8 +22268,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -22329,7 +22309,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -22367,7 +22346,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -22420,6 +22398,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -22483,7 +22462,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -22523,7 +22501,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -22561,7 +22538,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -22674,8 +22650,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -22717,7 +22692,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -22755,7 +22729,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -22806,8 +22779,8 @@
         "container-security-operator.v3.17.2",
         "container-security-operator.v3.17.3",
         "container-security-operator.v3.17.4",
-        "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -22871,7 +22844,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -22911,7 +22883,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -22949,7 +22920,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -22993,7 +22963,6 @@
         "container-security-operator.v3.17.2": ">=3.14.0 <3.17.2",
         "container-security-operator.v3.17.3": ">=3.14.0 <3.17.3",
         "container-security-operator.v3.17.4": ">=3.14.0 <3.17.4",
-        "container-security-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "container-security-operator.v3.18.0": ">=3.15.x <3.18.0",
         "container-security-operator.v3.6.0": ">=3.3.x <3.6.0",
         "container-security-operator.v3.6.1": ">=3.3.x <3.6.1",
@@ -23062,8 +23031,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -23105,7 +23073,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -23143,7 +23110,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -23196,6 +23162,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -23259,7 +23226,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -23299,7 +23265,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -23337,7 +23302,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -23450,8 +23414,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -23493,7 +23456,6 @@
         "container-security-operator.v3.10.24",
         "container-security-operator.v3.10.25",
         "container-security-operator.v3.10.26",
-        "container-security-operator.v3.10.27",
         "container-security-operator.v3.10.3",
         "container-security-operator.v3.10.4",
         "container-security-operator.v3.10.5",
@@ -23531,7 +23493,6 @@
         "container-security-operator.v3.12.20",
         "container-security-operator.v3.12.21",
         "container-security-operator.v3.12.22",
-        "container-security-operator.v3.12.23",
         "container-security-operator.v3.12.3",
         "container-security-operator.v3.12.4",
         "container-security-operator.v3.12.5",
@@ -23584,6 +23545,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -23647,7 +23609,6 @@
         "container-security-operator.v3.9.24",
         "container-security-operator.v3.9.25",
         "container-security-operator.v3.9.26",
-        "container-security-operator.v3.9.27",
         "container-security-operator.v3.9.3",
         "container-security-operator.v3.9.4",
         "container-security-operator.v3.9.5",
@@ -23687,7 +23648,6 @@
         "container-security-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "container-security-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "container-security-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "container-security-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "container-security-operator.v3.11.0": ">=3.8.x <3.11.0",
         "container-security-operator.v3.11.1": ">=3.8.x <3.11.1",
         "container-security-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -23725,7 +23685,6 @@
         "container-security-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "container-security-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "container-security-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "container-security-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "container-security-operator.v3.13.0": ">=3.10.x <3.13.0",
         "container-security-operator.v3.13.1": ">=3.10.x <3.13.1",
         "container-security-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -23838,8 +23797,7 @@
         "container-security-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "container-security-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "container-security-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "container-security-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "container-security-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -23956,6 +23914,7 @@
         "container-security-operator.v3.17.4",
         "container-security-operator.v3.17.5",
         "container-security-operator.v3.18.0",
+        "container-security-operator.v3.18.1",
         "container-security-operator.v3.4.7",
         "container-security-operator.v3.5.7",
         "container-security-operator.v3.6.0",
@@ -24243,7 +24202,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24281,7 +24241,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24319,7 +24280,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24357,7 +24319,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24395,7 +24358,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24433,7 +24397,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24471,7 +24436,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24509,7 +24475,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24547,7 +24514,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24585,7 +24553,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -24623,7 +24592,8 @@
         "costmanagement-metrics-operator.4.3.1",
         "costmanagement-metrics-operator.4.4.0",
         "costmanagement-metrics-operator.4.4.1",
-        "costmanagement-metrics-operator.4.4.2"
+        "costmanagement-metrics-operator.4.4.2",
+        "costmanagement-metrics-operator.4.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -45428,15 +45398,18 @@
         "lvms-operator.v4.18.1",
         "lvms-operator.v4.18.2",
         "lvms-operator.v4.18.3",
+        "lvms-operator.v4.18.4",
+        "lvms-operator.v4.18.5",
         "lvms-operator.v4.19.0",
         "lvms-operator.v4.19.1",
         "lvms-operator.v4.19.2",
-        "lvms-operator.v4.19.3"
+        "lvms-operator.v4.19.3",
+        "lvms-operator.v4.19.4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
-        "lvms-operator.v4.19.3": ">=4.2.0 <4.19.3"
+        "lvms-operator.v4.19.4": ">=4.2.0 <4.19.4"
       },
       "channels": [
         "stable-4.18",
@@ -69831,8 +69804,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0"
       ],
       "maxOCPVersion": "4.15",
       "dependencies": [],
@@ -69885,8 +69857,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0"
       },
       "channels": [
         "latest",
@@ -70026,8 +69997,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -70073,8 +70043,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0"
       },
       "channels": [
         "latest",
@@ -70218,8 +70187,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -70265,8 +70233,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0"
       },
       "channels": [
         "latest",
@@ -70325,8 +70292,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -70372,8 +70338,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0"
       },
       "channels": [
         "latest",
@@ -70432,8 +70397,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -70479,8 +70443,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0"
       },
       "channels": [
         "latest",
@@ -70539,8 +70502,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -70586,8 +70548,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0"
       },
       "channels": [
         "latest",
@@ -70619,8 +70580,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -70639,8 +70599,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
-        "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1"
+        "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0"
       },
       "channels": [
         "latest",
@@ -71020,6 +70979,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71062,7 +71022,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71093,6 +71054,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71135,7 +71097,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71166,6 +71129,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71208,7 +71172,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71239,6 +71204,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71281,7 +71247,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71312,6 +71279,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71354,7 +71322,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71385,6 +71354,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71427,7 +71397,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71458,6 +71429,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71500,7 +71472,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71531,6 +71504,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71573,7 +71547,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71604,6 +71579,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71646,7 +71622,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71677,6 +71654,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71719,7 +71697,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -71750,6 +71729,7 @@
         "opentelemetry-operator.v0.152.0-3",
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
         "opentelemetry-operator.v0.74.0-5",
@@ -71792,7 +71772,8 @@
         "opentelemetry-operator.v0.152.0-2": ">=0.33.0 <0.152.0-2",
         "opentelemetry-operator.v0.152.0-3": ">=0.33.0 <0.152.0-3",
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
-        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2"
+        "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
+        "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3"
       },
       "channels": [
         "stable"
@@ -73765,7 +73746,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -73803,7 +73783,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -73856,6 +73835,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -73919,7 +73899,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -73959,7 +73938,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -73997,7 +73975,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -74043,6 +74020,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -74110,8 +74088,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -74153,7 +74130,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -74191,7 +74167,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -74244,6 +74219,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -74307,7 +74283,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -74347,7 +74322,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -74385,7 +74359,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -74431,6 +74404,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -74498,8 +74472,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -74541,7 +74514,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -74579,7 +74551,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -74632,6 +74603,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -74695,7 +74667,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -74735,7 +74706,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -74773,7 +74743,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -74819,6 +74788,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -74886,8 +74856,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -74929,7 +74898,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -74967,7 +74935,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -75020,6 +74987,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.6.0",
         "quay-bridge-operator.v3.6.1",
@@ -75082,7 +75050,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -75121,7 +75088,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -75159,7 +75125,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -75205,6 +75170,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -75272,8 +75238,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -75314,7 +75279,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -75352,7 +75316,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -75405,6 +75368,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -75468,7 +75432,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -75508,7 +75471,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -75546,7 +75508,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -75592,6 +75553,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -75659,8 +75621,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -75702,7 +75663,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -75740,7 +75700,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -75791,8 +75750,8 @@
         "quay-bridge-operator.v3.17.2",
         "quay-bridge-operator.v3.17.3",
         "quay-bridge-operator.v3.17.4",
-        "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -75856,7 +75815,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -75896,7 +75854,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -75934,7 +75891,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -75978,8 +75934,8 @@
         "quay-bridge-operator.v3.17.2": ">=3.14.0 <3.17.2",
         "quay-bridge-operator.v3.17.3": ">=3.14.0 <3.17.3",
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
-        "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -76047,8 +76003,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -76090,7 +76045,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -76128,7 +76082,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -76181,6 +76134,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -76244,7 +76198,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -76284,7 +76237,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -76322,7 +76274,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -76368,6 +76319,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -76435,8 +76387,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -76478,7 +76429,6 @@
         "quay-bridge-operator.v3.10.24",
         "quay-bridge-operator.v3.10.25",
         "quay-bridge-operator.v3.10.26",
-        "quay-bridge-operator.v3.10.27",
         "quay-bridge-operator.v3.10.3",
         "quay-bridge-operator.v3.10.4",
         "quay-bridge-operator.v3.10.5",
@@ -76516,7 +76466,6 @@
         "quay-bridge-operator.v3.12.20",
         "quay-bridge-operator.v3.12.21",
         "quay-bridge-operator.v3.12.22",
-        "quay-bridge-operator.v3.12.23",
         "quay-bridge-operator.v3.12.3",
         "quay-bridge-operator.v3.12.4",
         "quay-bridge-operator.v3.12.5",
@@ -76569,6 +76518,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -76632,7 +76582,6 @@
         "quay-bridge-operator.v3.9.24",
         "quay-bridge-operator.v3.9.25",
         "quay-bridge-operator.v3.9.26",
-        "quay-bridge-operator.v3.9.27",
         "quay-bridge-operator.v3.9.3",
         "quay-bridge-operator.v3.9.4",
         "quay-bridge-operator.v3.9.5",
@@ -76672,7 +76621,6 @@
         "quay-bridge-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-bridge-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-bridge-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-bridge-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-bridge-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-bridge-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-bridge-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -76710,7 +76658,6 @@
         "quay-bridge-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-bridge-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-bridge-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-bridge-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-bridge-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-bridge-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-bridge-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -76756,6 +76703,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -76823,8 +76771,7 @@
         "quay-bridge-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-bridge-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-bridge-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-bridge-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-bridge-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -76941,6 +76888,7 @@
         "quay-bridge-operator.v3.17.4",
         "quay-bridge-operator.v3.17.5",
         "quay-bridge-operator.v3.18.0",
+        "quay-bridge-operator.v3.18.1",
         "quay-bridge-operator.v3.4.7",
         "quay-bridge-operator.v3.5.7",
         "quay-bridge-operator.v3.6.0",
@@ -77111,6 +77059,7 @@
         "quay-bridge-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-bridge-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-bridge-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-bridge-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-bridge-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-bridge-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-bridge-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -77221,7 +77170,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -77259,7 +77207,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -77312,6 +77259,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -77405,7 +77353,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -77443,7 +77390,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -77489,6 +77435,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -77957,7 +77904,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -77995,7 +77941,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -78048,6 +77993,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -78101,7 +78047,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -78141,7 +78086,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -78179,7 +78123,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -78225,6 +78168,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -78282,8 +78226,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -78325,7 +78268,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -78363,7 +78305,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -78416,6 +78357,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -78469,7 +78411,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -78509,7 +78450,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -78547,7 +78487,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -78593,6 +78532,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -78650,8 +78590,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -78693,7 +78632,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -78731,7 +78669,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -78784,6 +78721,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -78837,7 +78775,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -78877,7 +78814,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -78915,7 +78851,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -78961,6 +78896,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -79018,8 +78954,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -79061,7 +78996,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -79099,7 +79033,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -79152,6 +79085,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.6.0",
         "quay-operator.v3.6.1",
@@ -79204,7 +79138,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -79243,7 +79176,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -79281,7 +79213,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -79327,6 +79258,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -79384,8 +79316,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -79426,7 +79357,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -79464,7 +79394,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -79517,6 +79446,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -79570,7 +79500,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -79610,7 +79539,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -79648,7 +79576,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -79694,6 +79621,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -79751,8 +79679,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -79794,7 +79721,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -79832,7 +79758,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -79883,8 +79808,8 @@
         "quay-operator.v3.17.2",
         "quay-operator.v3.17.3",
         "quay-operator.v3.17.4",
-        "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -79938,7 +79863,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -79978,7 +79902,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -80016,7 +79939,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -80060,8 +79982,8 @@
         "quay-operator.v3.17.2": ">=3.14.0 <3.17.2",
         "quay-operator.v3.17.3": ">=3.14.0 <3.17.3",
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
-        "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -80119,8 +80041,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -80162,7 +80083,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -80200,7 +80120,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -80253,6 +80172,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -80306,7 +80226,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -80346,7 +80265,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -80384,7 +80302,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -80430,6 +80347,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -80487,8 +80405,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -80530,7 +80447,6 @@
         "quay-operator.v3.10.24",
         "quay-operator.v3.10.25",
         "quay-operator.v3.10.26",
-        "quay-operator.v3.10.27",
         "quay-operator.v3.10.3",
         "quay-operator.v3.10.4",
         "quay-operator.v3.10.5",
@@ -80568,7 +80484,6 @@
         "quay-operator.v3.12.20",
         "quay-operator.v3.12.21",
         "quay-operator.v3.12.22",
-        "quay-operator.v3.12.23",
         "quay-operator.v3.12.3",
         "quay-operator.v3.12.4",
         "quay-operator.v3.12.5",
@@ -80621,6 +80536,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -80674,7 +80590,6 @@
         "quay-operator.v3.9.24",
         "quay-operator.v3.9.25",
         "quay-operator.v3.9.26",
-        "quay-operator.v3.9.27",
         "quay-operator.v3.9.3",
         "quay-operator.v3.9.4",
         "quay-operator.v3.9.5",
@@ -80714,7 +80629,6 @@
         "quay-operator.v3.10.24": ">=3.7.0 <3.10.24",
         "quay-operator.v3.10.25": ">=3.7.0 <3.10.25",
         "quay-operator.v3.10.26": ">=3.7.0 <3.10.26",
-        "quay-operator.v3.10.27": ">=3.7.0 <3.10.27",
         "quay-operator.v3.11.0": ">=3.8.x <3.11.0",
         "quay-operator.v3.11.1": ">=3.8.x <3.11.1",
         "quay-operator.v3.11.10": ">=3.8.x <3.11.10",
@@ -80752,7 +80666,6 @@
         "quay-operator.v3.12.20": ">=3.9.0 <3.12.20",
         "quay-operator.v3.12.21": ">=3.9.0 <3.12.21",
         "quay-operator.v3.12.22": ">=3.9.0 <3.12.22",
-        "quay-operator.v3.12.23": ">=3.9.0 <3.12.23",
         "quay-operator.v3.13.0": ">=3.10.x <3.13.0",
         "quay-operator.v3.13.1": ">=3.10.x <3.13.1",
         "quay-operator.v3.13.2": ">=3.10.x <3.13.2",
@@ -80798,6 +80711,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -80855,8 +80769,7 @@
         "quay-operator.v3.9.23": ">=3.6.0 <3.9.23",
         "quay-operator.v3.9.24": ">=3.6.0 <3.9.24",
         "quay-operator.v3.9.25": ">=3.6.0 <3.9.25",
-        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26",
-        "quay-operator.v3.9.27": ">=3.6.0 <3.9.27"
+        "quay-operator.v3.9.26": ">=3.6.0 <3.9.26"
       },
       "channels": [
         "quay-v3.4",
@@ -80973,6 +80886,7 @@
         "quay-operator.v3.17.4",
         "quay-operator.v3.17.5",
         "quay-operator.v3.18.0",
+        "quay-operator.v3.18.1",
         "quay-operator.v3.4.7",
         "quay-operator.v3.5.7",
         "quay-operator.v3.6.0",
@@ -81133,6 +81047,7 @@
         "quay-operator.v3.17.4": ">=3.14.0 <3.17.4",
         "quay-operator.v3.17.5": ">=3.14.0 <3.17.5",
         "quay-operator.v3.18.0": ">=3.15.x <3.18.0",
+        "quay-operator.v3.18.1": ">=3.14.x <3.18.1",
         "quay-operator.v3.6.0": ">=3.3.x <3.6.0",
         "quay-operator.v3.6.1": ">=3.3.x <3.6.1",
         "quay-operator.v3.6.10": ">=3.3.x <3.6.10",
@@ -82491,7 +82406,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -82517,7 +82433,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -82574,7 +82491,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -82600,7 +82518,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -82657,7 +82576,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -82683,7 +82603,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -82740,7 +82661,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -82766,7 +82688,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -82823,7 +82746,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -82849,7 +82773,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -82906,7 +82831,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -82932,7 +82858,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -82989,7 +82916,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83015,7 +82943,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83072,7 +83001,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83098,7 +83028,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83155,7 +83086,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83181,7 +83113,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83238,7 +83171,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83264,7 +83198,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83321,7 +83256,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83347,7 +83283,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1789396956.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1789593980.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -103223,14 +103160,16 @@
       "versions": [
         "windows-machine-config-operator.v10.19.0",
         "windows-machine-config-operator.v10.19.1",
-        "windows-machine-config-operator.v10.19.2"
+        "windows-machine-config-operator.v10.19.2",
+        "windows-machine-config-operator.v10.19.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "windows-machine-config-operator.v10.19.0": ">=10.18.0 <10.19.0",
         "windows-machine-config-operator.v10.19.1": ">=10.18.0 <10.19.1",
-        "windows-machine-config-operator.v10.19.2": ">=10.18.0 <10.19.2"
+        "windows-machine-config-operator.v10.19.2": ">=10.18.0 <10.19.2",
+        "windows-machine-config-operator.v10.19.3": ">=10.18.0 <10.19.3"
       },
       "channels": [
         "stable"
@@ -106474,7 +106413,8 @@
         "lightspeed-operator.v1.1.1",
         "lightspeed-operator.v1.1.2",
         "lightspeed-operator.v1.1.3",
-        "lightspeed-operator.v1.1.4"
+        "lightspeed-operator.v1.1.4",
+        "lightspeed-operator.v1.1.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106498,7 +106438,8 @@
         "lightspeed-operator.v1.1.1",
         "lightspeed-operator.v1.1.2",
         "lightspeed-operator.v1.1.3",
-        "lightspeed-operator.v1.1.4"
+        "lightspeed-operator.v1.1.4",
+        "lightspeed-operator.v1.1.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106522,7 +106463,8 @@
         "lightspeed-operator.v1.1.1",
         "lightspeed-operator.v1.1.2",
         "lightspeed-operator.v1.1.3",
-        "lightspeed-operator.v1.1.4"
+        "lightspeed-operator.v1.1.4",
+        "lightspeed-operator.v1.1.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106546,7 +106488,8 @@
         "lightspeed-operator.v1.1.1",
         "lightspeed-operator.v1.1.2",
         "lightspeed-operator.v1.1.3",
-        "lightspeed-operator.v1.1.4"
+        "lightspeed-operator.v1.1.4",
+        "lightspeed-operator.v1.1.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106570,7 +106513,8 @@
         "lightspeed-operator.v1.1.1",
         "lightspeed-operator.v1.1.2",
         "lightspeed-operator.v1.1.3",
-        "lightspeed-operator.v1.1.4"
+        "lightspeed-operator.v1.1.4",
+        "lightspeed-operator.v1.1.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106594,7 +106538,8 @@
         "lightspeed-operator.v1.1.1",
         "lightspeed-operator.v1.1.2",
         "lightspeed-operator.v1.1.3",
-        "lightspeed-operator.v1.1.4"
+        "lightspeed-operator.v1.1.4",
+        "lightspeed-operator.v1.1.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106618,7 +106563,8 @@
         "lightspeed-operator.v1.1.1",
         "lightspeed-operator.v1.1.2",
         "lightspeed-operator.v1.1.3",
-        "lightspeed-operator.v1.1.4"
+        "lightspeed-operator.v1.1.4",
+        "lightspeed-operator.v1.1.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -115104,7 +115050,8 @@
         "zero-trust-workload-identity-manager.v1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2",
         "zero-trust-workload-identity-manager.v1.1.0",
-        "zero-trust-workload-identity-manager.v1.1.1"
+        "zero-trust-workload-identity-manager.v1.1.1",
+        "zero-trust-workload-identity-manager.v1.1.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -115125,7 +115072,8 @@
         "zero-trust-workload-identity-manager.v1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2",
         "zero-trust-workload-identity-manager.v1.1.0",
-        "zero-trust-workload-identity-manager.v1.1.1"
+        "zero-trust-workload-identity-manager.v1.1.1",
+        "zero-trust-workload-identity-manager.v1.1.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -115143,7 +115091,8 @@
     "4.22": {
       "versions": [
         "zero-trust-workload-identity-manager.v1.1.0",
-        "zero-trust-workload-identity-manager.v1.1.1"
+        "zero-trust-workload-identity-manager.v1.1.1",
+        "zero-trust-workload-identity-manager.v1.1.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
