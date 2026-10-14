@@ -17084,6 +17084,7 @@
         "cluster-logging.v6.0.14",
         "cluster-logging.v6.0.15",
         "cluster-logging.v6.0.16",
+        "cluster-logging.v6.0.17",
         "cluster-logging.v6.0.2",
         "cluster-logging.v6.0.3",
         "cluster-logging.v6.0.4",
@@ -17168,7 +17169,8 @@
         "cluster-logging.v6.0.13": ">=5.8.0-0 <6.0.13",
         "cluster-logging.v6.0.14": ">=5.8.0-0 <6.0.14",
         "cluster-logging.v6.0.15": ">=5.8.0-0 <6.0.15",
-        "cluster-logging.v6.0.16": ">=5.8.0-0 <6.0.16"
+        "cluster-logging.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "cluster-logging.v6.0.17": ">=5.8.0-0 <6.0.17"
       },
       "channels": [
         "stable",
@@ -17229,6 +17231,7 @@
         "cluster-logging.v6.0.14",
         "cluster-logging.v6.0.15",
         "cluster-logging.v6.0.16",
+        "cluster-logging.v6.0.17",
         "cluster-logging.v6.0.2",
         "cluster-logging.v6.0.3",
         "cluster-logging.v6.0.4",
@@ -17308,6 +17311,7 @@
         "cluster-logging.v6.0.14": ">=5.8.0-0 <6.0.14",
         "cluster-logging.v6.0.15": ">=5.8.0-0 <6.0.15",
         "cluster-logging.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "cluster-logging.v6.0.17": ">=5.8.0-0 <6.0.17",
         "cluster-logging.v6.1.0": ">=5.9.0-0 <6.1.0",
         "cluster-logging.v6.1.1": ">=5.9.0-0 <6.1.1",
         "cluster-logging.v6.1.2": ">=5.9.0-0 <6.1.2",
@@ -17378,6 +17382,7 @@
         "cluster-logging.v6.0.14",
         "cluster-logging.v6.0.15",
         "cluster-logging.v6.0.16",
+        "cluster-logging.v6.0.17",
         "cluster-logging.v6.0.2",
         "cluster-logging.v6.0.3",
         "cluster-logging.v6.0.4",
@@ -17471,6 +17476,7 @@
         "cluster-logging.v6.0.14": ">=5.8.0-0 <6.0.14",
         "cluster-logging.v6.0.15": ">=5.8.0-0 <6.0.15",
         "cluster-logging.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "cluster-logging.v6.0.17": ">=5.8.0-0 <6.0.17",
         "cluster-logging.v6.1.0": ">=5.9.0-0 <6.1.0",
         "cluster-logging.v6.1.1": ">=5.9.0-0 <6.1.1",
         "cluster-logging.v6.1.2": ">=5.9.0-0 <6.1.2",
@@ -17539,6 +17545,7 @@
         "cluster-logging.v6.0.14",
         "cluster-logging.v6.0.15",
         "cluster-logging.v6.0.16",
+        "cluster-logging.v6.0.17",
         "cluster-logging.v6.0.2",
         "cluster-logging.v6.0.3",
         "cluster-logging.v6.0.4",
@@ -17620,6 +17627,7 @@
         "cluster-logging.v6.0.14": ">=5.8.0-0 <6.0.14",
         "cluster-logging.v6.0.15": ">=5.8.0-0 <6.0.15",
         "cluster-logging.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "cluster-logging.v6.0.17": ">=5.8.0-0 <6.0.17",
         "cluster-logging.v6.1.0": ">=5.9.0-0 <6.1.0",
         "cluster-logging.v6.1.1": ">=5.9.0-0 <6.1.1",
         "cluster-logging.v6.1.2": ">=5.9.0-0 <6.1.2",
@@ -42358,6 +42366,7 @@
         "kubevirt-hyperconverged-operator.v4.20.3",
         "kubevirt-hyperconverged-operator.v4.20.30",
         "kubevirt-hyperconverged-operator.v4.20.31",
+        "kubevirt-hyperconverged-operator.v4.20.32",
         "kubevirt-hyperconverged-operator.v4.20.4",
         "kubevirt-hyperconverged-operator.v4.20.5",
         "kubevirt-hyperconverged-operator.v4.20.6",
@@ -42399,6 +42408,7 @@
         "kubevirt-hyperconverged-operator.v4.20.29": ">=4.20.0 <4.20.29",
         "kubevirt-hyperconverged-operator.v4.20.30": ">=4.20.0 <4.20.30",
         "kubevirt-hyperconverged-operator.v4.20.31": ">=4.20.0 <4.20.31",
+        "kubevirt-hyperconverged-operator.v4.20.32": ">=4.20.0 <4.20.32",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -42476,6 +42486,7 @@
         "kubevirt-hyperconverged-operator.v4.21.20",
         "kubevirt-hyperconverged-operator.v4.21.21",
         "kubevirt-hyperconverged-operator.v4.21.22",
+        "kubevirt-hyperconverged-operator.v4.21.23",
         "kubevirt-hyperconverged-operator.v4.21.3",
         "kubevirt-hyperconverged-operator.v4.21.4",
         "kubevirt-hyperconverged-operator.v4.21.5",
@@ -42509,6 +42520,7 @@
         "kubevirt-hyperconverged-operator.v4.21.20": ">=4.21.0 <4.21.20",
         "kubevirt-hyperconverged-operator.v4.21.21": ">=4.21.0 <4.21.21",
         "kubevirt-hyperconverged-operator.v4.21.22": ">=4.21.0 <4.21.22",
+        "kubevirt-hyperconverged-operator.v4.21.23": ">=4.21.0 <4.21.23",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -44318,6 +44330,7 @@
         "loki-operator.v6.0.14",
         "loki-operator.v6.0.15",
         "loki-operator.v6.0.16",
+        "loki-operator.v6.0.17",
         "loki-operator.v6.0.2",
         "loki-operator.v6.0.3",
         "loki-operator.v6.0.4",
@@ -44402,7 +44415,8 @@
         "loki-operator.v6.0.13": ">=5.8.0-0 <6.0.13",
         "loki-operator.v6.0.14": ">=5.8.0-0 <6.0.14",
         "loki-operator.v6.0.15": ">=5.8.0-0 <6.0.15",
-        "loki-operator.v6.0.16": ">=5.8.0-0 <6.0.16"
+        "loki-operator.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "loki-operator.v6.0.17": ">=5.8.0-0 <6.0.17"
       },
       "channels": [
         "stable",
@@ -44463,6 +44477,7 @@
         "loki-operator.v6.0.14",
         "loki-operator.v6.0.15",
         "loki-operator.v6.0.16",
+        "loki-operator.v6.0.17",
         "loki-operator.v6.0.2",
         "loki-operator.v6.0.3",
         "loki-operator.v6.0.4",
@@ -44542,6 +44557,7 @@
         "loki-operator.v6.0.14": ">=5.8.0-0 <6.0.14",
         "loki-operator.v6.0.15": ">=5.8.0-0 <6.0.15",
         "loki-operator.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "loki-operator.v6.0.17": ">=5.8.0-0 <6.0.17",
         "loki-operator.v6.1.0": ">=5.9.0-0 <6.1.0",
         "loki-operator.v6.1.1": ">=5.9.0-0 <6.1.1",
         "loki-operator.v6.1.2": ">=5.9.0-0 <6.1.2",
@@ -44589,6 +44605,7 @@
         "loki-operator.v6.0.14",
         "loki-operator.v6.0.15",
         "loki-operator.v6.0.16",
+        "loki-operator.v6.0.17",
         "loki-operator.v6.0.2",
         "loki-operator.v6.0.3",
         "loki-operator.v6.0.4",
@@ -44659,6 +44676,7 @@
         "loki-operator.v6.0.14": ">=5.8.0-0 <6.0.14",
         "loki-operator.v6.0.15": ">=5.8.0-0 <6.0.15",
         "loki-operator.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "loki-operator.v6.0.17": ">=5.8.0-0 <6.0.17",
         "loki-operator.v6.1.0": ">=5.9.0-0 <6.1.0",
         "loki-operator.v6.1.1": ">=5.9.0-0 <6.1.1",
         "loki-operator.v6.1.2": ">=5.9.0-0 <6.1.2",
@@ -44703,6 +44721,7 @@
         "loki-operator.v6.0.14",
         "loki-operator.v6.0.15",
         "loki-operator.v6.0.16",
+        "loki-operator.v6.0.17",
         "loki-operator.v6.0.2",
         "loki-operator.v6.0.3",
         "loki-operator.v6.0.4",
@@ -44761,6 +44780,7 @@
         "loki-operator.v6.0.14": ">=5.8.0-0 <6.0.14",
         "loki-operator.v6.0.15": ">=5.8.0-0 <6.0.15",
         "loki-operator.v6.0.16": ">=5.8.0-0 <6.0.16",
+        "loki-operator.v6.0.17": ">=5.8.0-0 <6.0.17",
         "loki-operator.v6.1.0": ">=5.9.0-0 <6.1.0",
         "loki-operator.v6.1.1": ">=5.9.0-0 <6.1.1",
         "loki-operator.v6.1.2": ">=5.9.0-0 <6.1.2",
@@ -48729,8 +48749,8 @@
         "mta-operator.v8.2.0",
         "mta-operator.v8.2.1",
         "mta-operator.v8.2.2",
-        "mta-operator.v8.2.3",
-        "mta-operator.v8.3.0"
+        "mta-operator.v8.3.0",
+        "mta-operator.v8.3.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -48774,8 +48794,8 @@
         "mta-operator.v8.2.0": ">=8.0.0 <8.2.0",
         "mta-operator.v8.2.1": ">=8.0.0 <8.2.1",
         "mta-operator.v8.2.2": ">=8.0.0 <8.2.2",
-        "mta-operator.v8.2.3": ">=8.0.0 <8.2.3",
-        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0"
+        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0",
+        "mta-operator.v8.3.1": ">=8.0.0 <8.3.1"
       },
       "channels": [
         "stable-v6.0",
@@ -48828,8 +48848,8 @@
         "mta-operator.v8.2.0",
         "mta-operator.v8.2.1",
         "mta-operator.v8.2.2",
-        "mta-operator.v8.2.3",
-        "mta-operator.v8.3.0"
+        "mta-operator.v8.3.0",
+        "mta-operator.v8.3.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -48873,8 +48893,8 @@
         "mta-operator.v8.2.0": ">=8.0.0 <8.2.0",
         "mta-operator.v8.2.1": ">=8.0.0 <8.2.1",
         "mta-operator.v8.2.2": ">=8.0.0 <8.2.2",
-        "mta-operator.v8.2.3": ">=8.0.0 <8.2.3",
-        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0"
+        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0",
+        "mta-operator.v8.3.1": ">=8.0.0 <8.3.1"
       },
       "channels": [
         "stable-v6.0",
@@ -48927,8 +48947,8 @@
         "mta-operator.v8.2.0",
         "mta-operator.v8.2.1",
         "mta-operator.v8.2.2",
-        "mta-operator.v8.2.3",
-        "mta-operator.v8.3.0"
+        "mta-operator.v8.3.0",
+        "mta-operator.v8.3.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -48972,8 +48992,8 @@
         "mta-operator.v8.2.0": ">=8.0.0 <8.2.0",
         "mta-operator.v8.2.1": ">=8.0.0 <8.2.1",
         "mta-operator.v8.2.2": ">=8.0.0 <8.2.2",
-        "mta-operator.v8.2.3": ">=8.0.0 <8.2.3",
-        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0"
+        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0",
+        "mta-operator.v8.3.1": ">=8.0.0 <8.3.1"
       },
       "channels": [
         "stable-v6.0",
@@ -49026,8 +49046,8 @@
         "mta-operator.v8.2.0",
         "mta-operator.v8.2.1",
         "mta-operator.v8.2.2",
-        "mta-operator.v8.2.3",
-        "mta-operator.v8.3.0"
+        "mta-operator.v8.3.0",
+        "mta-operator.v8.3.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -49071,8 +49091,8 @@
         "mta-operator.v8.2.0": ">=8.0.0 <8.2.0",
         "mta-operator.v8.2.1": ">=8.0.0 <8.2.1",
         "mta-operator.v8.2.2": ">=8.0.0 <8.2.2",
-        "mta-operator.v8.2.3": ">=8.0.0 <8.2.3",
-        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0"
+        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0",
+        "mta-operator.v8.3.1": ">=8.0.0 <8.3.1"
       },
       "channels": [
         "stable-v6.0",
@@ -49119,8 +49139,8 @@
         "mta-operator.v8.0.0",
         "mta-operator.v8.0.1",
         "mta-operator.v8.2.2",
-        "mta-operator.v8.2.3",
-        "mta-operator.v8.3.0"
+        "mta-operator.v8.3.0",
+        "mta-operator.v8.3.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -49158,8 +49178,8 @@
         "mta-operator.v8.0.0": ">=7.3.0 <8.0.0",
         "mta-operator.v8.0.1": ">=7.3.0 <8.0.1",
         "mta-operator.v8.2.2": ">=8.0.0 <8.2.2",
-        "mta-operator.v8.2.3": ">=8.0.0 <8.2.3",
-        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0"
+        "mta-operator.v8.3.0": ">=8.0.0 <8.3.0",
+        "mta-operator.v8.3.1": ">=8.0.0 <8.3.1"
       },
       "channels": [
         "stable-v6.0",
@@ -91009,7 +91029,7 @@
         "rhods-operator.3.4.4",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
-        "rhods-operator.3.6.0-ea.1"
+        "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -91205,7 +91225,7 @@
         "rhods-operator.3.4.4",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
-        "rhods-operator.3.6.0-ea.1"
+        "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -91397,7 +91417,7 @@
         "rhods-operator.3.4.4",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
-        "rhods-operator.3.6.0-ea.1"
+        "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -91581,7 +91601,7 @@
         "rhods-operator.3.4.4",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
-        "rhods-operator.3.6.0-ea.1"
+        "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -112817,7 +112837,8 @@
     "4.18": {
       "versions": [
         "automation-portal-operator.v2.2.20260909",
-        "automation-portal-operator.v2.2.20260929"
+        "automation-portal-operator.v2.2.20260929",
+        "automation-portal-operator.v2.2.20261013"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -112829,7 +112850,8 @@
     "4.19": {
       "versions": [
         "automation-portal-operator.v2.2.20260909",
-        "automation-portal-operator.v2.2.20260929"
+        "automation-portal-operator.v2.2.20260929",
+        "automation-portal-operator.v2.2.20261013"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -112841,7 +112863,8 @@
     "4.20": {
       "versions": [
         "automation-portal-operator.v2.2.20260909",
-        "automation-portal-operator.v2.2.20260929"
+        "automation-portal-operator.v2.2.20260929",
+        "automation-portal-operator.v2.2.20261013"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -112853,7 +112876,8 @@
     "4.21": {
       "versions": [
         "automation-portal-operator.v2.2.20260909",
-        "automation-portal-operator.v2.2.20260929"
+        "automation-portal-operator.v2.2.20260929",
+        "automation-portal-operator.v2.2.20261013"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -112865,7 +112889,8 @@
     "4.22": {
       "versions": [
         "automation-portal-operator.v2.2.20260909",
-        "automation-portal-operator.v2.2.20260929"
+        "automation-portal-operator.v2.2.20260929",
+        "automation-portal-operator.v2.2.20261013"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -115885,7 +115910,8 @@
       "versions": [
         "o-cloud-manager.v4.22.0",
         "o-cloud-manager.v4.22.1",
-        "o-cloud-manager.v4.22.2"
+        "o-cloud-manager.v4.22.2",
+        "o-cloud-manager.v4.22.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -115894,6 +115920,7 @@
         "4.22.0",
         "4.22.1",
         "4.22.2",
+        "4.22.3",
         "stable"
       ]
     }
