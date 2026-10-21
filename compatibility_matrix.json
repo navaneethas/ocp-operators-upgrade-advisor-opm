@@ -3303,7 +3303,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3389,7 +3390,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -3471,6 +3473,7 @@
         "amqstreams.v2.9.4-5",
         "amqstreams.v2.9.4-6",
         "amqstreams.v2.9.4-7",
+        "amqstreams.v2.9.4-8",
         "amqstreams.v3.0.0-13",
         "amqstreams.v3.0.1-1",
         "amqstreams.v3.0.1-2",
@@ -3491,7 +3494,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3555,6 +3559,7 @@
         "amqstreams.v2.9.4-5": ">=2.5.0-0 <2.9.4-5",
         "amqstreams.v2.9.4-6": ">=2.5.0-0 <2.9.4-6",
         "amqstreams.v2.9.4-7": ">=2.5.0-0 <2.9.4-7",
+        "amqstreams.v2.9.4-8": ">=2.5.0-0 <2.9.4-8",
         "amq-streams.v3.0.0-9": ">=2.9.0-0 <3.0.0-9",
         "amqstreams.v3.0.0-13": ">=2.9.0-0 <3.0.0-13",
         "amqstreams.v3.0.1-1": ">=2.9.0-0 <3.0.1-1",
@@ -3576,7 +3581,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -3679,7 +3685,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3765,7 +3772,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -3868,7 +3876,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3954,7 +3963,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -4057,7 +4067,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -4143,7 +4154,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -4246,7 +4258,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -4332,7 +4345,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -4435,7 +4449,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -4521,7 +4536,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -4624,7 +4640,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -4710,7 +4727,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -4813,7 +4831,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -4899,7 +4918,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -5002,7 +5022,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5088,7 +5109,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -5191,7 +5213,8 @@
         "amqstreams.v3.2.1-10",
         "amqstreams.v3.2.1-11",
         "amqstreams.v3.2.1-14",
-        "amqstreams.v3.2.1-8"
+        "amqstreams.v3.2.1-8",
+        "amqstreams.v3.2.2-5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5277,7 +5300,8 @@
         "amqstreams.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amqstreams.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amqstreams.v3.2.1-14": ">=3.1.0-0 <3.2.1-14",
-        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8"
+        "amqstreams.v3.2.1-8": ">=3.1.0-0 <3.2.1-8",
+        "amqstreams.v3.2.2-5": ">=0.0.0-0 <3.2.2-5"
       },
       "channels": [
         "amq-streams-2.2.x",
@@ -5350,7 +5374,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5402,7 +5427,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -5441,6 +5467,7 @@
         "amq-streams-console.v2.9.4-10",
         "amq-streams-console.v2.9.4-11",
         "amq-streams-console.v2.9.4-14",
+        "amq-streams-console.v2.9.4-15",
         "amq-streams-console.v2.9.4-3",
         "amq-streams-console.v2.9.4-5",
         "amq-streams-console.v2.9.4-7",
@@ -5466,7 +5493,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5497,6 +5525,7 @@
         "amq-streams-console.v2.9.4-10": ">=2.8.0-0 <2.9.4-10",
         "amq-streams-console.v2.9.4-11": ">=2.8.0-0 <2.9.4-11",
         "amq-streams-console.v2.9.4-14": ">=2.8.0-0 <2.9.4-14",
+        "amq-streams-console.v2.9.4-15": ">=2.8.0-0 <2.9.4-15",
         "amq-streams-console.v2.9.4-3": ">=2.8.0-0 <2.9.4-3",
         "amq-streams-console.v2.9.4-5": ">=2.8.0-0 <2.9.4-5",
         "amq-streams-console.v2.9.4-7": ">=2.8.0-0 <2.9.4-7",
@@ -5517,7 +5546,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -5582,7 +5612,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5634,7 +5665,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -5699,7 +5731,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5751,7 +5784,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -5816,7 +5850,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5868,7 +5903,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -5933,7 +5969,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -5985,7 +6022,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -6050,7 +6088,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6102,7 +6141,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -6167,7 +6207,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6219,7 +6260,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -6284,7 +6326,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6336,7 +6379,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -6401,7 +6445,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6453,7 +6498,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -6518,7 +6564,8 @@
         "amq-streams-console.v3.2.1-10",
         "amq-streams-console.v3.2.1-3",
         "amq-streams-console.v3.2.1-5",
-        "amq-streams-console.v3.2.1-7"
+        "amq-streams-console.v3.2.1-7",
+        "amq-streams-console.v3.2.2-3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6570,7 +6617,8 @@
         "amq-streams-console.v3.2.1-10": ">=3.1.0-0 <3.2.1-10",
         "amq-streams-console.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-console.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-console.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-console.v3.2.2-3": ">=0.0.0-0 <3.2.2-3"
       },
       "channels": [
         "alpha",
@@ -6608,7 +6656,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6631,7 +6680,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -6664,7 +6714,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6687,7 +6738,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -6720,7 +6772,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6743,7 +6796,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -6776,7 +6830,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6799,7 +6854,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -6832,7 +6888,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6855,7 +6912,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -6888,7 +6946,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6911,7 +6970,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -6944,7 +7004,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -6967,7 +7028,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -7000,7 +7062,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -7023,7 +7086,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -7056,7 +7120,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -7079,7 +7144,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -7112,7 +7178,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -7135,7 +7202,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -7168,7 +7236,8 @@
         "amq-streams-proxy.v3.2.1-11",
         "amq-streams-proxy.v3.2.1-3",
         "amq-streams-proxy.v3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -7191,7 +7260,8 @@
         "amq-streams-proxy.v3.2.1-11": ">=3.1.0-0 <3.2.1-11",
         "amq-streams-proxy.v3.2.1-3": ">=3.1.0-0 <3.2.1-3",
         "amq-streams-proxy.v3.2.1-5": ">=3.1.0-0 <3.2.1-5",
-        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7"
+        "amq-streams-proxy.v3.2.1-7": ">=3.1.0-0 <3.2.1-7",
+        "amq-streams-proxy.v3.2.2-4": ">=0.0.0-0 <3.2.2-4"
       },
       "channels": [
         "alpha",
@@ -8319,6 +8389,8 @@
         "aap-operator.v2.6.0-0.1787258256",
         "aap-operator.v2.6.0-0.1789677985",
         "aap-operator.v2.6.0-0.1789678003",
+        "aap-operator.v2.6.0-0.1791996292",
+        "aap-operator.v2.6.0-0.1791996347",
         "aap-operator.v2.7.0-0.1779173639",
         "aap-operator.v2.7.0-0.1779173658",
         "aap-operator.v2.7.0-0.1780540119",
@@ -8342,7 +8414,9 @@
         "aap-operator.v2.7.0-0.1790279903",
         "aap-operator.v2.7.0-0.1790279930",
         "aap-operator.v2.7.0-0.1791268465",
-        "aap-operator.v2.7.0-0.1791268467"
+        "aap-operator.v2.7.0-0.1791268467",
+        "aap-operator.v2.7.0-0.1792432839",
+        "aap-operator.v2.7.0-0.1792432849"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -8518,6 +8592,7 @@
         "aap-operator.v2.6.0-0.1785788621": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1787258175": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1789677985": ">=2.4.0-0.1727257740 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996347": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1758685241": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1759764962": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1760139657": ">=2.4.0-0.1727259094 <2.6.1",
@@ -8539,6 +8614,7 @@
         "aap-operator.v2.6.0-0.1785788355": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1787258256": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1789678003": ">=2.4.0-0.1727259094 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996292": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.7.0-0.1780540119": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122804": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768237": ">=2.6.0-0 <2.7.1",
@@ -8550,6 +8626,7 @@
         "aap-operator.v2.7.0-0.1789585373": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279930": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1791268465": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432839": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1780540580": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122780": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768244": ">=2.6.0-0 <2.7.1",
@@ -8560,7 +8637,8 @@
         "aap-operator.v2.7.0-0.1788929740": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1789585368": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279903": ">=2.6.0-0 <2.7.1",
-        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1"
+        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432849": ">=2.6.0-0 <2.7.1"
       },
       "channels": [
         "stable-2.4",
@@ -8999,6 +9077,8 @@
         "aap-operator.v2.6.0-0.1787258256",
         "aap-operator.v2.6.0-0.1789677985",
         "aap-operator.v2.6.0-0.1789678003",
+        "aap-operator.v2.6.0-0.1791996292",
+        "aap-operator.v2.6.0-0.1791996347",
         "aap-operator.v2.7.0-0.1779173639",
         "aap-operator.v2.7.0-0.1779173658",
         "aap-operator.v2.7.0-0.1780540119",
@@ -9022,7 +9102,9 @@
         "aap-operator.v2.7.0-0.1790279903",
         "aap-operator.v2.7.0-0.1790279930",
         "aap-operator.v2.7.0-0.1791268465",
-        "aap-operator.v2.7.0-0.1791268467"
+        "aap-operator.v2.7.0-0.1791268467",
+        "aap-operator.v2.7.0-0.1792432839",
+        "aap-operator.v2.7.0-0.1792432849"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -9198,6 +9280,7 @@
         "aap-operator.v2.6.0-0.1785788621": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1787258175": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1789677985": ">=2.4.0-0.1727257740 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996347": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1758685241": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1759764962": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1760139657": ">=2.4.0-0.1727259094 <2.6.1",
@@ -9219,6 +9302,7 @@
         "aap-operator.v2.6.0-0.1785788355": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1787258256": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1789678003": ">=2.4.0-0.1727259094 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996292": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.7.0-0.1780540119": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122804": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768237": ">=2.6.0-0 <2.7.1",
@@ -9230,6 +9314,7 @@
         "aap-operator.v2.7.0-0.1789585373": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279930": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1791268465": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432839": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1780540580": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122780": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768244": ">=2.6.0-0 <2.7.1",
@@ -9240,7 +9325,8 @@
         "aap-operator.v2.7.0-0.1788929740": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1789585368": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279903": ">=2.6.0-0 <2.7.1",
-        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1"
+        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432849": ">=2.6.0-0 <2.7.1"
       },
       "channels": [
         "stable-2.4",
@@ -9671,6 +9757,8 @@
         "aap-operator.v2.6.0-0.1787258256",
         "aap-operator.v2.6.0-0.1789677985",
         "aap-operator.v2.6.0-0.1789678003",
+        "aap-operator.v2.6.0-0.1791996292",
+        "aap-operator.v2.6.0-0.1791996347",
         "aap-operator.v2.7.0-0.1779173639",
         "aap-operator.v2.7.0-0.1779173658",
         "aap-operator.v2.7.0-0.1780540119",
@@ -9694,7 +9782,9 @@
         "aap-operator.v2.7.0-0.1790279903",
         "aap-operator.v2.7.0-0.1790279930",
         "aap-operator.v2.7.0-0.1791268465",
-        "aap-operator.v2.7.0-0.1791268467"
+        "aap-operator.v2.7.0-0.1791268467",
+        "aap-operator.v2.7.0-0.1792432839",
+        "aap-operator.v2.7.0-0.1792432849"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -9830,6 +9920,7 @@
         "aap-operator.v2.6.0-0.1785788621": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1787258175": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1789677985": ">=2.4.0-0.1727257740 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996347": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1758685241": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1759764962": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1760139657": ">=2.4.0-0.1727259094 <2.6.1",
@@ -9851,6 +9942,7 @@
         "aap-operator.v2.6.0-0.1785788355": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1787258256": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1789678003": ">=2.4.0-0.1727259094 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996292": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.7.0-0.1780540119": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122804": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768237": ">=2.6.0-0 <2.7.1",
@@ -9862,6 +9954,7 @@
         "aap-operator.v2.7.0-0.1789585373": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279930": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1791268465": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432839": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1780540580": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122780": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768244": ">=2.6.0-0 <2.7.1",
@@ -9872,7 +9965,8 @@
         "aap-operator.v2.7.0-0.1788929740": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1789585368": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279903": ">=2.6.0-0 <2.7.1",
-        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1"
+        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432849": ">=2.6.0-0 <2.7.1"
       },
       "channels": [
         "stable-2.4",
@@ -10023,6 +10117,8 @@
         "aap-operator.v2.6.0-0.1787258256",
         "aap-operator.v2.6.0-0.1789677985",
         "aap-operator.v2.6.0-0.1789678003",
+        "aap-operator.v2.6.0-0.1791996292",
+        "aap-operator.v2.6.0-0.1791996347",
         "aap-operator.v2.7.0-0.1779173639",
         "aap-operator.v2.7.0-0.1779173658",
         "aap-operator.v2.7.0-0.1780540119",
@@ -10046,7 +10142,9 @@
         "aap-operator.v2.7.0-0.1790279903",
         "aap-operator.v2.7.0-0.1790279930",
         "aap-operator.v2.7.0-0.1791268465",
-        "aap-operator.v2.7.0-0.1791268467"
+        "aap-operator.v2.7.0-0.1791268467",
+        "aap-operator.v2.7.0-0.1792432839",
+        "aap-operator.v2.7.0-0.1792432849"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -10162,6 +10260,7 @@
         "aap-operator.v2.6.0-0.1785788621": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1787258175": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1789677985": ">=2.4.0-0.1727257740 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996347": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1758685241": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1759764962": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1760139657": ">=2.4.0-0.1727259094 <2.6.1",
@@ -10183,6 +10282,7 @@
         "aap-operator.v2.6.0-0.1785788355": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1787258256": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1789678003": ">=2.4.0-0.1727259094 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996292": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.7.0-0.1780540119": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122804": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768237": ">=2.6.0-0 <2.7.1",
@@ -10194,6 +10294,7 @@
         "aap-operator.v2.7.0-0.1789585373": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279930": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1791268465": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432839": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1780540580": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122780": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768244": ">=2.6.0-0 <2.7.1",
@@ -10204,7 +10305,8 @@
         "aap-operator.v2.7.0-0.1788929740": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1789585368": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279903": ">=2.6.0-0 <2.7.1",
-        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1"
+        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432849": ">=2.6.0-0 <2.7.1"
       },
       "channels": [
         "stable-2.4",
@@ -10355,6 +10457,8 @@
         "aap-operator.v2.6.0-0.1787258256",
         "aap-operator.v2.6.0-0.1789677985",
         "aap-operator.v2.6.0-0.1789678003",
+        "aap-operator.v2.6.0-0.1791996292",
+        "aap-operator.v2.6.0-0.1791996347",
         "aap-operator.v2.7.0-0.1779173639",
         "aap-operator.v2.7.0-0.1779173658",
         "aap-operator.v2.7.0-0.1780540119",
@@ -10378,7 +10482,9 @@
         "aap-operator.v2.7.0-0.1790279903",
         "aap-operator.v2.7.0-0.1790279930",
         "aap-operator.v2.7.0-0.1791268465",
-        "aap-operator.v2.7.0-0.1791268467"
+        "aap-operator.v2.7.0-0.1791268467",
+        "aap-operator.v2.7.0-0.1792432839",
+        "aap-operator.v2.7.0-0.1792432849"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -10494,6 +10600,7 @@
         "aap-operator.v2.6.0-0.1785788621": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1787258175": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1789677985": ">=2.4.0-0.1727257740 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996347": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1758685241": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1759764962": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1760139657": ">=2.4.0-0.1727259094 <2.6.1",
@@ -10515,6 +10622,7 @@
         "aap-operator.v2.6.0-0.1785788355": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1787258256": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1789678003": ">=2.4.0-0.1727259094 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996292": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.7.0-0.1780540119": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122804": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768237": ">=2.6.0-0 <2.7.1",
@@ -10526,6 +10634,7 @@
         "aap-operator.v2.7.0-0.1789585373": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279930": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1791268465": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432839": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1780540580": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122780": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768244": ">=2.6.0-0 <2.7.1",
@@ -10536,7 +10645,8 @@
         "aap-operator.v2.7.0-0.1788929740": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1789585368": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279903": ">=2.6.0-0 <2.7.1",
-        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1"
+        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432849": ">=2.6.0-0 <2.7.1"
       },
       "channels": [
         "stable-2.4",
@@ -10643,6 +10753,8 @@
         "aap-operator.v2.6.0-0.1787258256",
         "aap-operator.v2.6.0-0.1789677985",
         "aap-operator.v2.6.0-0.1789678003",
+        "aap-operator.v2.6.0-0.1791996292",
+        "aap-operator.v2.6.0-0.1791996347",
         "aap-operator.v2.7.0-0.1779173639",
         "aap-operator.v2.7.0-0.1779173658",
         "aap-operator.v2.7.0-0.1780540119",
@@ -10666,7 +10778,9 @@
         "aap-operator.v2.7.0-0.1790279903",
         "aap-operator.v2.7.0-0.1790279930",
         "aap-operator.v2.7.0-0.1791268465",
-        "aap-operator.v2.7.0-0.1791268467"
+        "aap-operator.v2.7.0-0.1791268467",
+        "aap-operator.v2.7.0-0.1792432839",
+        "aap-operator.v2.7.0-0.1792432849"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -10740,6 +10854,7 @@
         "aap-operator.v2.6.0-0.1785788621": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1787258175": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1789677985": ">=2.4.0-0.1727257740 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996347": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1758685241": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1759764962": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1760139657": ">=2.4.0-0.1727259094 <2.6.1",
@@ -10761,6 +10876,7 @@
         "aap-operator.v2.6.0-0.1785788355": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1787258256": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1789678003": ">=2.4.0-0.1727259094 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996292": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.7.0-0.1780540119": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122804": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768237": ">=2.6.0-0 <2.7.1",
@@ -10772,6 +10888,7 @@
         "aap-operator.v2.7.0-0.1789585373": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279930": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1791268465": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432839": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1780540580": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122780": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768244": ">=2.6.0-0 <2.7.1",
@@ -10782,7 +10899,8 @@
         "aap-operator.v2.7.0-0.1788929740": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1789585368": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279903": ">=2.6.0-0 <2.7.1",
-        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1"
+        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432849": ">=2.6.0-0 <2.7.1"
       },
       "channels": [
         "stable-2.5",
@@ -10813,6 +10931,8 @@
         "aap-operator.v2.6.0-0.1787258256",
         "aap-operator.v2.6.0-0.1789677985",
         "aap-operator.v2.6.0-0.1789678003",
+        "aap-operator.v2.6.0-0.1791996292",
+        "aap-operator.v2.6.0-0.1791996347",
         "aap-operator.v2.7.0-0.1779173639",
         "aap-operator.v2.7.0-0.1779173658",
         "aap-operator.v2.7.0-0.1780540119",
@@ -10836,7 +10956,9 @@
         "aap-operator.v2.7.0-0.1790279903",
         "aap-operator.v2.7.0-0.1790279930",
         "aap-operator.v2.7.0-0.1791268465",
-        "aap-operator.v2.7.0-0.1791268467"
+        "aap-operator.v2.7.0-0.1791268467",
+        "aap-operator.v2.7.0-0.1792432839",
+        "aap-operator.v2.7.0-0.1792432849"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -10849,6 +10971,7 @@
         "aap-operator.v2.6.0-0.1785788621": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1787258175": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1789677985": ">=2.4.0-0.1727257740 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996347": ">=2.4.0-0.1727257740 <2.6.1",
         "aap-operator.v2.6.0-0.1781740361": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1782771219": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1783030319": ">=2.4.0-0.1727259094 <2.6.1",
@@ -10857,6 +10980,7 @@
         "aap-operator.v2.6.0-0.1785788355": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1787258256": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.6.0-0.1789678003": ">=2.4.0-0.1727259094 <2.6.1",
+        "aap-operator.v2.6.0-0.1791996292": ">=2.4.0-0.1727259094 <2.6.1",
         "aap-operator.v2.7.0-0.1780540119": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122804": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768237": ">=2.6.0-0 <2.7.1",
@@ -10868,6 +10992,7 @@
         "aap-operator.v2.7.0-0.1789585373": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279930": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1791268465": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432839": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1780540580": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781122780": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1781768244": ">=2.6.0-0 <2.7.1",
@@ -10878,7 +11003,8 @@
         "aap-operator.v2.7.0-0.1788929740": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1789585368": ">=2.6.0-0 <2.7.1",
         "aap-operator.v2.7.0-0.1790279903": ">=2.6.0-0 <2.7.1",
-        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1"
+        "aap-operator.v2.7.0-0.1791268467": ">=2.6.0-0 <2.7.1",
+        "aap-operator.v2.7.0-0.1792432849": ">=2.6.0-0 <2.7.1"
       },
       "channels": [
         "stable-2.6",
@@ -13901,7 +14027,8 @@
         "aws-efs-csi-driver-operator.v4.19.0-202609140248",
         "aws-efs-csi-driver-operator.v4.19.0-202609221000",
         "aws-efs-csi-driver-operator.v4.19.0-202609300236",
-        "aws-efs-csi-driver-operator.v4.19.0-202610070607"
+        "aws-efs-csi-driver-operator.v4.19.0-202610070607",
+        "aws-efs-csi-driver-operator.v4.19.0-202610092148"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -13951,7 +14078,8 @@
         "aws-efs-csi-driver-operator.v4.19.0-202609140248": ">=4.9.0-0 <4.19.0-202609140248",
         "aws-efs-csi-driver-operator.v4.19.0-202609221000": ">=4.9.0-0 <4.19.0-202609221000",
         "aws-efs-csi-driver-operator.v4.19.0-202609300236": ">=4.9.0-0 <4.19.0-202609300236",
-        "aws-efs-csi-driver-operator.v4.19.0-202610070607": ">=4.9.0-0 <4.19.0-202610070607"
+        "aws-efs-csi-driver-operator.v4.19.0-202610070607": ">=4.9.0-0 <4.19.0-202610070607",
+        "aws-efs-csi-driver-operator.v4.19.0-202610092148": ">=4.9.0-0 <4.19.0-202610092148"
       },
       "channels": [
         "stable"
@@ -19354,7 +19482,8 @@
         "clusterresourceoverride-operator.v4.19.0-202609140248",
         "clusterresourceoverride-operator.v4.19.0-202609201432",
         "clusterresourceoverride-operator.v4.19.0-202609281351",
-        "clusterresourceoverride-operator.v4.19.0-202609302021"
+        "clusterresourceoverride-operator.v4.19.0-202609302021",
+        "clusterresourceoverride-operator.v4.19.0-202610100905"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -19401,7 +19530,8 @@
         "clusterresourceoverride-operator.v4.19.0-202609140248": ">=4.3.0 <4.19.0-202609140248",
         "clusterresourceoverride-operator.v4.19.0-202609201432": ">=4.3.0 <4.19.0-202609201432",
         "clusterresourceoverride-operator.v4.19.0-202609281351": ">=4.3.0 <4.19.0-202609281351",
-        "clusterresourceoverride-operator.v4.19.0-202609302021": ">=4.3.0 <4.19.0-202609302021"
+        "clusterresourceoverride-operator.v4.19.0-202609302021": ">=4.3.0 <4.19.0-202609302021",
+        "clusterresourceoverride-operator.v4.19.0-202610100905": ">=4.3.0 <4.19.0-202610100905"
       },
       "channels": [
         "stable"
@@ -36474,7 +36604,8 @@
         "gcp-filestore-csi-driver-operator.v4.19.0-202609140248",
         "gcp-filestore-csi-driver-operator.v4.19.0-202609200358",
         "gcp-filestore-csi-driver-operator.v4.19.0-202609281945",
-        "gcp-filestore-csi-driver-operator.v4.19.0-202610061542"
+        "gcp-filestore-csi-driver-operator.v4.19.0-202610061542",
+        "gcp-filestore-csi-driver-operator.v4.19.0-202610092148"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -36520,7 +36651,8 @@
         "gcp-filestore-csi-driver-operator.v4.19.0-202609140248": ">=4.11.0-0 <4.19.0",
         "gcp-filestore-csi-driver-operator.v4.19.0-202609200358": ">=4.11.0-0 <4.19.0",
         "gcp-filestore-csi-driver-operator.v4.19.0-202609281945": ">=4.11.0-0 <4.19.0",
-        "gcp-filestore-csi-driver-operator.v4.19.0-202610061542": ">=4.11.0-0 <4.19.0"
+        "gcp-filestore-csi-driver-operator.v4.19.0-202610061542": ">=4.11.0-0 <4.19.0",
+        "gcp-filestore-csi-driver-operator.v4.19.0-202610092148": ">=4.11.0-0 <4.19.0"
       },
       "channels": [
         "stable"
@@ -37434,7 +37566,8 @@
         "ingress-node-firewall.v4.19.0-202609140248",
         "ingress-node-firewall.v4.19.0-202609200358",
         "ingress-node-firewall.v4.19.0-202609281351",
-        "ingress-node-firewall.v4.19.0-202609302021"
+        "ingress-node-firewall.v4.19.0-202609302021",
+        "ingress-node-firewall.v4.19.0-202610100905"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -37481,7 +37614,8 @@
         "ingress-node-firewall.v4.19.0-202609140248": ">=4.11.0 <4.19.0",
         "ingress-node-firewall.v4.19.0-202609200358": ">=4.11.0 <4.19.0",
         "ingress-node-firewall.v4.19.0-202609281351": ">=4.11.0 <4.19.0",
-        "ingress-node-firewall.v4.19.0-202609302021": ">=4.11.0 <4.19.0"
+        "ingress-node-firewall.v4.19.0-202609302021": ">=4.11.0 <4.19.0",
+        "ingress-node-firewall.v4.19.0-202610100905": ">=4.11.0 <4.19.0"
       },
       "channels": [
         "stable"
@@ -41438,7 +41572,8 @@
         "kubernetes-nmstate-operator.4.19.0-202609150302",
         "kubernetes-nmstate-operator.4.19.0-202609221208",
         "kubernetes-nmstate-operator.4.19.0-202609281351",
-        "kubernetes-nmstate-operator.4.19.0-202610051910"
+        "kubernetes-nmstate-operator.4.19.0-202610051910",
+        "kubernetes-nmstate-operator.4.19.0-202610131618"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -41486,7 +41621,8 @@
         "kubernetes-nmstate-operator.4.19.0-202609150302": ">=4.3.0 <4.19.0-202609150302",
         "kubernetes-nmstate-operator.4.19.0-202609221208": ">=4.3.0 <4.19.0-202609221208",
         "kubernetes-nmstate-operator.4.19.0-202609281351": ">=4.3.0 <4.19.0-202609281351",
-        "kubernetes-nmstate-operator.4.19.0-202610051910": ">=4.3.0 <4.19.0-202610051910"
+        "kubernetes-nmstate-operator.4.19.0-202610051910": ">=4.3.0 <4.19.0-202610051910",
+        "kubernetes-nmstate-operator.4.19.0-202610131618": ">=4.3.0 <4.19.0-202610131618"
       },
       "channels": [
         "stable"
@@ -43784,7 +43920,8 @@
         "local-storage-operator.v4.19.0-202609140248",
         "local-storage-operator.v4.19.0-202609200358",
         "local-storage-operator.v4.19.0-202609281945",
-        "local-storage-operator.v4.19.0-202609302021"
+        "local-storage-operator.v4.19.0-202609302021",
+        "local-storage-operator.v4.19.0-202610131836"
       ],
       "maxOCPVersion": "4.20",
       "dependencies": [],
@@ -43831,7 +43968,8 @@
         "local-storage-operator.v4.19.0-202609140248": ">=4.3.0 <4.19.0-202609140248",
         "local-storage-operator.v4.19.0-202609200358": ">=4.3.0 <4.19.0-202609200358",
         "local-storage-operator.v4.19.0-202609281945": ">=4.3.0 <4.19.0-202609281945",
-        "local-storage-operator.v4.19.0-202609302021": ">=4.3.0 <4.19.0-202609302021"
+        "local-storage-operator.v4.19.0-202609302021": ">=4.3.0 <4.19.0-202609302021",
+        "local-storage-operator.v4.19.0-202610131836": ">=4.3.0 <4.19.0-202610131836"
       },
       "channels": [
         "stable"
@@ -48224,7 +48362,8 @@
         "metallb-operator.v4.19.0-202609140248",
         "metallb-operator.v4.19.0-202609200358",
         "metallb-operator.v4.19.0-202609281351",
-        "metallb-operator.v4.19.0-202609302021"
+        "metallb-operator.v4.19.0-202609302021",
+        "metallb-operator.v4.19.0-202610100905"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -48273,7 +48412,8 @@
         "metallb-operator.v4.19.0-202609140248": ">=4.8.0 <4.19.0",
         "metallb-operator.v4.19.0-202609200358": ">=4.8.0 <4.19.0",
         "metallb-operator.v4.19.0-202609281351": ">=4.8.0 <4.19.0",
-        "metallb-operator.v4.19.0-202609302021": ">=4.8.0 <4.19.0"
+        "metallb-operator.v4.19.0-202609302021": ">=4.8.0 <4.19.0",
+        "metallb-operator.v4.19.0-202610100905": ">=4.8.0 <4.19.0"
       },
       "channels": [
         "stable"
@@ -52932,7 +53072,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -52970,7 +53111,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53008,7 +53150,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53046,7 +53189,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53084,7 +53228,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53122,7 +53267,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53160,7 +53306,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53198,7 +53345,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53236,7 +53384,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53274,7 +53423,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53312,7 +53462,8 @@
         "network-observability-operator.v1.9.0",
         "network-observability-operator.v1.9.1",
         "network-observability-operator.v1.9.2",
-        "network-observability-operator.v1.9.3"
+        "network-observability-operator.v1.9.3",
+        "network-observability-operator.v2.0.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -54161,7 +54312,8 @@
         "nfd.4.19.0-202609140248",
         "nfd.4.19.0-202609200358",
         "nfd.4.19.0-202609281351",
-        "nfd.4.19.0-202609302021"
+        "nfd.4.19.0-202609302021",
+        "nfd.4.19.0-202610100905"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -54208,7 +54360,8 @@
         "nfd.4.19.0-202609140248": ">=4.9.0 <4.19.0-202609140248",
         "nfd.4.19.0-202609200358": ">=4.9.0 <4.19.0-202609200358",
         "nfd.4.19.0-202609281351": ">=4.9.0 <4.19.0-202609281351",
-        "nfd.4.19.0-202609302021": ">=4.9.0 <4.19.0-202609302021"
+        "nfd.4.19.0-202609302021": ">=4.9.0 <4.19.0-202609302021",
+        "nfd.4.19.0-202610100905": ">=4.9.0 <4.19.0-202610100905"
       },
       "channels": [
         "stable"
@@ -55411,7 +55564,8 @@
         "numaresources-operator.v4.20.0",
         "numaresources-operator.v4.20.1",
         "numaresources-operator.v4.20.2",
-        "numaresources-operator.v4.20.3"
+        "numaresources-operator.v4.20.3",
+        "numaresources-operator.v4.20.4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -55419,7 +55573,8 @@
         "numaresources-operator.v4.20.0": ">=4.18.0 <4.20.0",
         "numaresources-operator.v4.20.1": ">=4.18.0 <4.20.1",
         "numaresources-operator.v4.20.2": ">=4.18.0 <4.20.2",
-        "numaresources-operator.v4.20.3": ">=4.18.0 <4.20.3"
+        "numaresources-operator.v4.20.3": ">=4.18.0 <4.20.3",
+        "numaresources-operator.v4.20.4": ">=4.18.0 <4.20.4"
       },
       "channels": [
         "4.20",
@@ -55451,13 +55606,15 @@
     "4.22": {
       "versions": [
         "numaresources-operator.v4.22.0",
-        "numaresources-operator.v4.22.1"
+        "numaresources-operator.v4.22.1",
+        "numaresources-operator.v4.22.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "numaresources-operator.v4.22.0": ">=4.20.0 <4.22.0",
-        "numaresources-operator.v4.22.1": ">=4.20.0 <4.22.1"
+        "numaresources-operator.v4.22.1": ">=4.20.0 <4.22.1",
+        "numaresources-operator.v4.22.2": ">=4.20.0 <4.22.2"
       },
       "channels": [
         "4.22",
@@ -73581,7 +73738,8 @@
         "ptp-operator.v4.19.0-202609150302",
         "ptp-operator.v4.19.0-202609200358",
         "ptp-operator.v4.19.0-202609281351",
-        "ptp-operator.v4.19.0-202609302021"
+        "ptp-operator.v4.19.0-202609302021",
+        "ptp-operator.v4.19.0-202610130827"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -73629,7 +73787,8 @@
         "ptp-operator.v4.19.0-202609150302": ">=4.3.0-0 <4.19.0-202609150302",
         "ptp-operator.v4.19.0-202609200358": ">=4.3.0-0 <4.19.0-202609200358",
         "ptp-operator.v4.19.0-202609281351": ">=4.3.0-0 <4.19.0-202609281351",
-        "ptp-operator.v4.19.0-202609302021": ">=4.3.0-0 <4.19.0-202609302021"
+        "ptp-operator.v4.19.0-202609302021": ">=4.3.0-0 <4.19.0-202609302021",
+        "ptp-operator.v4.19.0-202610130827": ">=4.3.0-0 <4.19.0-202610130827"
       },
       "channels": [
         "stable"
@@ -91890,6 +92049,7 @@
         "rhods-operator.3.4.5",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
+        "rhods-operator.3.5.2",
         "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
@@ -91971,7 +92131,8 @@
         "rhods-operator.3.4.4": ">=3.3.0 <3.4.4",
         "rhods-operator.3.4.5": ">=3.3.0 <3.4.5",
         "rhods-operator.3.5.0": ">=2.25.10 <2.26.0",
-        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0"
+        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0",
+        "rhods-operator.3.5.2": ">=2.25.11 <2.26.0"
       },
       "channels": [
         "3.2-exception-support",
@@ -92088,6 +92249,7 @@
         "rhods-operator.3.4.5",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
+        "rhods-operator.3.5.2",
         "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
@@ -92166,7 +92328,8 @@
         "rhods-operator.3.4.4": ">=3.3.0 <3.4.4",
         "rhods-operator.3.4.5": ">=3.3.0 <3.4.5",
         "rhods-operator.3.5.0": ">=2.25.10 <2.26.0",
-        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0"
+        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0",
+        "rhods-operator.3.5.2": ">=2.25.11 <2.26.0"
       },
       "channels": [
         "3.2-exception-support",
@@ -92282,6 +92445,7 @@
         "rhods-operator.3.4.5",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
+        "rhods-operator.3.5.2",
         "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
@@ -92359,7 +92523,8 @@
         "rhods-operator.3.4.4": ">=3.3.0 <3.4.4",
         "rhods-operator.3.4.5": ">=3.3.0 <3.4.5",
         "rhods-operator.3.5.0": ">=2.25.10 <2.26.0",
-        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0"
+        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0",
+        "rhods-operator.3.5.2": ">=2.25.11 <2.26.0"
       },
       "channels": [
         "alpha",
@@ -92468,6 +92633,7 @@
         "rhods-operator.3.4.5",
         "rhods-operator.3.5.0",
         "rhods-operator.3.5.1",
+        "rhods-operator.3.5.2",
         "rhods-operator.3.6.0-ea.2"
       ],
       "maxOCPVersion": null,
@@ -92539,7 +92705,8 @@
         "rhods-operator.3.4.4": ">=3.3.0 <3.4.4",
         "rhods-operator.3.4.5": ">=3.3.0 <3.4.5",
         "rhods-operator.3.5.0": ">=2.25.10 <2.26.0",
-        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0"
+        "rhods-operator.3.5.1": ">=2.25.11 <2.26.0",
+        "rhods-operator.3.5.2": ">=2.25.11 <2.26.0"
       },
       "channels": [
         "alpha",
@@ -99942,7 +100109,8 @@
         "sriov-network-operator.v4.19.0-202609150302",
         "sriov-network-operator.v4.19.0-202609201432",
         "sriov-network-operator.v4.19.0-202609281351",
-        "sriov-network-operator.v4.19.0-202609302021"
+        "sriov-network-operator.v4.19.0-202609302021",
+        "sriov-network-operator.v4.19.0-202610092148"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -99991,7 +100159,8 @@
         "sriov-network-operator.v4.19.0-202609150302": ">=4.3.0-0 <4.19.0-202609150302",
         "sriov-network-operator.v4.19.0-202609201432": ">=4.3.0-0 <4.19.0-202609201432",
         "sriov-network-operator.v4.19.0-202609281351": ">=4.3.0-0 <4.19.0-202609281351",
-        "sriov-network-operator.v4.19.0-202609302021": ">=4.3.0-0 <4.19.0-202609302021"
+        "sriov-network-operator.v4.19.0-202609302021": ">=4.3.0-0 <4.19.0-202609302021",
+        "sriov-network-operator.v4.19.0-202610092148": ">=4.3.0-0 <4.19.0-202610092148"
       },
       "channels": [
         "stable"
@@ -102644,7 +102813,8 @@
         "vertical-pod-autoscaler.v4.19.0-202609150302",
         "vertical-pod-autoscaler.v4.19.0-202609200358",
         "vertical-pod-autoscaler.v4.19.0-202609281351",
-        "vertical-pod-autoscaler.v4.19.0-202609302021"
+        "vertical-pod-autoscaler.v4.19.0-202609302021",
+        "vertical-pod-autoscaler.v4.19.0-202610100905"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -102692,7 +102862,8 @@
         "vertical-pod-autoscaler.v4.19.0-202609150302": ">=4.5.0 <4.19.0",
         "vertical-pod-autoscaler.v4.19.0-202609200358": ">=4.5.0 <4.19.0",
         "vertical-pod-autoscaler.v4.19.0-202609281351": ">=4.5.0 <4.19.0",
-        "vertical-pod-autoscaler.v4.19.0-202609302021": ">=4.5.0 <4.19.0"
+        "vertical-pod-autoscaler.v4.19.0-202609302021": ">=4.5.0 <4.19.0",
+        "vertical-pod-autoscaler.v4.19.0-202610100905": ">=4.5.0 <4.19.0"
       },
       "channels": [
         "stable"
@@ -106489,7 +106660,8 @@
         "secrets-store-csi-driver-operator.v4.19.0-202609150302",
         "secrets-store-csi-driver-operator.v4.19.0-202609200358",
         "secrets-store-csi-driver-operator.v4.19.0-202609281945",
-        "secrets-store-csi-driver-operator.v4.19.0-202609302021"
+        "secrets-store-csi-driver-operator.v4.19.0-202609302021",
+        "secrets-store-csi-driver-operator.v4.19.0-202610100905"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106535,7 +106707,8 @@
         "secrets-store-csi-driver-operator.v4.19.0-202609150302": ">=4.13.0-0 <4.19.0",
         "secrets-store-csi-driver-operator.v4.19.0-202609200358": ">=4.13.0-0 <4.19.0",
         "secrets-store-csi-driver-operator.v4.19.0-202609281945": ">=4.13.0-0 <4.19.0",
-        "secrets-store-csi-driver-operator.v4.19.0-202609302021": ">=4.13.0-0 <4.19.0"
+        "secrets-store-csi-driver-operator.v4.19.0-202609302021": ">=4.13.0-0 <4.19.0",
+        "secrets-store-csi-driver-operator.v4.19.0-202610100905": ">=4.13.0-0 <4.19.0"
       },
       "channels": [
         "stable"
@@ -112953,7 +113126,8 @@
         "smb-csi-driver-operator.v4.19.0-202609140248",
         "smb-csi-driver-operator.v4.19.0-202609200358",
         "smb-csi-driver-operator.v4.19.0-202609281945",
-        "smb-csi-driver-operator.v4.19.0-202609302021"
+        "smb-csi-driver-operator.v4.19.0-202609302021",
+        "smb-csi-driver-operator.v4.19.0-202610092148"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -112999,7 +113173,8 @@
         "smb-csi-driver-operator.v4.19.0-202609140248": ">=4.15.0-0 <4.19.0",
         "smb-csi-driver-operator.v4.19.0-202609200358": ">=4.15.0-0 <4.19.0",
         "smb-csi-driver-operator.v4.19.0-202609281945": ">=4.15.0-0 <4.19.0",
-        "smb-csi-driver-operator.v4.19.0-202609302021": ">=4.15.0-0 <4.19.0"
+        "smb-csi-driver-operator.v4.19.0-202609302021": ">=4.15.0-0 <4.19.0",
+        "smb-csi-driver-operator.v4.19.0-202610092148": ">=4.15.0-0 <4.19.0"
       },
       "channels": [
         "stable"
@@ -116736,7 +116911,8 @@
         "pf-status-relay-operator.v4.19.0-202609140248",
         "pf-status-relay-operator.v4.19.0-202609200358",
         "pf-status-relay-operator.v4.19.0-202609281351",
-        "pf-status-relay-operator.v4.19.0-202609302021"
+        "pf-status-relay-operator.v4.19.0-202609302021",
+        "pf-status-relay-operator.v4.19.0-202610100905"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -116778,7 +116954,8 @@
         "pf-status-relay-operator.v4.19.0-202609140248": ">=4.3.0-0 <4.19.0-202609140248",
         "pf-status-relay-operator.v4.19.0-202609200358": ">=4.3.0-0 <4.19.0-202609200358",
         "pf-status-relay-operator.v4.19.0-202609281351": ">=4.3.0-0 <4.19.0-202609281351",
-        "pf-status-relay-operator.v4.19.0-202609302021": ">=4.3.0-0 <4.19.0-202609302021"
+        "pf-status-relay-operator.v4.19.0-202609302021": ">=4.3.0-0 <4.19.0-202609302021",
+        "pf-status-relay-operator.v4.19.0-202610100905": ">=4.3.0-0 <4.19.0-202610100905"
       },
       "channels": [
         "stable"
