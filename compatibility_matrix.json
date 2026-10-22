@@ -13460,7 +13460,8 @@
         "aws-efs-csi-driver-operator.v4.14.0-202608171931",
         "aws-efs-csi-driver-operator.v4.14.0-202609011214",
         "aws-efs-csi-driver-operator.v4.14.0-202609150333",
-        "aws-efs-csi-driver-operator.v4.14.0-202609282026"
+        "aws-efs-csi-driver-operator.v4.14.0-202609282026",
+        "aws-efs-csi-driver-operator.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -13518,7 +13519,8 @@
         "aws-efs-csi-driver-operator.v4.14.0-202608171931": ">=4.9.0-0 <4.14.0-202608171931",
         "aws-efs-csi-driver-operator.v4.14.0-202609011214": ">=4.9.0-0 <4.14.0-202609011214",
         "aws-efs-csi-driver-operator.v4.14.0-202609150333": ">=4.9.0-0 <4.14.0-202609150333",
-        "aws-efs-csi-driver-operator.v4.14.0-202609282026": ">=4.9.0-0 <4.14.0-202609282026"
+        "aws-efs-csi-driver-operator.v4.14.0-202609282026": ">=4.9.0-0 <4.14.0-202609282026",
+        "aws-efs-csi-driver-operator.v4.14.0-202610121948": ">=4.9.0-0 <4.14.0-202610121948"
       },
       "channels": [
         "stable"
@@ -13573,7 +13575,8 @@
         "aws-efs-csi-driver-operator.v4.15.0-202606181908",
         "aws-efs-csi-driver-operator.v4.15.0-202607201846",
         "aws-efs-csi-driver-operator.v4.15.0-202608180326",
-        "aws-efs-csi-driver-operator.v4.15.0-202609140323"
+        "aws-efs-csi-driver-operator.v4.15.0-202609140323",
+        "aws-efs-csi-driver-operator.v4.15.0-202610130332"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -13625,7 +13628,8 @@
         "aws-efs-csi-driver-operator.v4.15.0-202606181908": ">=4.9.0-0 <4.15.0-202606181908",
         "aws-efs-csi-driver-operator.v4.15.0-202607201846": ">=4.9.0-0 <4.15.0-202607201846",
         "aws-efs-csi-driver-operator.v4.15.0-202608180326": ">=4.9.0-0 <4.15.0-202608180326",
-        "aws-efs-csi-driver-operator.v4.15.0-202609140323": ">=4.9.0-0 <4.15.0-202609140323"
+        "aws-efs-csi-driver-operator.v4.15.0-202609140323": ">=4.9.0-0 <4.15.0-202609140323",
+        "aws-efs-csi-driver-operator.v4.15.0-202610130332": ">=4.9.0-0 <4.15.0-202610130332"
       },
       "channels": [
         "stable"
@@ -18965,7 +18969,8 @@
         "clusterresourceoverride-operator.v4.14.0-202608171931",
         "clusterresourceoverride-operator.v4.14.0-202608311927",
         "clusterresourceoverride-operator.v4.14.0-202609150333",
-        "clusterresourceoverride-operator.v4.14.0-202609291208"
+        "clusterresourceoverride-operator.v4.14.0-202609291208",
+        "clusterresourceoverride-operator.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -19020,7 +19025,8 @@
         "clusterresourceoverride-operator.v4.14.0-202608171931": ">=4.3.0 <4.14.0-202608171931",
         "clusterresourceoverride-operator.v4.14.0-202608311927": ">=4.3.0 <4.14.0-202608311927",
         "clusterresourceoverride-operator.v4.14.0-202609150333": ">=4.3.0 <4.14.0-202609150333",
-        "clusterresourceoverride-operator.v4.14.0-202609291208": ">=4.3.0 <4.14.0-202609291208"
+        "clusterresourceoverride-operator.v4.14.0-202609291208": ">=4.3.0 <4.14.0-202609291208",
+        "clusterresourceoverride-operator.v4.14.0-202610121948": ">=4.3.0 <4.14.0-202610121948"
       },
       "channels": [
         "stable"
@@ -19072,7 +19078,8 @@
         "clusterresourceoverride-operator.v4.15.0-202606200234",
         "clusterresourceoverride-operator.v4.15.0-202607201846",
         "clusterresourceoverride-operator.v4.15.0-202608181104",
-        "clusterresourceoverride-operator.v4.15.0-202609140323"
+        "clusterresourceoverride-operator.v4.15.0-202609140323",
+        "clusterresourceoverride-operator.v4.15.0-202610101050"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -19121,7 +19128,8 @@
         "clusterresourceoverride-operator.v4.15.0-202606200234": ">=4.3.0 <4.15.0-202606200234",
         "clusterresourceoverride-operator.v4.15.0-202607201846": ">=4.3.0 <4.15.0-202607201846",
         "clusterresourceoverride-operator.v4.15.0-202608181104": ">=4.3.0 <4.15.0-202608181104",
-        "clusterresourceoverride-operator.v4.15.0-202609140323": ">=4.3.0 <4.15.0-202609140323"
+        "clusterresourceoverride-operator.v4.15.0-202609140323": ">=4.3.0 <4.15.0-202609140323",
+        "clusterresourceoverride-operator.v4.15.0-202610101050": ">=4.3.0 <4.15.0-202610101050"
       },
       "channels": [
         "stable"
@@ -27306,7 +27314,8 @@
         "deployment-validation-operator.v0.7.14",
         "deployment-validation-operator.v0.7.15",
         "deployment-validation-operator.v0.7.16",
-        "deployment-validation-operator.v0.7.17"
+        "deployment-validation-operator.v0.7.17",
+        "deployment-validation-operator.v0.7.18"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -27349,7 +27358,8 @@
         "deployment-validation-operator.v0.7.14",
         "deployment-validation-operator.v0.7.15",
         "deployment-validation-operator.v0.7.16",
-        "deployment-validation-operator.v0.7.17"
+        "deployment-validation-operator.v0.7.17",
+        "deployment-validation-operator.v0.7.18"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -27392,7 +27402,8 @@
         "deployment-validation-operator.v0.7.14",
         "deployment-validation-operator.v0.7.15",
         "deployment-validation-operator.v0.7.16",
-        "deployment-validation-operator.v0.7.17"
+        "deployment-validation-operator.v0.7.17",
+        "deployment-validation-operator.v0.7.18"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -27435,7 +27446,8 @@
         "deployment-validation-operator.v0.7.14",
         "deployment-validation-operator.v0.7.15",
         "deployment-validation-operator.v0.7.16",
-        "deployment-validation-operator.v0.7.17"
+        "deployment-validation-operator.v0.7.17",
+        "deployment-validation-operator.v0.7.18"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -27457,7 +27469,8 @@
         "deployment-validation-operator.v0.7.14",
         "deployment-validation-operator.v0.7.15",
         "deployment-validation-operator.v0.7.16",
-        "deployment-validation-operator.v0.7.17"
+        "deployment-validation-operator.v0.7.17",
+        "deployment-validation-operator.v0.7.18"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -27479,7 +27492,8 @@
         "deployment-validation-operator.v0.7.14",
         "deployment-validation-operator.v0.7.15",
         "deployment-validation-operator.v0.7.16",
-        "deployment-validation-operator.v0.7.17"
+        "deployment-validation-operator.v0.7.17",
+        "deployment-validation-operator.v0.7.18"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -27501,7 +27515,8 @@
         "deployment-validation-operator.v0.7.14",
         "deployment-validation-operator.v0.7.15",
         "deployment-validation-operator.v0.7.16",
-        "deployment-validation-operator.v0.7.17"
+        "deployment-validation-operator.v0.7.17",
+        "deployment-validation-operator.v0.7.18"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -36188,7 +36203,8 @@
         "gcp-filestore-csi-driver-operator.v4.15.0-202606200234",
         "gcp-filestore-csi-driver-operator.v4.15.0-202607201846",
         "gcp-filestore-csi-driver-operator.v4.15.0-202608181104",
-        "gcp-filestore-csi-driver-operator.v4.15.0-202609140323"
+        "gcp-filestore-csi-driver-operator.v4.15.0-202609140323",
+        "gcp-filestore-csi-driver-operator.v4.15.0-202610130332"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -36246,7 +36262,8 @@
         "gcp-filestore-csi-driver-operator.v4.15.0-202606200234": ">=4.11.0-0 <4.15.0",
         "gcp-filestore-csi-driver-operator.v4.15.0-202607201846": ">=4.11.0-0 <4.15.0",
         "gcp-filestore-csi-driver-operator.v4.15.0-202608181104": ">=4.11.0-0 <4.15.0",
-        "gcp-filestore-csi-driver-operator.v4.15.0-202609140323": ">=4.11.0-0 <4.15.0"
+        "gcp-filestore-csi-driver-operator.v4.15.0-202609140323": ">=4.11.0-0 <4.15.0",
+        "gcp-filestore-csi-driver-operator.v4.15.0-202610130332": ">=4.11.0-0 <4.15.0"
       },
       "channels": [
         "preview",
@@ -37042,7 +37059,8 @@
         "ingress-node-firewall.v4.14.0-202608181135",
         "ingress-node-firewall.v4.14.0-202609011214",
         "ingress-node-firewall.v4.14.0-202609150333",
-        "ingress-node-firewall.v4.14.0-202609281200"
+        "ingress-node-firewall.v4.14.0-202609281200",
+        "ingress-node-firewall.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -37100,7 +37118,8 @@
         "ingress-node-firewall.v4.14.0-202608181135": ">=4.11.0 <4.14.0",
         "ingress-node-firewall.v4.14.0-202609011214": ">=4.11.0 <4.14.0",
         "ingress-node-firewall.v4.14.0-202609150333": ">=4.11.0 <4.14.0",
-        "ingress-node-firewall.v4.14.0-202609281200": ">=4.11.0 <4.14.0"
+        "ingress-node-firewall.v4.14.0-202609281200": ">=4.11.0 <4.14.0",
+        "ingress-node-firewall.v4.14.0-202610121948": ">=4.11.0 <4.14.0"
       },
       "channels": [
         "stable"
@@ -37160,7 +37179,8 @@
         "ingress-node-firewall.v4.15.0-202605272019",
         "ingress-node-firewall.v4.15.0-202606200234",
         "ingress-node-firewall.v4.15.0-202607201846",
-        "ingress-node-firewall.v4.15.0-202608181104"
+        "ingress-node-firewall.v4.15.0-202608181104",
+        "ingress-node-firewall.v4.15.0-202610130332"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -37217,7 +37237,8 @@
         "ingress-node-firewall.v4.15.0-202605272019": ">=4.11.0 <4.15.0",
         "ingress-node-firewall.v4.15.0-202606200234": ">=4.11.0 <4.15.0",
         "ingress-node-firewall.v4.15.0-202607201846": ">=4.11.0 <4.15.0",
-        "ingress-node-firewall.v4.15.0-202608181104": ">=4.11.0 <4.15.0"
+        "ingress-node-firewall.v4.15.0-202608181104": ">=4.11.0 <4.15.0",
+        "ingress-node-firewall.v4.15.0-202610130332": ">=4.11.0 <4.15.0"
       },
       "channels": [
         "stable"
@@ -40995,7 +41016,8 @@
         "kubernetes-nmstate-operator.4.14.0-202608041138",
         "kubernetes-nmstate-operator.4.14.0-202608181135",
         "kubernetes-nmstate-operator.4.14.0-202609011214",
-        "kubernetes-nmstate-operator.4.14.0-202609281200"
+        "kubernetes-nmstate-operator.4.14.0-202609281200",
+        "kubernetes-nmstate-operator.4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -41054,7 +41076,8 @@
         "kubernetes-nmstate-operator.4.14.0-202608041138": ">=4.3.0 <4.14.0-202608041138",
         "kubernetes-nmstate-operator.4.14.0-202608181135": ">=4.3.0 <4.14.0-202608181135",
         "kubernetes-nmstate-operator.4.14.0-202609011214": ">=4.3.0 <4.14.0-202609011214",
-        "kubernetes-nmstate-operator.4.14.0-202609281200": ">=4.3.0 <4.14.0-202609281200"
+        "kubernetes-nmstate-operator.4.14.0-202609281200": ">=4.3.0 <4.14.0-202609281200",
+        "kubernetes-nmstate-operator.4.14.0-202610121948": ">=4.3.0 <4.14.0-202610121948"
       },
       "channels": [
         "4.13",
@@ -43361,7 +43384,8 @@
         "local-storage-operator.v4.18.0-202608030330",
         "local-storage-operator.v4.18.0-202609011214",
         "local-storage-operator.v4.18.0-202609150333",
-        "local-storage-operator.v4.18.0-202609281200"
+        "local-storage-operator.v4.18.0-202609281200",
+        "local-storage-operator.v4.18.0-202610121948"
       ],
       "maxOCPVersion": "4.15",
       "dependencies": [],
@@ -43420,7 +43444,8 @@
         "local-storage-operator.v4.18.0-202608030330": ">=4.3.0 <4.18.0-202608030330",
         "local-storage-operator.v4.18.0-202609011214": ">=4.3.0 <4.18.0-202609011214",
         "local-storage-operator.v4.18.0-202609150333": ">=4.3.0 <4.18.0-202609150333",
-        "local-storage-operator.v4.18.0-202609281200": ">=4.3.0 <4.18.0-202609281200"
+        "local-storage-operator.v4.18.0-202609281200": ">=4.3.0 <4.18.0-202609281200",
+        "local-storage-operator.v4.18.0-202610121948": ">=4.3.0 <4.18.0-202610121948"
       },
       "channels": [
         "stable"
@@ -43483,7 +43508,8 @@
         "local-storage-operator.v4.18.0-202606030314",
         "local-storage-operator.v4.18.0-202606221034",
         "local-storage-operator.v4.18.0-202607201846",
-        "local-storage-operator.v4.18.0-202608181104"
+        "local-storage-operator.v4.18.0-202608181104",
+        "local-storage-operator.v4.18.0-202610130332"
       ],
       "maxOCPVersion": "4.16",
       "dependencies": [],
@@ -43543,7 +43569,8 @@
         "local-storage-operator.v4.18.0-202606030314": ">=4.3.0 <4.18.0-202606030314",
         "local-storage-operator.v4.18.0-202606221034": ">=4.3.0 <4.18.0-202606221034",
         "local-storage-operator.v4.18.0-202607201846": ">=4.3.0 <4.18.0-202607201846",
-        "local-storage-operator.v4.18.0-202608181104": ">=4.3.0 <4.18.0-202608181104"
+        "local-storage-operator.v4.18.0-202608181104": ">=4.3.0 <4.18.0-202608181104",
+        "local-storage-operator.v4.18.0-202610130332": ">=4.3.0 <4.18.0-202610130332"
       },
       "channels": [
         "stable"
@@ -45546,6 +45573,7 @@
       "versions": [
         "lvms-operator.v4.12.0",
         "lvms-operator.v4.12.1",
+        "lvms-operator.v4.12.10",
         "lvms-operator.v4.12.2",
         "lvms-operator.v4.12.3",
         "lvms-operator.v4.12.4",
@@ -45558,15 +45586,7 @@
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
-        "lvms-operator.v4.12.1": ">=4.2.0 <4.12.1",
-        "lvms-operator.v4.12.2": ">=4.2.0 <4.12.2",
-        "lvms-operator.v4.12.3": ">=4.2.0 <4.12.3",
-        "lvms-operator.v4.12.4": ">=4.2.0 <4.12.4",
-        "lvms-operator.v4.12.5": ">=4.2.0 <4.12.5",
-        "lvms-operator.v4.12.6": ">=4.2.0 <4.12.6",
-        "lvms-operator.v4.12.7": ">=4.2.0 <4.12.7",
-        "lvms-operator.v4.12.8": ">=4.2.0 <4.12.8",
-        "lvms-operator.v4.12.9": ">=4.2.0 <4.12.9"
+        "lvms-operator.v4.12.10": ">=4.2.0 <4.12.10"
       },
       "channels": [
         "stable-4.12"
@@ -47784,7 +47804,8 @@
         "metallb-operator.v4.14.0-202608181135",
         "metallb-operator.v4.14.0-202609011214",
         "metallb-operator.v4.14.0-202609150333",
-        "metallb-operator.v4.14.0-202609281200"
+        "metallb-operator.v4.14.0-202609281200",
+        "metallb-operator.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -47848,7 +47869,8 @@
         "metallb-operator.v4.14.0-202608181135": ">=4.8.0 <4.14.0",
         "metallb-operator.v4.14.0-202609011214": ">=4.8.0 <4.14.0",
         "metallb-operator.v4.14.0-202609150333": ">=4.8.0 <4.14.0",
-        "metallb-operator.v4.14.0-202609281200": ">=4.8.0 <4.14.0"
+        "metallb-operator.v4.14.0-202609281200": ">=4.8.0 <4.14.0",
+        "metallb-operator.v4.14.0-202610121948": ">=4.8.0 <4.14.0"
       },
       "channels": [
         "stable"
@@ -47913,7 +47935,8 @@
         "metallb-operator.v4.15.0-202606200234",
         "metallb-operator.v4.15.0-202607201846",
         "metallb-operator.v4.15.0-202608181104",
-        "metallb-operator.v4.15.0-202609140323"
+        "metallb-operator.v4.15.0-202609140323",
+        "metallb-operator.v4.15.0-202610130332"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -47975,7 +47998,8 @@
         "metallb-operator.v4.15.0-202606200234": ">=4.8.0 <4.15.0",
         "metallb-operator.v4.15.0-202607201846": ">=4.8.0 <4.15.0",
         "metallb-operator.v4.15.0-202608181104": ">=4.8.0 <4.15.0",
-        "metallb-operator.v4.15.0-202609140323": ">=4.8.0 <4.15.0"
+        "metallb-operator.v4.15.0-202609140323": ">=4.8.0 <4.15.0",
+        "metallb-operator.v4.15.0-202610130332": ">=4.8.0 <4.15.0"
       },
       "channels": [
         "stable"
@@ -53782,7 +53806,8 @@
         "nfd.4.14.0-202608171931",
         "nfd.4.14.0-202608311927",
         "nfd.4.14.0-202609150333",
-        "nfd.4.14.0-202609281200"
+        "nfd.4.14.0-202609281200",
+        "nfd.4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53840,7 +53865,8 @@
         "nfd.4.14.0-202608171931": ">=4.9.0 <4.14.0-202608171931",
         "nfd.4.14.0-202608311927": ">=4.9.0 <4.14.0-202608311927",
         "nfd.4.14.0-202609150333": ">=4.9.0 <4.14.0-202609150333",
-        "nfd.4.14.0-202609281200": ">=4.9.0 <4.14.0-202609281200"
+        "nfd.4.14.0-202609281200": ">=4.9.0 <4.14.0-202609281200",
+        "nfd.4.14.0-202610121948": ">=4.9.0 <4.14.0-202610121948"
       },
       "channels": [
         "stable"
@@ -53900,7 +53926,8 @@
         "nfd.4.15.0-202605272019",
         "nfd.4.15.0-202606200234",
         "nfd.4.15.0-202607201846",
-        "nfd.4.15.0-202608181104"
+        "nfd.4.15.0-202608181104",
+        "nfd.4.15.0-202610130332"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -53957,7 +53984,8 @@
         "nfd.4.15.0-202605272019": ">=4.9.0 <4.15.0-202605272019",
         "nfd.4.15.0-202606200234": ">=4.9.0 <4.15.0-202606200234",
         "nfd.4.15.0-202607201846": ">=4.9.0 <4.15.0-202607201846",
-        "nfd.4.15.0-202608181104": ">=4.9.0 <4.15.0-202608181104"
+        "nfd.4.15.0-202608181104": ">=4.9.0 <4.15.0-202608181104",
+        "nfd.4.15.0-202610130332": ">=4.9.0 <4.15.0-202610130332"
       },
       "channels": [
         "stable"
@@ -73148,7 +73176,8 @@
         "ptp-operator.v4.14.0-202608181135",
         "ptp-operator.v4.14.0-202609011214",
         "ptp-operator.v4.14.0-202609150333",
-        "ptp-operator.v4.14.0-202609281200"
+        "ptp-operator.v4.14.0-202609281200",
+        "ptp-operator.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -73213,7 +73242,8 @@
         "ptp-operator.v4.14.0-202608181135": ">=4.3.0-0 <4.14.0-202608181135",
         "ptp-operator.v4.14.0-202609011214": ">=4.3.0-0 <4.14.0-202609011214",
         "ptp-operator.v4.14.0-202609150333": ">=4.3.0-0 <4.14.0-202609150333",
-        "ptp-operator.v4.14.0-202609281200": ">=4.3.0-0 <4.14.0-202609281200"
+        "ptp-operator.v4.14.0-202609281200": ">=4.3.0-0 <4.14.0-202609281200",
+        "ptp-operator.v4.14.0-202610121948": ">=4.3.0-0 <4.14.0-202610121948"
       },
       "channels": [
         "stable"
@@ -73278,7 +73308,8 @@
         "ptp-operator.v4.15.0-202606200234",
         "ptp-operator.v4.15.0-202607201846",
         "ptp-operator.v4.15.0-202608181104",
-        "ptp-operator.v4.15.0-202609140323"
+        "ptp-operator.v4.15.0-202609140323",
+        "ptp-operator.v4.15.0-202610130332"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -73340,7 +73371,8 @@
         "ptp-operator.v4.15.0-202606200234": ">=4.3.0-0 <4.15.0-202606200234",
         "ptp-operator.v4.15.0-202607201846": ">=4.3.0-0 <4.15.0-202607201846",
         "ptp-operator.v4.15.0-202608181104": ">=4.3.0-0 <4.15.0-202608181104",
-        "ptp-operator.v4.15.0-202609140323": ">=4.3.0-0 <4.15.0-202609140323"
+        "ptp-operator.v4.15.0-202609140323": ">=4.3.0-0 <4.15.0-202609140323",
+        "ptp-operator.v4.15.0-202610130332": ">=4.3.0-0 <4.15.0-202610130332"
       },
       "channels": [
         "stable"
@@ -90499,6 +90531,7 @@
         "rhdh-operator.v1.10.3",
         "rhdh-operator.v1.10.4",
         "rhdh-operator.v1.10.5",
+        "rhdh-operator.v1.10.6",
         "rhdh-operator.v1.2.6",
         "rhdh-operator.v1.3.1",
         "rhdh-operator.v1.3.3",
@@ -90588,7 +90621,8 @@
         "rhdh-operator.v1.10.2": "<1.10.2",
         "rhdh-operator.v1.10.3": "<1.10.3",
         "rhdh-operator.v1.10.4": "<1.10.4",
-        "rhdh-operator.v1.10.5": "<1.10.5"
+        "rhdh-operator.v1.10.5": "<1.10.5",
+        "rhdh-operator.v1.10.6": "<1.10.6"
       },
       "channels": [
         "fast",
@@ -90618,6 +90652,7 @@
         "rhdh-operator.v1.10.3",
         "rhdh-operator.v1.10.4",
         "rhdh-operator.v1.10.5",
+        "rhdh-operator.v1.10.6",
         "rhdh-operator.v1.2.6",
         "rhdh-operator.v1.3.1",
         "rhdh-operator.v1.3.3",
@@ -90707,7 +90742,8 @@
         "rhdh-operator.v1.10.2": "<1.10.2",
         "rhdh-operator.v1.10.3": "<1.10.3",
         "rhdh-operator.v1.10.4": "<1.10.4",
-        "rhdh-operator.v1.10.5": "<1.10.5"
+        "rhdh-operator.v1.10.5": "<1.10.5",
+        "rhdh-operator.v1.10.6": "<1.10.6"
       },
       "channels": [
         "fast",
@@ -90737,6 +90773,7 @@
         "rhdh-operator.v1.10.3",
         "rhdh-operator.v1.10.4",
         "rhdh-operator.v1.10.5",
+        "rhdh-operator.v1.10.6",
         "rhdh-operator.v1.2.6",
         "rhdh-operator.v1.3.1",
         "rhdh-operator.v1.3.3",
@@ -90826,7 +90863,8 @@
         "rhdh-operator.v1.10.2": "<1.10.2",
         "rhdh-operator.v1.10.3": "<1.10.3",
         "rhdh-operator.v1.10.4": "<1.10.4",
-        "rhdh-operator.v1.10.5": "<1.10.5"
+        "rhdh-operator.v1.10.5": "<1.10.5",
+        "rhdh-operator.v1.10.6": "<1.10.6"
       },
       "channels": [
         "fast",
@@ -90856,6 +90894,7 @@
         "rhdh-operator.v1.10.3",
         "rhdh-operator.v1.10.4",
         "rhdh-operator.v1.10.5",
+        "rhdh-operator.v1.10.6",
         "rhdh-operator.v1.2.6",
         "rhdh-operator.v1.3.1",
         "rhdh-operator.v1.3.3",
@@ -90945,7 +90984,8 @@
         "rhdh-operator.v1.10.2": "<1.10.2",
         "rhdh-operator.v1.10.3": "<1.10.3",
         "rhdh-operator.v1.10.4": "<1.10.4",
-        "rhdh-operator.v1.10.5": "<1.10.5"
+        "rhdh-operator.v1.10.5": "<1.10.5",
+        "rhdh-operator.v1.10.6": "<1.10.6"
       },
       "channels": [
         "fast",
@@ -90975,6 +91015,7 @@
         "rhdh-operator.v1.10.3",
         "rhdh-operator.v1.10.4",
         "rhdh-operator.v1.10.5",
+        "rhdh-operator.v1.10.6",
         "rhdh-operator.v1.2.6",
         "rhdh-operator.v1.3.1",
         "rhdh-operator.v1.3.3",
@@ -91064,7 +91105,8 @@
         "rhdh-operator.v1.10.2": "<1.10.2",
         "rhdh-operator.v1.10.3": "<1.10.3",
         "rhdh-operator.v1.10.4": "<1.10.4",
-        "rhdh-operator.v1.10.5": "<1.10.5"
+        "rhdh-operator.v1.10.5": "<1.10.5",
+        "rhdh-operator.v1.10.6": "<1.10.6"
       },
       "channels": [
         "fast",
@@ -91550,6 +91592,7 @@
         "rhods-operator.2.25.1",
         "rhods-operator.2.25.10",
         "rhods-operator.2.25.11",
+        "rhods-operator.2.25.12",
         "rhods-operator.2.25.2",
         "rhods-operator.2.25.3",
         "rhods-operator.2.25.4",
@@ -91615,6 +91658,7 @@
         "rhods-operator.2.25.9": ">=2.22.0 <2.25.9",
         "rhods-operator.2.25.10": ">=2.24.0 <2.25.10",
         "rhods-operator.2.25.11": ">=2.22.0 <2.25.11",
+        "rhods-operator.2.25.12": ">=2.22.0 <2.25.12",
         "rhods-operator.2.21.1": ">=2.21.0 <2.21.1",
         "rhods-operator.2.8.4": ">=2.8.0 <2.8.4",
         "rhods-operator.2.8.5": ">=2.8.0 <2.8.5",
@@ -91704,6 +91748,7 @@
         "rhods-operator.2.25.1",
         "rhods-operator.2.25.10",
         "rhods-operator.2.25.11",
+        "rhods-operator.2.25.12",
         "rhods-operator.2.25.2",
         "rhods-operator.2.25.3",
         "rhods-operator.2.25.4",
@@ -91769,6 +91814,7 @@
         "rhods-operator.2.25.9": ">=2.22.0 <2.25.9",
         "rhods-operator.2.25.10": ">=2.24.0 <2.25.10",
         "rhods-operator.2.25.11": ">=2.22.0 <2.25.11",
+        "rhods-operator.2.25.12": ">=2.22.0 <2.25.12",
         "rhods-operator.2.21.1": ">=2.21.0 <2.21.1",
         "rhods-operator.2.8.4": ">=2.8.0 <2.8.4",
         "rhods-operator.2.8.5": ">=2.8.0 <2.8.5",
@@ -91858,6 +91904,7 @@
         "rhods-operator.2.25.1",
         "rhods-operator.2.25.10",
         "rhods-operator.2.25.11",
+        "rhods-operator.2.25.12",
         "rhods-operator.2.25.2",
         "rhods-operator.2.25.3",
         "rhods-operator.2.25.4",
@@ -91923,6 +91970,7 @@
         "rhods-operator.2.25.9": ">=2.22.0 <2.25.9",
         "rhods-operator.2.25.10": ">=2.24.0 <2.25.10",
         "rhods-operator.2.25.11": ">=2.22.0 <2.25.11",
+        "rhods-operator.2.25.12": ">=2.22.0 <2.25.12",
         "rhods-operator.2.21.1": ">=2.21.0 <2.21.1",
         "rhods-operator.2.8.4": ">=2.8.0 <2.8.4",
         "rhods-operator.2.8.5": ">=2.8.0 <2.8.5",
@@ -92012,6 +92060,7 @@
         "rhods-operator.2.25.1",
         "rhods-operator.2.25.10",
         "rhods-operator.2.25.11",
+        "rhods-operator.2.25.12",
         "rhods-operator.2.25.2",
         "rhods-operator.2.25.3",
         "rhods-operator.2.25.4",
@@ -92099,6 +92148,7 @@
         "rhods-operator.2.25.9": ">=2.22.0 <2.25.9",
         "rhods-operator.2.25.10": ">=2.24.0 <2.25.10",
         "rhods-operator.2.25.11": ">=2.22.0 <2.25.11",
+        "rhods-operator.2.25.12": ">=2.22.0 <2.25.12",
         "rhods-operator.2.21.1": ">=2.21.0 <2.21.1",
         "rhods-operator.2.8.4": ">=2.8.0 <2.8.4",
         "rhods-operator.2.8.5": ">=2.8.0 <2.8.5",
@@ -92212,6 +92262,7 @@
         "rhods-operator.2.25.1",
         "rhods-operator.2.25.10",
         "rhods-operator.2.25.11",
+        "rhods-operator.2.25.12",
         "rhods-operator.2.25.2",
         "rhods-operator.2.25.3",
         "rhods-operator.2.25.4",
@@ -92299,6 +92350,7 @@
         "rhods-operator.2.25.9": ">=2.22.0 <2.25.9",
         "rhods-operator.2.25.10": ">=2.24.0 <2.25.10",
         "rhods-operator.2.25.11": ">=2.22.0 <2.25.11",
+        "rhods-operator.2.25.12": ">=2.22.0 <2.25.12",
         "rhods-operator.2.21.1": ">=2.21.0 <2.21.1",
         "rhods-operator.2.8.4": ">=2.8.0 <2.8.4",
         "rhods-operator.2.8.5": ">=2.8.0 <2.8.5",
@@ -92409,6 +92461,7 @@
         "rhods-operator.2.25.1",
         "rhods-operator.2.25.10",
         "rhods-operator.2.25.11",
+        "rhods-operator.2.25.12",
         "rhods-operator.2.25.2",
         "rhods-operator.2.25.3",
         "rhods-operator.2.25.4",
@@ -92494,6 +92547,7 @@
         "rhods-operator.2.25.9": ">=2.22.0 <2.25.9",
         "rhods-operator.2.25.10": ">=2.24.0 <2.25.10",
         "rhods-operator.2.25.11": ">=2.22.0 <2.25.11",
+        "rhods-operator.2.25.12": ">=2.22.0 <2.25.12",
         "rhods-operator.2.21.1": ">=2.21.0 <2.21.1",
         "rhods-operator.2.8.4": ">=2.8.0 <2.8.4",
         "rhods-operator.2.8.5": ">=2.8.0 <2.8.5",
@@ -99560,7 +99614,8 @@
         "sriov-network-operator.v4.14.0-202608181135",
         "sriov-network-operator.v4.14.0-202609011214",
         "sriov-network-operator.v4.14.0-202609150333",
-        "sriov-network-operator.v4.14.0-202609282026"
+        "sriov-network-operator.v4.14.0-202609282026",
+        "sriov-network-operator.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -99619,7 +99674,8 @@
         "sriov-network-operator.v4.14.0-202608181135": ">=4.3.0-0 <4.14.0-202608181135",
         "sriov-network-operator.v4.14.0-202609011214": ">=4.3.0-0 <4.14.0-202609011214",
         "sriov-network-operator.v4.14.0-202609150333": ">=4.3.0-0 <4.14.0-202609150333",
-        "sriov-network-operator.v4.14.0-202609282026": ">=4.3.0-0 <4.14.0-202609282026"
+        "sriov-network-operator.v4.14.0-202609282026": ">=4.3.0-0 <4.14.0-202609282026",
+        "sriov-network-operator.v4.14.0-202610121948": ">=4.3.0-0 <4.14.0-202610121948"
       },
       "channels": [
         "stable"
@@ -99675,7 +99731,8 @@
         "sriov-network-operator.v4.15.0-202606200234",
         "sriov-network-operator.v4.15.0-202607201846",
         "sriov-network-operator.v4.15.0-202608181104",
-        "sriov-network-operator.v4.15.0-202609140323"
+        "sriov-network-operator.v4.15.0-202609140323",
+        "sriov-network-operator.v4.15.0-202610101050"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -99728,7 +99785,8 @@
         "sriov-network-operator.v4.15.0-202606200234": ">=4.3.0-0 <4.15.0-202606200234",
         "sriov-network-operator.v4.15.0-202607201846": ">=4.3.0-0 <4.15.0-202607201846",
         "sriov-network-operator.v4.15.0-202608181104": ">=4.3.0-0 <4.15.0-202608181104",
-        "sriov-network-operator.v4.15.0-202609140323": ">=4.3.0-0 <4.15.0-202609140323"
+        "sriov-network-operator.v4.15.0-202609140323": ">=4.3.0-0 <4.15.0-202609140323",
+        "sriov-network-operator.v4.15.0-202610101050": ">=4.3.0-0 <4.15.0-202610101050"
       },
       "channels": [
         "4.13",
@@ -101020,6 +101078,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101052,7 +101111,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101087,6 +101147,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101119,7 +101180,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101154,6 +101216,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101186,7 +101249,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101221,6 +101285,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101253,7 +101318,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101288,6 +101354,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101320,7 +101387,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101355,6 +101423,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101387,7 +101456,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101422,6 +101492,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101454,7 +101525,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101489,6 +101561,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101521,7 +101594,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101556,6 +101630,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101588,7 +101663,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101623,6 +101699,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101655,7 +101732,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -101690,6 +101768,7 @@
         "tempo-operator.v0.22.0-1",
         "tempo-operator.v0.22.0-2",
         "tempo-operator.v0.22.0-3",
+        "tempo-operator.v0.22.0-4",
         "tempo-operator.v0.3.1-3",
         "tempo-operator.v0.6.0-2",
         "tempo-operator.v0.8.0-2",
@@ -101722,7 +101801,8 @@
         "tempo-operator.v0.21.0-3": ">=0.6.0 <0.21.0-3",
         "tempo-operator.v0.22.0-1": ">=0.6.0 <0.22.0-1",
         "tempo-operator.v0.22.0-2": ">=0.6.0 <0.22.0-2",
-        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3"
+        "tempo-operator.v0.22.0-3": ">=0.6.0 <0.22.0-3",
+        "tempo-operator.v0.22.0-4": ">=0.6.0 <0.22.0-4"
       },
       "channels": [
         "stable"
@@ -102304,7 +102384,8 @@
         "verticalpodautoscaler.v4.14.0-202608171931",
         "verticalpodautoscaler.v4.14.0-202608311927",
         "verticalpodautoscaler.v4.14.0-202609150333",
-        "verticalpodautoscaler.v4.14.0-202609281200"
+        "verticalpodautoscaler.v4.14.0-202609281200",
+        "verticalpodautoscaler.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -102358,7 +102439,8 @@
         "verticalpodautoscaler.v4.14.0-202608171931": ">=4.5.0 <4.14.0-202608171931",
         "verticalpodautoscaler.v4.14.0-202608311927": ">=4.5.0 <4.14.0-202608311927",
         "verticalpodautoscaler.v4.14.0-202609150333": ">=4.5.0 <4.14.0-202609150333",
-        "verticalpodautoscaler.v4.14.0-202609281200": ">=4.5.0 <4.14.0-202609281200"
+        "verticalpodautoscaler.v4.14.0-202609281200": ">=4.5.0 <4.14.0-202609281200",
+        "verticalpodautoscaler.v4.14.0-202610121948": ">=4.5.0 <4.14.0-202610121948"
       },
       "channels": [
         "stable"
@@ -102411,7 +102493,8 @@
         "verticalpodautoscaler.v4.15.0-202606200234",
         "verticalpodautoscaler.v4.15.0-202607201846",
         "verticalpodautoscaler.v4.15.0-202608181104",
-        "verticalpodautoscaler.v4.15.0-202609140323"
+        "verticalpodautoscaler.v4.15.0-202609140323",
+        "verticalpodautoscaler.v4.15.0-202610101050"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -102461,7 +102544,8 @@
         "verticalpodautoscaler.v4.15.0-202606200234": ">=4.5.0 <4.15.0-202606200234",
         "verticalpodautoscaler.v4.15.0-202607201846": ">=4.5.0 <4.15.0-202607201846",
         "verticalpodautoscaler.v4.15.0-202608181104": ">=4.5.0 <4.15.0-202608181104",
-        "verticalpodautoscaler.v4.15.0-202609140323": ">=4.5.0 <4.15.0-202609140323"
+        "verticalpodautoscaler.v4.15.0-202609140323": ">=4.5.0 <4.15.0-202609140323",
+        "verticalpodautoscaler.v4.15.0-202610101050": ">=4.5.0 <4.15.0-202610101050"
       },
       "channels": [
         "stable"
@@ -106127,7 +106211,8 @@
         "secrets-store-csi-driver-operator.v4.14.0-202608171931",
         "secrets-store-csi-driver-operator.v4.14.0-202608311927",
         "secrets-store-csi-driver-operator.v4.14.0-202609150333",
-        "secrets-store-csi-driver-operator.v4.14.0-202609281200"
+        "secrets-store-csi-driver-operator.v4.14.0-202609281200",
+        "secrets-store-csi-driver-operator.v4.14.0-202610121948"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106183,7 +106268,8 @@
         "secrets-store-csi-driver-operator.v4.14.0-202608171931": ">=4.13.0-0 <4.14.0",
         "secrets-store-csi-driver-operator.v4.14.0-202608311927": ">=4.13.0-0 <4.14.0",
         "secrets-store-csi-driver-operator.v4.14.0-202609150333": ">=4.13.0-0 <4.14.0",
-        "secrets-store-csi-driver-operator.v4.14.0-202609281200": ">=4.13.0-0 <4.14.0"
+        "secrets-store-csi-driver-operator.v4.14.0-202609281200": ">=4.13.0-0 <4.14.0",
+        "secrets-store-csi-driver-operator.v4.14.0-202610121948": ">=4.13.0-0 <4.14.0"
       },
       "channels": [
         "preview"
@@ -106235,7 +106321,8 @@
         "secrets-store-csi-driver-operator.v4.15.0-202606181908",
         "secrets-store-csi-driver-operator.v4.15.0-202607201846",
         "secrets-store-csi-driver-operator.v4.15.0-202608180326",
-        "secrets-store-csi-driver-operator.v4.15.0-202609140323"
+        "secrets-store-csi-driver-operator.v4.15.0-202609140323",
+        "secrets-store-csi-driver-operator.v4.15.0-202610130332"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106284,7 +106371,8 @@
         "secrets-store-csi-driver-operator.v4.15.0-202606181908": ">=4.13.0-0 <4.15.0",
         "secrets-store-csi-driver-operator.v4.15.0-202607201846": ">=4.13.0-0 <4.15.0",
         "secrets-store-csi-driver-operator.v4.15.0-202608180326": ">=4.13.0-0 <4.15.0",
-        "secrets-store-csi-driver-operator.v4.15.0-202609140323": ">=4.13.0-0 <4.15.0"
+        "secrets-store-csi-driver-operator.v4.15.0-202609140323": ">=4.13.0-0 <4.15.0",
+        "secrets-store-csi-driver-operator.v4.15.0-202610130332": ">=4.13.0-0 <4.15.0"
       },
       "channels": [
         "preview"
@@ -111563,7 +111651,8 @@
         "rhcl-operator.v1.4.1",
         "rhcl-operator.v1.4.2",
         "rhcl-operator.v1.4.3",
-        "rhcl-operator.v1.4.4"
+        "rhcl-operator.v1.4.4",
+        "rhcl-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -111606,10 +111695,13 @@
         "limitador-operator (1.4.2)",
         "limitador-operator (1.4.3)"
       ],
-      "skipRanges": {},
+      "skipRanges": {
+        "rhcl-operator.v1.5.0": ">=1.4.4 <1.5.0"
+      },
       "channels": [
         "stable",
-        "stable-1.4"
+        "stable-1.4",
+        "stable-1.5"
       ]
     },
     "4.21": {
@@ -111626,7 +111718,8 @@
         "rhcl-operator.v1.4.1",
         "rhcl-operator.v1.4.2",
         "rhcl-operator.v1.4.3",
-        "rhcl-operator.v1.4.4"
+        "rhcl-operator.v1.4.4",
+        "rhcl-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -111657,10 +111750,13 @@
         "limitador-operator (1.4.2)",
         "limitador-operator (1.4.3)"
       ],
-      "skipRanges": {},
+      "skipRanges": {
+        "rhcl-operator.v1.5.0": ">=1.4.4 <1.5.0"
+      },
       "channels": [
         "stable",
-        "stable-1.4"
+        "stable-1.4",
+        "stable-1.5"
       ]
     },
     "4.22": {
@@ -111669,7 +111765,8 @@
         "rhcl-operator.v1.4.1",
         "rhcl-operator.v1.4.2",
         "rhcl-operator.v1.4.3",
-        "rhcl-operator.v1.4.4"
+        "rhcl-operator.v1.4.4",
+        "rhcl-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -111687,10 +111784,13 @@
         "limitador-operator (1.4.2)",
         "limitador-operator (1.4.3)"
       ],
-      "skipRanges": {},
+      "skipRanges": {
+        "rhcl-operator.v1.5.0": ">=1.4.4 <1.5.0"
+      },
       "channels": [
         "stable",
-        "stable-1.4"
+        "stable-1.4",
+        "stable-1.5"
       ]
     }
   },
