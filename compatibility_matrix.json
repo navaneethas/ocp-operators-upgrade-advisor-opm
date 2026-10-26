@@ -2805,7 +2805,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -2853,7 +2854,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -2901,7 +2903,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -2949,7 +2952,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -2997,7 +3001,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3045,7 +3050,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3093,7 +3099,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3141,7 +3148,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -3189,7 +3197,8 @@
         "amq-broker-operator.v7.14.0-opr-1-0.1778662761.p",
         "amq-broker-operator.v7.14.0-opr-1-0.1778764984.p",
         "amq-broker-operator.v7.14.1-opr-1",
-        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p"
+        "amq-broker-operator.v7.14.1-opr-1-0.1791975501.p",
+        "amq-broker-operator.v7.14.1-opr-1-0.1792781996.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -27783,6 +27792,7 @@
         "devspacesoperator.v3.30.0",
         "devspacesoperator.v3.30.1",
         "devspacesoperator.v3.30.2",
+        "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -27906,6 +27916,7 @@
         "devspacesoperator.v3.30.0",
         "devspacesoperator.v3.30.1",
         "devspacesoperator.v3.30.2",
+        "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -27970,6 +27981,7 @@
         "devspacesoperator.v3.30.0",
         "devspacesoperator.v3.30.1",
         "devspacesoperator.v3.30.2",
+        "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -28034,6 +28046,7 @@
         "devspacesoperator.v3.30.0",
         "devspacesoperator.v3.30.1",
         "devspacesoperator.v3.30.2",
+        "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -28098,6 +28111,7 @@
         "devspacesoperator.v3.30.0",
         "devspacesoperator.v3.30.1",
         "devspacesoperator.v3.30.2",
+        "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -28162,6 +28176,7 @@
         "devspacesoperator.v3.30.0",
         "devspacesoperator.v3.30.1",
         "devspacesoperator.v3.30.2",
+        "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -42031,6 +42046,7 @@
         "kubevirt-hyperconverged-operator.v4.14.34",
         "kubevirt-hyperconverged-operator.v4.14.35",
         "kubevirt-hyperconverged-operator.v4.14.36",
+        "kubevirt-hyperconverged-operator.v4.14.37",
         "kubevirt-hyperconverged-operator.v4.14.4",
         "kubevirt-hyperconverged-operator.v4.14.5",
         "kubevirt-hyperconverged-operator.v4.14.6",
@@ -42061,6 +42077,7 @@
         "kubevirt-hyperconverged-operator.v4.14.34": ">=4.14.0 <4.14.34",
         "kubevirt-hyperconverged-operator.v4.14.35": ">=4.14.0 <4.14.35",
         "kubevirt-hyperconverged-operator.v4.14.36": ">=4.14.0 <4.14.36",
+        "kubevirt-hyperconverged-operator.v4.14.37": ">=4.14.0 <4.14.37",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -42210,6 +42227,7 @@
         "kubevirt-hyperconverged-operator.v4.16.50",
         "kubevirt-hyperconverged-operator.v4.16.51",
         "kubevirt-hyperconverged-operator.v4.16.52",
+        "kubevirt-hyperconverged-operator.v4.16.53",
         "kubevirt-hyperconverged-operator.v4.16.6",
         "kubevirt-hyperconverged-operator.v4.16.7",
         "kubevirt-hyperconverged-operator.v4.16.8",
@@ -42262,6 +42280,7 @@
         "kubevirt-hyperconverged-operator.v4.16.50": ">=4.16.0 <4.16.50",
         "kubevirt-hyperconverged-operator.v4.16.51": ">=4.16.0 <4.16.51",
         "kubevirt-hyperconverged-operator.v4.16.52": ">=4.16.0 <4.16.52",
+        "kubevirt-hyperconverged-operator.v4.16.53": ">=4.16.0 <4.16.53",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -42504,6 +42523,7 @@
         "kubevirt-hyperconverged-operator.v4.18.52",
         "kubevirt-hyperconverged-operator.v4.18.53",
         "kubevirt-hyperconverged-operator.v4.18.54",
+        "kubevirt-hyperconverged-operator.v4.18.55",
         "kubevirt-hyperconverged-operator.v4.18.6",
         "kubevirt-hyperconverged-operator.v4.18.7",
         "kubevirt-hyperconverged-operator.v4.18.8",
@@ -42558,6 +42578,7 @@
         "kubevirt-hyperconverged-operator.v4.18.52": ">=4.18.0 <4.18.52",
         "kubevirt-hyperconverged-operator.v4.18.53": ">=4.18.0 <4.18.53",
         "kubevirt-hyperconverged-operator.v4.18.54": ">=4.18.0 <4.18.54",
+        "kubevirt-hyperconverged-operator.v4.18.55": ">=4.18.0 <4.18.55",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -42644,6 +42665,7 @@
         "kubevirt-hyperconverged-operator.v4.19.41",
         "kubevirt-hyperconverged-operator.v4.19.42",
         "kubevirt-hyperconverged-operator.v4.19.43",
+        "kubevirt-hyperconverged-operator.v4.19.44",
         "kubevirt-hyperconverged-operator.v4.19.5",
         "kubevirt-hyperconverged-operator.v4.19.6",
         "kubevirt-hyperconverged-operator.v4.19.7",
@@ -42694,6 +42716,7 @@
         "kubevirt-hyperconverged-operator.v4.19.41": ">=4.19.0 <4.19.41",
         "kubevirt-hyperconverged-operator.v4.19.42": ">=4.19.0 <4.19.42",
         "kubevirt-hyperconverged-operator.v4.19.43": ">=4.19.0 <4.19.43",
+        "kubevirt-hyperconverged-operator.v4.19.44": ">=4.19.0 <4.19.44",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -42777,6 +42800,7 @@
         "kubevirt-hyperconverged-operator.v4.20.31",
         "kubevirt-hyperconverged-operator.v4.20.32",
         "kubevirt-hyperconverged-operator.v4.20.35",
+        "kubevirt-hyperconverged-operator.v4.20.37",
         "kubevirt-hyperconverged-operator.v4.20.4",
         "kubevirt-hyperconverged-operator.v4.20.5",
         "kubevirt-hyperconverged-operator.v4.20.6",
@@ -42819,7 +42843,8 @@
         "kubevirt-hyperconverged-operator.v4.20.30": ">=4.20.0 <4.20.30",
         "kubevirt-hyperconverged-operator.v4.20.31": ">=4.20.0 <4.20.31",
         "kubevirt-hyperconverged-operator.v4.20.32": ">=4.20.0 <4.20.32",
-        "kubevirt-hyperconverged-operator.v4.20.35": ">=4.20.0 <4.20.35",
+        "kubevirt-hyperconverged-operator.v4.20.35": ">=4.19.37 <4.20.35",
+        "kubevirt-hyperconverged-operator.v4.20.37": ">=4.20.0 <4.20.37",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -42933,7 +42958,7 @@
         "kubevirt-hyperconverged-operator.v4.21.21": ">=4.21.0 <4.21.21",
         "kubevirt-hyperconverged-operator.v4.21.22": ">=4.21.0 <4.21.22",
         "kubevirt-hyperconverged-operator.v4.21.23": ">=4.21.0 <4.21.23",
-        "kubevirt-hyperconverged-operator.v4.21.24": ">=4.21.0 <4.21.24",
+        "kubevirt-hyperconverged-operator.v4.21.24": ">=4.20.35 <4.21.24",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -43010,6 +43035,7 @@
         "kubevirt-hyperconverged-operator.v4.22.12",
         "kubevirt-hyperconverged-operator.v4.22.13",
         "kubevirt-hyperconverged-operator.v4.22.14",
+        "kubevirt-hyperconverged-operator.v4.22.15",
         "kubevirt-hyperconverged-operator.v4.22.2",
         "kubevirt-hyperconverged-operator.v4.22.3",
         "kubevirt-hyperconverged-operator.v4.22.4",
@@ -43036,6 +43062,7 @@
         "kubevirt-hyperconverged-operator.v4.22.12": ">=4.21.17 <4.22.12",
         "kubevirt-hyperconverged-operator.v4.22.13": ">=4.22.0 <4.22.13",
         "kubevirt-hyperconverged-operator.v4.22.14": ">=4.22.0 <4.22.14",
+        "kubevirt-hyperconverged-operator.v4.22.15": ">=4.22.0 <4.22.15",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -45596,6 +45623,7 @@
       "versions": [
         "lvms-operator.v4.12.0",
         "lvms-operator.v4.12.1",
+        "lvms-operator.v4.12.10",
         "lvms-operator.v4.12.2",
         "lvms-operator.v4.12.3",
         "lvms-operator.v4.12.4",
@@ -45604,10 +45632,12 @@
         "lvms-operator.v4.12.7",
         "lvms-operator.v4.12.8",
         "lvms-operator.v4.12.9",
+        "lvms-operator.v4.13.0",
         "lvms-operator.v4.13.1",
         "lvms-operator.v4.13.10",
         "lvms-operator.v4.13.11",
         "lvms-operator.v4.13.12",
+        "lvms-operator.v4.13.13",
         "lvms-operator.v4.13.2",
         "lvms-operator.v4.13.3",
         "lvms-operator.v4.13.4",
@@ -45620,27 +45650,7 @@
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
-        "lvms-operator.v4.12.1": ">=4.2.0 <4.12.1",
-        "lvms-operator.v4.12.2": ">=4.2.0 <4.12.2",
-        "lvms-operator.v4.12.3": ">=4.2.0 <4.12.3",
-        "lvms-operator.v4.12.4": ">=4.2.0 <4.12.4",
-        "lvms-operator.v4.12.5": ">=4.2.0 <4.12.5",
-        "lvms-operator.v4.12.6": ">=4.2.0 <4.12.6",
-        "lvms-operator.v4.12.7": ">=4.2.0 <4.12.7",
-        "lvms-operator.v4.12.8": ">=4.2.0 <4.12.8",
-        "lvms-operator.v4.12.9": ">=4.2.0 <4.12.9",
-        "lvms-operator.v4.13.1": ">=4.2.0 <4.13.1",
-        "lvms-operator.v4.13.10": ">=4.2.0 <4.13.10",
-        "lvms-operator.v4.13.11": ">=4.2.0 <4.13.11",
-        "lvms-operator.v4.13.12": ">=4.2.0 <4.13.12",
-        "lvms-operator.v4.13.2": ">=4.2.0 <4.13.2",
-        "lvms-operator.v4.13.3": ">=4.2.0 <4.13.3",
-        "lvms-operator.v4.13.4": ">=4.2.0 <4.13.4",
-        "lvms-operator.v4.13.5": ">=4.2.0 <4.13.5",
-        "lvms-operator.v4.13.6": ">=4.2.0 <4.13.6",
-        "lvms-operator.v4.13.7": ">=4.2.0 <4.13.7",
-        "lvms-operator.v4.13.8": ">=4.2.0 <4.13.8",
-        "lvms-operator.v4.13.9": ">=4.2.0 <4.13.9"
+        "lvms-operator.v4.13.13": ">=4.2.0 <4.13.13"
       },
       "channels": [
         "stable-4.12",
@@ -68942,14 +68952,17 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
+        "openshift-gitops-operator.v1.22.2",
         "openshift-gitops-operator.v1.5.2",
         "openshift-gitops-operator.v1.5.3",
         "openshift-gitops-operator.v1.5.4",
@@ -69029,14 +69042,17 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
-        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1"
+        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
+        "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
       },
       "channels": [
         "gitops-1.10",
@@ -69142,14 +69158,17 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
+        "openshift-gitops-operator.v1.22.2",
         "openshift-gitops-operator.v1.5.2",
         "openshift-gitops-operator.v1.5.3",
         "openshift-gitops-operator.v1.5.4",
@@ -69229,14 +69248,17 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
-        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1"
+        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
+        "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
       },
       "channels": [
         "gitops-1.10",
@@ -69342,14 +69364,17 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
+        "openshift-gitops-operator.v1.22.2",
         "openshift-gitops-operator.v1.5.2",
         "openshift-gitops-operator.v1.5.3",
         "openshift-gitops-operator.v1.5.4",
@@ -69429,14 +69454,17 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
-        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1"
+        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
+        "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
       },
       "channels": [
         "gitops-1.10",
@@ -69542,14 +69570,17 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
+        "openshift-gitops-operator.v1.22.2",
         "openshift-gitops-operator.v1.5.2",
         "openshift-gitops-operator.v1.5.3",
         "openshift-gitops-operator.v1.5.4",
@@ -69629,14 +69660,17 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
-        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1"
+        "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
+        "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
       },
       "channels": [
         "gitops-1.10",
@@ -69742,12 +69776,14 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
         "openshift-gitops-operator.v1.22.2",
@@ -69830,12 +69866,14 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
         "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
         "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
@@ -69944,12 +69982,14 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
         "openshift-gitops-operator.v1.22.2",
@@ -70032,12 +70072,14 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
         "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
         "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
@@ -70146,12 +70188,14 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
         "openshift-gitops-operator.v1.22.2",
@@ -70234,12 +70278,14 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
         "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
         "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
@@ -70348,12 +70394,14 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
         "openshift-gitops-operator.v1.22.2",
@@ -70436,12 +70484,14 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
         "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
         "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
@@ -70550,12 +70600,14 @@
         "openshift-gitops-operator.v1.20.6",
         "openshift-gitops-operator.v1.20.7",
         "openshift-gitops-operator.v1.20.8",
+        "openshift-gitops-operator.v1.20.9",
         "openshift-gitops-operator.v1.21.0",
         "openshift-gitops-operator.v1.21.1",
         "openshift-gitops-operator.v1.21.2",
         "openshift-gitops-operator.v1.21.3",
         "openshift-gitops-operator.v1.21.4",
         "openshift-gitops-operator.v1.21.5",
+        "openshift-gitops-operator.v1.21.6",
         "openshift-gitops-operator.v1.22.0",
         "openshift-gitops-operator.v1.22.1",
         "openshift-gitops-operator.v1.22.2",
@@ -70638,12 +70690,14 @@
         "openshift-gitops-operator.v1.20.6": ">=1.20.0 <1.20.6",
         "openshift-gitops-operator.v1.20.7": ">=1.20.0 <1.20.7",
         "openshift-gitops-operator.v1.20.8": ">=1.20.0 <1.20.8",
+        "openshift-gitops-operator.v1.20.9": ">=1.20.0 <1.20.9",
         "openshift-gitops-operator.v1.21.0": ">=1.0.0 <1.21.0",
         "openshift-gitops-operator.v1.21.1": ">=1.21.0 <1.21.1",
         "openshift-gitops-operator.v1.21.2": ">=1.21.0 <1.21.2",
         "openshift-gitops-operator.v1.21.3": ">=1.21.0 <1.21.3",
         "openshift-gitops-operator.v1.21.4": ">=1.21.0 <1.21.4",
         "openshift-gitops-operator.v1.21.5": ">=1.21.0 <1.21.5",
+        "openshift-gitops-operator.v1.21.6": ">=1.21.0 <1.21.6",
         "openshift-gitops-operator.v1.22.0": ">=1.0.0 <1.22.0",
         "openshift-gitops-operator.v1.22.1": ">=1.22.0 <1.22.1",
         "openshift-gitops-operator.v1.22.2": ">=1.22.0 <1.22.2"
@@ -70810,6 +70864,7 @@
         "openshift-pipelines-operator-rh.v1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2",
@@ -70846,6 +70901,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2"
@@ -70866,6 +70922,7 @@
         "openshift-pipelines-operator-rh.v1.15.3": ">=1.14.0 <1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4": ">=1.14.0 <1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5": ">=1.14.0 <1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6": ">=1.14.0 <1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0": ">=1.15.0 <1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1": ">=1.15.0 <1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2": ">=1.15.0 <1.16.2",
@@ -70902,6 +70959,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
@@ -71009,6 +71067,7 @@
         "openshift-pipelines-operator-rh.v1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2",
@@ -71045,6 +71104,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2"
@@ -71058,6 +71118,7 @@
         "openshift-pipelines-operator-rh.v1.15.3": ">=1.14.0 <1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4": ">=1.14.0 <1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5": ">=1.14.0 <1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6": ">=1.14.0 <1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0": ">=1.15.0 <1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1": ">=1.15.0 <1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2": ">=1.15.0 <1.16.2",
@@ -71094,6 +71155,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
@@ -71205,6 +71267,7 @@
         "openshift-pipelines-operator-rh.v1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2",
@@ -71241,6 +71304,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2"
@@ -71254,6 +71318,7 @@
         "openshift-pipelines-operator-rh.v1.15.3": ">=1.14.0 <1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4": ">=1.14.0 <1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5": ">=1.14.0 <1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6": ">=1.14.0 <1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0": ">=1.15.0 <1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1": ">=1.15.0 <1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2": ">=1.15.0 <1.16.2",
@@ -71290,6 +71355,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
@@ -71316,6 +71382,7 @@
         "openshift-pipelines-operator-rh.v1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2",
@@ -71352,6 +71419,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2"
@@ -71365,6 +71433,7 @@
         "openshift-pipelines-operator-rh.v1.15.3": ">=1.14.0 <1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4": ">=1.14.0 <1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5": ">=1.14.0 <1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6": ">=1.14.0 <1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0": ">=1.15.0 <1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1": ">=1.15.0 <1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2": ">=1.15.0 <1.16.2",
@@ -71401,6 +71470,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
@@ -71427,6 +71497,7 @@
         "openshift-pipelines-operator-rh.v1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2",
@@ -71463,6 +71534,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2"
@@ -71476,6 +71548,7 @@
         "openshift-pipelines-operator-rh.v1.15.3": ">=1.14.0 <1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4": ">=1.14.0 <1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5": ">=1.14.0 <1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6": ">=1.14.0 <1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0": ">=1.15.0 <1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1": ">=1.15.0 <1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2": ">=1.15.0 <1.16.2",
@@ -71512,6 +71585,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
@@ -71538,6 +71612,7 @@
         "openshift-pipelines-operator-rh.v1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2",
@@ -71574,6 +71649,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2"
@@ -71587,6 +71663,7 @@
         "openshift-pipelines-operator-rh.v1.15.3": ">=1.14.0 <1.15.3",
         "openshift-pipelines-operator-rh.v1.15.4": ">=1.14.0 <1.15.4",
         "openshift-pipelines-operator-rh.v1.15.5": ">=1.14.0 <1.15.5",
+        "openshift-pipelines-operator-rh.v1.15.6": ">=1.14.0 <1.15.6",
         "openshift-pipelines-operator-rh.v1.16.0": ">=1.15.0 <1.16.0",
         "openshift-pipelines-operator-rh.v1.16.1": ">=1.15.0 <1.16.1",
         "openshift-pipelines-operator-rh.v1.16.2": ">=1.15.0 <1.16.2",
@@ -71623,6 +71700,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
@@ -71658,6 +71736,7 @@
         "openshift-pipelines-operator-rh.v1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2"
@@ -71680,6 +71759,7 @@
         "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
         "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
         "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
+        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
         "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
@@ -72063,6 +72143,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72108,7 +72189,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72140,6 +72222,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72185,7 +72268,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72217,6 +72301,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72262,7 +72347,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72294,6 +72380,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72339,7 +72426,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72371,6 +72459,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72416,7 +72505,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72448,6 +72538,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72493,7 +72584,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72525,6 +72617,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72570,7 +72663,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72602,6 +72696,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72647,7 +72742,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72679,6 +72775,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72724,7 +72821,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72756,6 +72854,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72801,7 +72900,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -72833,6 +72933,7 @@
         "opentelemetry-operator.v0.158.0-1",
         "opentelemetry-operator.v0.158.0-2",
         "opentelemetry-operator.v0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301",
         "opentelemetry-operator.v0.158.0-3",
         "opentelemetry-operator.v0.56.0-1",
         "opentelemetry-operator.v0.60.0-2",
@@ -72878,7 +72979,8 @@
         "opentelemetry-operator.v0.158.0-1": ">=0.33.0 <0.158.0-1",
         "opentelemetry-operator.v0.158.0-2": ">=0.33.0 <0.158.0-2",
         "opentelemetry-operator.v0.158.0-3": ">=0.33.0 <0.158.0-3",
-        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241"
+        "opentelemetry-operator.v0.158.0-202610151241": ">=0.33.0 <0.158.0-202610151241",
+        "opentelemetry-operator.v0.158.0-202610221301": ">=0.33.0 <0.158.0-202610221301"
       },
       "channels": [
         "stable"
@@ -83597,7 +83699,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83625,7 +83728,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83684,7 +83788,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83712,7 +83817,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83771,7 +83877,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83799,7 +83906,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83858,7 +83966,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83886,7 +83995,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -83945,7 +84055,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -83973,7 +84084,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -84032,7 +84144,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -84060,7 +84173,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -84119,7 +84233,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -84147,7 +84262,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -84206,7 +84322,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -84234,7 +84351,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -84293,7 +84411,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -84321,7 +84440,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -84380,7 +84500,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -84408,7 +84529,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -84467,7 +84589,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -84495,7 +84618,8 @@
         "red-hat-hawtio-operator.v2.0.1-0.1790029976.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1790560657.p": ">=1.0.0 <2.0.1",
         "red-hat-hawtio-operator.v2.0.1-0.1791769495.p": ">=1.0.0 <2.0.1",
-        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1"
+        "red-hat-hawtio-operator.v2.0.1-0.1791865867.p": ">=1.0.0 <2.0.1",
+        "red-hat-hawtio-operator.v2.0.1-0.1792974076.p": ">=1.0.0 <2.0.1"
       },
       "channels": [
         "latest",
@@ -103396,6 +103520,7 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.5.2",
         "volsync-product.v0.7.1",
         "volsync-product.v0.7.2",
@@ -103430,6 +103555,7 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.10.0": ">=0.4.0 <0.10.0",
         "volsync-product.v0.10.1": ">=0.4.0 <0.10.1",
         "volsync-product.v0.10.1-0.1730236570.p": ">=0.4.0 <0.10.1",
@@ -103491,6 +103617,7 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.8.0",
         "volsync-product.v0.8.1",
         "volsync-product.v0.8.2",
@@ -103518,6 +103645,7 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.10.0": ">=0.4.0 <0.10.0",
         "volsync-product.v0.10.1": ">=0.4.0 <0.10.1",
         "volsync-product.v0.10.1-0.1730236570.p": ">=0.4.0 <0.10.1",
@@ -103572,10 +103700,13 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.16.0",
         "volsync-product.v0.16.1",
         "volsync-product.v0.16.2",
+        "volsync-product.v0.16.3",
         "volsync-product.v0.17.0",
+        "volsync-product.v0.17.1",
         "volsync-product.v0.9.0",
         "volsync-product.v0.9.1",
         "volsync-product.v0.9.2",
@@ -103598,10 +103729,13 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.16.0": ">=0.4.0 <0.16.0",
         "volsync-product.v0.16.1": ">=0.4.0 <0.16.1",
         "volsync-product.v0.16.2": ">=0.4.0 <0.16.2",
+        "volsync-product.v0.16.3": ">=0.4.0 <0.16.3",
         "volsync-product.v0.17.0": ">=0.4.0 <0.17.0",
+        "volsync-product.v0.17.1": ">=0.4.0 <0.17.1",
         "volsync-product.v0.10.0": ">=0.4.0 <0.10.0",
         "volsync-product.v0.10.1": ">=0.4.0 <0.10.1",
         "volsync-product.v0.10.1-0.1730236570.p": ">=0.4.0 <0.10.1",
@@ -103652,10 +103786,13 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.16.0",
         "volsync-product.v0.16.1",
         "volsync-product.v0.16.2",
-        "volsync-product.v0.17.0"
+        "volsync-product.v0.16.3",
+        "volsync-product.v0.17.0",
+        "volsync-product.v0.17.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -103674,10 +103811,13 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.16.0": ">=0.4.0 <0.16.0",
         "volsync-product.v0.16.1": ">=0.4.0 <0.16.1",
         "volsync-product.v0.16.2": ">=0.4.0 <0.16.2",
+        "volsync-product.v0.16.3": ">=0.4.0 <0.16.3",
         "volsync-product.v0.17.0": ">=0.4.0 <0.17.0",
+        "volsync-product.v0.17.1": ">=0.4.0 <0.17.1",
         "volsync-product.v0.10.0": ">=0.4.0 <0.10.0",
         "volsync-product.v0.10.1": ">=0.4.0 <0.10.1",
         "volsync-product.v0.10.1-0.1730236570.p": ">=0.4.0 <0.10.1",
@@ -103719,10 +103859,13 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.16.0",
         "volsync-product.v0.16.1",
         "volsync-product.v0.16.2",
-        "volsync-product.v0.17.0"
+        "volsync-product.v0.16.3",
+        "volsync-product.v0.17.0",
+        "volsync-product.v0.17.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -103741,10 +103884,13 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.16.0": ">=0.4.0 <0.16.0",
         "volsync-product.v0.16.1": ">=0.4.0 <0.16.1",
         "volsync-product.v0.16.2": ">=0.4.0 <0.16.2",
+        "volsync-product.v0.16.3": ">=0.4.0 <0.16.3",
         "volsync-product.v0.17.0": ">=0.4.0 <0.17.0",
+        "volsync-product.v0.17.1": ">=0.4.0 <0.17.1",
         "volsync-product.v0.11.0": ">=0.4.0 <0.11.0",
         "volsync-product.v0.11.1": ">=0.4.0 <0.11.1",
         "volsync-product.v0.11.2": ">=0.4.0 <0.11.2",
@@ -103777,10 +103923,13 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.16.0",
         "volsync-product.v0.16.1",
         "volsync-product.v0.16.2",
-        "volsync-product.v0.17.0"
+        "volsync-product.v0.16.3",
+        "volsync-product.v0.17.0",
+        "volsync-product.v0.17.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -103799,10 +103948,13 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.16.0": ">=0.4.0 <0.16.0",
         "volsync-product.v0.16.1": ">=0.4.0 <0.16.1",
         "volsync-product.v0.16.2": ">=0.4.0 <0.16.2",
-        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0"
+        "volsync-product.v0.16.3": ">=0.4.0 <0.16.3",
+        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0",
+        "volsync-product.v0.17.1": ">=0.4.0 <0.17.1"
       },
       "channels": [
         "stable",
@@ -103826,10 +103978,13 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.16.0",
         "volsync-product.v0.16.1",
         "volsync-product.v0.16.2",
-        "volsync-product.v0.17.0"
+        "volsync-product.v0.16.3",
+        "volsync-product.v0.17.0",
+        "volsync-product.v0.17.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -103844,10 +103999,13 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.16.0": ">=0.4.0 <0.16.0",
         "volsync-product.v0.16.1": ">=0.4.0 <0.16.1",
         "volsync-product.v0.16.2": ">=0.4.0 <0.16.2",
-        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0"
+        "volsync-product.v0.16.3": ">=0.4.0 <0.16.3",
+        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0",
+        "volsync-product.v0.17.1": ">=0.4.0 <0.17.1"
       },
       "channels": [
         "stable",
@@ -103867,10 +104025,13 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.16.0",
         "volsync-product.v0.16.1",
         "volsync-product.v0.16.2",
-        "volsync-product.v0.17.0"
+        "volsync-product.v0.16.3",
+        "volsync-product.v0.17.0",
+        "volsync-product.v0.17.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -103882,10 +104043,13 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.16.0": ">=0.4.0 <0.16.0",
         "volsync-product.v0.16.1": ">=0.4.0 <0.16.1",
         "volsync-product.v0.16.2": ">=0.4.0 <0.16.2",
-        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0"
+        "volsync-product.v0.16.3": ">=0.4.0 <0.16.3",
+        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0",
+        "volsync-product.v0.17.1": ">=0.4.0 <0.17.1"
       },
       "channels": [
         "stable",
@@ -103901,10 +104065,13 @@
         "volsync-product.v0.15.1",
         "volsync-product.v0.15.2",
         "volsync-product.v0.15.3",
+        "volsync-product.v0.15.4",
         "volsync-product.v0.16.0",
         "volsync-product.v0.16.1",
         "volsync-product.v0.16.2",
-        "volsync-product.v0.17.0"
+        "volsync-product.v0.16.3",
+        "volsync-product.v0.17.0",
+        "volsync-product.v0.17.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -103913,10 +104080,13 @@
         "volsync-product.v0.15.1": ">=0.4.0 <0.15.1",
         "volsync-product.v0.15.2": ">=0.4.0 <0.15.2",
         "volsync-product.v0.15.3": ">=0.4.0 <0.15.3",
+        "volsync-product.v0.15.4": ">=0.4.0 <0.15.4",
         "volsync-product.v0.16.0": ">=0.4.0 <0.16.0",
         "volsync-product.v0.16.1": ">=0.4.0 <0.16.1",
         "volsync-product.v0.16.2": ">=0.4.0 <0.16.2",
-        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0"
+        "volsync-product.v0.16.3": ">=0.4.0 <0.16.3",
+        "volsync-product.v0.17.0": ">=0.4.0 <0.17.0",
+        "volsync-product.v0.17.1": ">=0.4.0 <0.17.1"
       },
       "channels": [
         "stable",
@@ -114291,7 +114461,8 @@
         "automation-portal-operator.v2.2.20260909",
         "automation-portal-operator.v2.2.20260929",
         "automation-portal-operator.v2.2.20261013",
-        "automation-portal-operator.v2.2.20261026"
+        "automation-portal-operator.v2.2.20261026",
+        "automation-portal-operator.v2.3.20261026"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114305,7 +114476,8 @@
         "automation-portal-operator.v2.2.20260909",
         "automation-portal-operator.v2.2.20260929",
         "automation-portal-operator.v2.2.20261013",
-        "automation-portal-operator.v2.2.20261026"
+        "automation-portal-operator.v2.2.20261026",
+        "automation-portal-operator.v2.3.20261026"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114319,7 +114491,8 @@
         "automation-portal-operator.v2.2.20260909",
         "automation-portal-operator.v2.2.20260929",
         "automation-portal-operator.v2.2.20261013",
-        "automation-portal-operator.v2.2.20261026"
+        "automation-portal-operator.v2.2.20261026",
+        "automation-portal-operator.v2.3.20261026"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114333,7 +114506,8 @@
         "automation-portal-operator.v2.2.20260909",
         "automation-portal-operator.v2.2.20260929",
         "automation-portal-operator.v2.2.20261013",
-        "automation-portal-operator.v2.2.20261026"
+        "automation-portal-operator.v2.2.20261026",
+        "automation-portal-operator.v2.3.20261026"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114347,7 +114521,8 @@
         "automation-portal-operator.v2.2.20260909",
         "automation-portal-operator.v2.2.20260929",
         "automation-portal-operator.v2.2.20261013",
-        "automation-portal-operator.v2.2.20261026"
+        "automation-portal-operator.v2.2.20261026",
+        "automation-portal-operator.v2.3.20261026"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114443,7 +114618,8 @@
         "kueue-operator.v1.4.0",
         "kueue-operator.v1.4.1",
         "kueue-operator.v1.4.2",
-        "kueue-operator.v1.4.3"
+        "kueue-operator.v1.4.3",
+        "kueue-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114455,7 +114631,8 @@
         "stable-v1.1",
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.19": {
@@ -114473,7 +114650,8 @@
         "kueue-operator.v1.4.0",
         "kueue-operator.v1.4.1",
         "kueue-operator.v1.4.2",
-        "kueue-operator.v1.4.3"
+        "kueue-operator.v1.4.3",
+        "kueue-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114485,7 +114663,8 @@
         "stable-v1.1",
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.20": {
@@ -114498,7 +114677,8 @@
         "kueue-operator.v1.4.0",
         "kueue-operator.v1.4.1",
         "kueue-operator.v1.4.2",
-        "kueue-operator.v1.4.3"
+        "kueue-operator.v1.4.3",
+        "kueue-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114507,7 +114687,8 @@
         "stable-v1.1",
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.21": {
@@ -114519,7 +114700,8 @@
         "kueue-operator.v1.4.0",
         "kueue-operator.v1.4.1",
         "kueue-operator.v1.4.2",
-        "kueue-operator.v1.4.3"
+        "kueue-operator.v1.4.3",
+        "kueue-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -114527,7 +114709,8 @@
       "channels": [
         "stable-v1.2",
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     },
     "4.22": {
@@ -114537,14 +114720,16 @@
         "kueue-operator.v1.4.0",
         "kueue-operator.v1.4.1",
         "kueue-operator.v1.4.2",
-        "kueue-operator.v1.4.3"
+        "kueue-operator.v1.4.3",
+        "kueue-operator.v1.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {},
       "channels": [
         "stable-v1.3",
-        "stable-v1.4"
+        "stable-v1.4",
+        "stable-v1.5"
       ]
     }
   },
