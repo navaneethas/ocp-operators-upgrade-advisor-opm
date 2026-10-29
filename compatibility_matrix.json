@@ -7736,6 +7736,8 @@
         "aap-operator.v2.4.0-0.1789667225",
         "aap-operator.v2.4.0-0.1791963300",
         "aap-operator.v2.4.0-0.1791968974",
+        "aap-operator.v2.4.0-0.1793164232",
+        "aap-operator.v2.4.0-0.1793169998",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -7864,6 +7866,7 @@
         "aap-operator.v2.4.0-0.1787235954": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1702352614": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1707507304": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1708975279": ">=2.0.1-0.1635283332 <2.4.1",
@@ -7902,6 +7905,7 @@
         "aap-operator.v2.4.0-0.1787241496": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -8280,6 +8284,8 @@
         "aap-operator.v2.4.0-0.1789667225",
         "aap-operator.v2.4.0-0.1791963300",
         "aap-operator.v2.4.0-0.1791968974",
+        "aap-operator.v2.4.0-0.1793164232",
+        "aap-operator.v2.4.0-0.1793169998",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -8468,6 +8474,7 @@
         "aap-operator.v2.4.0-0.1787235954": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1702352614": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1707507304": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1708975279": ">=2.0.1-0.1635283332 <2.4.1",
@@ -8506,6 +8513,7 @@
         "aap-operator.v2.4.0-0.1787241496": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -8968,6 +8976,8 @@
         "aap-operator.v2.4.0-0.1789667225",
         "aap-operator.v2.4.0-0.1791963300",
         "aap-operator.v2.4.0-0.1791968974",
+        "aap-operator.v2.4.0-0.1793164232",
+        "aap-operator.v2.4.0-0.1793169998",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -9156,6 +9166,7 @@
         "aap-operator.v2.4.0-0.1787235954": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1702352614": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1707507304": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1708975279": ">=2.0.1-0.1635283332 <2.4.1",
@@ -9194,6 +9205,7 @@
         "aap-operator.v2.4.0-0.1787241496": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -9648,6 +9660,8 @@
         "aap-operator.v2.4.0-0.1789667225",
         "aap-operator.v2.4.0-0.1791963300",
         "aap-operator.v2.4.0-0.1791968974",
+        "aap-operator.v2.4.0-0.1793164232",
+        "aap-operator.v2.4.0-0.1793169998",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -9816,6 +9830,7 @@
         "aap-operator.v2.4.0-0.1787235954": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1749069693": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1750878254": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1753232791": ">=2.0.1-0.1635283332 <2.4.1",
@@ -9834,6 +9849,7 @@
         "aap-operator.v2.4.0-0.1787241496": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -10008,6 +10024,8 @@
         "aap-operator.v2.4.0-0.1789667225",
         "aap-operator.v2.4.0-0.1791963300",
         "aap-operator.v2.4.0-0.1791968974",
+        "aap-operator.v2.4.0-0.1793164232",
+        "aap-operator.v2.4.0-0.1793169998",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -10166,6 +10184,7 @@
         "aap-operator.v2.4.0-0.1787235954": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1773417703": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1774582128": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1777401109": ">=2.0.1-0.1635283332 <2.4.1",
@@ -10174,6 +10193,7 @@
         "aap-operator.v2.4.0-0.1787241496": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -10348,6 +10368,8 @@
         "aap-operator.v2.4.0-0.1789667225",
         "aap-operator.v2.4.0-0.1791963300",
         "aap-operator.v2.4.0-0.1791968974",
+        "aap-operator.v2.4.0-0.1793164232",
+        "aap-operator.v2.4.0-0.1793169998",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -10506,6 +10528,7 @@
         "aap-operator.v2.4.0-0.1787235954": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1773417703": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1774582128": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1777401109": ">=2.0.1-0.1635283332 <2.4.1",
@@ -10514,6 +10537,7 @@
         "aap-operator.v2.4.0-0.1787241496": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -14488,7 +14512,8 @@
         "aws-load-balancer-operator.v1.2.1",
         "aws-load-balancer-operator.v1.3.0",
         "aws-load-balancer-operator.v1.3.1",
-        "aws-load-balancer-operator.v1.3.2"
+        "aws-load-balancer-operator.v1.3.2",
+        "aws-load-balancer-operator.v1.3.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -14499,7 +14524,8 @@
         "aws-load-balancer-operator.v1.2.1": "<1.2.1",
         "aws-load-balancer-operator.v1.3.0": "<1.3.0",
         "aws-load-balancer-operator.v1.3.1": "<1.3.1",
-        "aws-load-balancer-operator.v1.3.2": "<1.3.2"
+        "aws-load-balancer-operator.v1.3.2": "<1.3.2",
+        "aws-load-balancer-operator.v1.3.3": "<1.3.3"
       },
       "channels": [
         "stable-v1",
@@ -14516,7 +14542,8 @@
         "aws-load-balancer-operator.v1.2.1",
         "aws-load-balancer-operator.v1.3.0",
         "aws-load-balancer-operator.v1.3.1",
-        "aws-load-balancer-operator.v1.3.2"
+        "aws-load-balancer-operator.v1.3.2",
+        "aws-load-balancer-operator.v1.3.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -14527,7 +14554,8 @@
         "aws-load-balancer-operator.v1.2.1": "<1.2.1",
         "aws-load-balancer-operator.v1.3.0": "<1.3.0",
         "aws-load-balancer-operator.v1.3.1": "<1.3.1",
-        "aws-load-balancer-operator.v1.3.2": "<1.3.2"
+        "aws-load-balancer-operator.v1.3.2": "<1.3.2",
+        "aws-load-balancer-operator.v1.3.3": "<1.3.3"
       },
       "channels": [
         "stable-v1",
@@ -14544,7 +14572,8 @@
         "aws-load-balancer-operator.v1.2.1",
         "aws-load-balancer-operator.v1.3.0",
         "aws-load-balancer-operator.v1.3.1",
-        "aws-load-balancer-operator.v1.3.2"
+        "aws-load-balancer-operator.v1.3.2",
+        "aws-load-balancer-operator.v1.3.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -14555,7 +14584,8 @@
         "aws-load-balancer-operator.v1.2.1": "<1.2.1",
         "aws-load-balancer-operator.v1.3.0": "<1.3.0",
         "aws-load-balancer-operator.v1.3.1": "<1.3.1",
-        "aws-load-balancer-operator.v1.3.2": "<1.3.2"
+        "aws-load-balancer-operator.v1.3.2": "<1.3.2",
+        "aws-load-balancer-operator.v1.3.3": "<1.3.3"
       },
       "channels": [
         "stable-v1",
@@ -14572,7 +14602,8 @@
         "aws-load-balancer-operator.v1.2.1",
         "aws-load-balancer-operator.v1.3.0",
         "aws-load-balancer-operator.v1.3.1",
-        "aws-load-balancer-operator.v1.3.2"
+        "aws-load-balancer-operator.v1.3.2",
+        "aws-load-balancer-operator.v1.3.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -14583,7 +14614,8 @@
         "aws-load-balancer-operator.v1.2.1": "<1.2.1",
         "aws-load-balancer-operator.v1.3.0": "<1.3.0",
         "aws-load-balancer-operator.v1.3.1": "<1.3.1",
-        "aws-load-balancer-operator.v1.3.2": "<1.3.2"
+        "aws-load-balancer-operator.v1.3.2": "<1.3.2",
+        "aws-load-balancer-operator.v1.3.3": "<1.3.3"
       },
       "channels": [
         "stable-v1",
@@ -39957,6 +39989,7 @@
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
         "kiali-operator.v2.27.5",
+        "kiali-operator.v2.33.1",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40007,7 +40040,8 @@
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
         "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
-        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5",
+        "kiali-operator.v2.33.1": ">=1.0.0 <2.33.1"
       },
       "channels": [
         "candidate",
@@ -40133,6 +40167,7 @@
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
         "kiali-operator.v2.27.5",
+        "kiali-operator.v2.33.1",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40183,7 +40218,8 @@
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
         "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
-        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5",
+        "kiali-operator.v2.33.1": ">=1.0.0 <2.33.1"
       },
       "channels": [
         "candidate",
@@ -40309,6 +40345,7 @@
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
         "kiali-operator.v2.27.5",
+        "kiali-operator.v2.33.1",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40359,7 +40396,8 @@
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
         "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
-        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5",
+        "kiali-operator.v2.33.1": ">=1.0.0 <2.33.1"
       },
       "channels": [
         "candidate",
@@ -40405,6 +40443,7 @@
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
         "kiali-operator.v2.27.5",
+        "kiali-operator.v2.33.1",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40455,7 +40494,8 @@
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
         "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
-        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5",
+        "kiali-operator.v2.33.1": ">=1.0.0 <2.33.1"
       },
       "channels": [
         "candidate",
@@ -40501,6 +40541,7 @@
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
         "kiali-operator.v2.27.5",
+        "kiali-operator.v2.33.1",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40551,7 +40592,8 @@
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
         "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
-        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5",
+        "kiali-operator.v2.33.1": ">=1.0.0 <2.33.1"
       },
       "channels": [
         "candidate",
@@ -40597,6 +40639,7 @@
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
         "kiali-operator.v2.27.5",
+        "kiali-operator.v2.33.1",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40647,7 +40690,8 @@
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
         "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
-        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5",
+        "kiali-operator.v2.33.1": ">=1.0.0 <2.33.1"
       },
       "channels": [
         "candidate",
@@ -40693,6 +40737,7 @@
         "kiali-operator.v2.27.3",
         "kiali-operator.v2.27.4",
         "kiali-operator.v2.27.5",
+        "kiali-operator.v2.33.1",
         "kiali-operator.v2.4.3",
         "kiali-operator.v2.4.4",
         "kiali-operator.v2.4.5",
@@ -40743,7 +40788,8 @@
         "kiali-operator.v2.27.2": ">=1.0.0 <2.27.2",
         "kiali-operator.v2.27.3": ">=1.0.0 <2.27.3",
         "kiali-operator.v2.27.4": ">=1.0.0 <2.27.4",
-        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5"
+        "kiali-operator.v2.27.5": ">=1.0.0 <2.27.5",
+        "kiali-operator.v2.33.1": ">=1.0.0 <2.33.1"
       },
       "channels": [
         "candidate",
@@ -45885,6 +45931,7 @@
         "lvms-operator.v4.15.1",
         "lvms-operator.v4.15.10",
         "lvms-operator.v4.15.11",
+        "lvms-operator.v4.15.12",
         "lvms-operator.v4.15.2",
         "lvms-operator.v4.15.3",
         "lvms-operator.v4.15.4",
@@ -45897,6 +45944,7 @@
         "lvms-operator.v4.16.1",
         "lvms-operator.v4.16.10",
         "lvms-operator.v4.16.11",
+        "lvms-operator.v4.16.12",
         "lvms-operator.v4.16.2",
         "lvms-operator.v4.16.3",
         "lvms-operator.v4.16.4",
@@ -45909,12 +45957,13 @@
         "lvms-operator.v4.18.1",
         "lvms-operator.v4.18.2",
         "lvms-operator.v4.18.3",
-        "lvms-operator.v4.18.4"
+        "lvms-operator.v4.18.4",
+        "lvms-operator.v4.18.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
-        "lvms-operator.v4.16.11": ">=4.2.0 <4.16.11"
+        "lvms-operator.v4.16.12": ">=4.2.0 <4.16.12"
       },
       "channels": [
         "stable-4.15",
@@ -47243,6 +47292,7 @@
         "mcg-operator.v4.19.23-rhodf",
         "mcg-operator.v4.19.24-rhodf",
         "mcg-operator.v4.19.25-rhodf",
+        "mcg-operator.v4.19.26-rhodf",
         "mcg-operator.v4.19.3-rhodf",
         "mcg-operator.v4.19.4-rhodf",
         "mcg-operator.v4.19.5-rhodf",
@@ -47310,7 +47360,8 @@
         "mcg-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "mcg-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "mcg-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "mcg-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "mcg-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "mcg-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -47338,6 +47389,7 @@
         "mcg-operator.v4.19.23-rhodf",
         "mcg-operator.v4.19.24-rhodf",
         "mcg-operator.v4.19.25-rhodf",
+        "mcg-operator.v4.19.26-rhodf",
         "mcg-operator.v4.19.3-rhodf",
         "mcg-operator.v4.19.4-rhodf",
         "mcg-operator.v4.19.5-rhodf",
@@ -47359,6 +47411,7 @@
         "mcg-operator.v4.20.19-rhodf",
         "mcg-operator.v4.20.2-rhodf",
         "mcg-operator.v4.20.20-rhodf",
+        "mcg-operator.v4.20.21-rhodf",
         "mcg-operator.v4.20.3-rhodf",
         "mcg-operator.v4.20.4-rhodf",
         "mcg-operator.v4.20.5-rhodf",
@@ -47396,6 +47449,7 @@
         "mcg-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "mcg-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "mcg-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "mcg-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "mcg-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "mcg-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "mcg-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -47416,7 +47470,8 @@
         "mcg-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "mcg-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "mcg-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "mcg-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "mcg-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "mcg-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -47439,6 +47494,7 @@
         "mcg-operator.v4.20.19-rhodf",
         "mcg-operator.v4.20.2-rhodf",
         "mcg-operator.v4.20.20-rhodf",
+        "mcg-operator.v4.20.21-rhodf",
         "mcg-operator.v4.20.3-rhodf",
         "mcg-operator.v4.20.4-rhodf",
         "mcg-operator.v4.20.5-rhodf",
@@ -47453,6 +47509,7 @@
         "mcg-operator.v4.21.12-rhodf",
         "mcg-operator.v4.21.13-rhodf",
         "mcg-operator.v4.21.14-rhodf",
+        "mcg-operator.v4.21.15-rhodf",
         "mcg-operator.v4.21.2-rhodf",
         "mcg-operator.v4.21.3-rhodf",
         "mcg-operator.v4.21.4-rhodf",
@@ -47486,6 +47543,7 @@
         "mcg-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "mcg-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "mcg-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "mcg-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "mcg-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "mcg-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "mcg-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -47500,7 +47558,8 @@
         "mcg-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "mcg-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "mcg-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "mcg-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "mcg-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "mcg-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -47516,6 +47575,7 @@
         "mcg-operator.v4.21.12-rhodf",
         "mcg-operator.v4.21.13-rhodf",
         "mcg-operator.v4.21.14-rhodf",
+        "mcg-operator.v4.21.15-rhodf",
         "mcg-operator.v4.21.2-rhodf",
         "mcg-operator.v4.21.3-rhodf",
         "mcg-operator.v4.21.4-rhodf",
@@ -47530,7 +47590,8 @@
         "mcg-operator.v4.22.3-rhodf",
         "mcg-operator.v4.22.4-rhodf",
         "mcg-operator.v4.22.5-rhodf",
-        "mcg-operator.v4.22.6-rhodf"
+        "mcg-operator.v4.22.6-rhodf",
+        "mcg-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -47550,13 +47611,15 @@
         "mcg-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "mcg-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "mcg-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "mcg-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "mcg-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "mcg-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "mcg-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "mcg-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "mcg-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "mcg-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "mcg-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "mcg-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "mcg-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -57153,6 +57216,7 @@
         "ocs-client-operator.v4.19.23-rhodf",
         "ocs-client-operator.v4.19.24-rhodf",
         "ocs-client-operator.v4.19.25-rhodf",
+        "ocs-client-operator.v4.19.26-rhodf",
         "ocs-client-operator.v4.19.3-rhodf",
         "ocs-client-operator.v4.19.4-rhodf",
         "ocs-client-operator.v4.19.5-rhodf",
@@ -57213,6 +57277,7 @@
         "cephcsi-operator (>=4.9.0 <=4.19.23-rhodf)",
         "cephcsi-operator (>=4.9.0 <=4.19.24-rhodf)",
         "cephcsi-operator (>=4.9.0 <=4.19.25-rhodf)",
+        "cephcsi-operator (>=4.9.0 <=4.19.26-rhodf)",
         "cephcsi-operator (>=4.9.0 <=4.19.3)",
         "cephcsi-operator (>=4.9.0 <=4.19.4)",
         "cephcsi-operator (>=4.9.0 <=4.19.5)",
@@ -57301,6 +57366,7 @@
         "odf-csi-addons-operator (>=4.9.0 <=4.19.23-rhodf)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.24-rhodf)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.25-rhodf)",
+        "odf-csi-addons-operator (>=4.9.0 <=4.19.26-rhodf)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.3)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.4)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.5)",
@@ -57354,6 +57420,7 @@
         "recipe (>=4.9.0 <=4.19.23-rhodf)",
         "recipe (>=4.9.0 <=4.19.24-rhodf)",
         "recipe (>=4.9.0 <=4.19.25-rhodf)",
+        "recipe (>=4.9.0 <=4.19.26-rhodf)",
         "recipe (>=4.9.0 <=4.19.3)",
         "recipe (>=4.9.0 <=4.19.4)",
         "recipe (>=4.9.0 <=4.19.5)",
@@ -57419,7 +57486,8 @@
         "ocs-client-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "ocs-client-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "ocs-client-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "ocs-client-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "ocs-client-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "ocs-client-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -57447,6 +57515,7 @@
         "ocs-client-operator.v4.19.23-rhodf",
         "ocs-client-operator.v4.19.24-rhodf",
         "ocs-client-operator.v4.19.25-rhodf",
+        "ocs-client-operator.v4.19.26-rhodf",
         "ocs-client-operator.v4.19.3-rhodf",
         "ocs-client-operator.v4.19.4-rhodf",
         "ocs-client-operator.v4.19.5-rhodf",
@@ -57468,6 +57537,7 @@
         "ocs-client-operator.v4.20.19-rhodf",
         "ocs-client-operator.v4.20.2-rhodf",
         "ocs-client-operator.v4.20.20-rhodf",
+        "ocs-client-operator.v4.20.21-rhodf",
         "ocs-client-operator.v4.20.3-rhodf",
         "ocs-client-operator.v4.20.4-rhodf",
         "ocs-client-operator.v4.20.5-rhodf",
@@ -57502,6 +57572,7 @@
         "cephcsi-operator (4.20.19-rhodf)",
         "cephcsi-operator (4.20.2-rhodf)",
         "cephcsi-operator (4.20.20-rhodf)",
+        "cephcsi-operator (4.20.21-rhodf)",
         "cephcsi-operator (4.20.3-rhodf)",
         "cephcsi-operator (4.20.4-rhodf)",
         "cephcsi-operator (4.20.5-rhodf)",
@@ -57518,6 +57589,7 @@
         "cephcsi-operator (>=4.9.0 <=4.19.23-rhodf)",
         "cephcsi-operator (>=4.9.0 <=4.19.24-rhodf)",
         "cephcsi-operator (>=4.9.0 <=4.19.25-rhodf)",
+        "cephcsi-operator (>=4.9.0 <=4.19.26-rhodf)",
         "cephcsi-operator (>=4.9.0 <=4.19.3)",
         "cephcsi-operator (>=4.9.0 <=4.19.4)",
         "cephcsi-operator (>=4.9.0 <=4.19.5)",
@@ -57549,6 +57621,7 @@
         "odf-csi-addons-operator (4.20.19-rhodf)",
         "odf-csi-addons-operator (4.20.2-rhodf)",
         "odf-csi-addons-operator (4.20.20-rhodf)",
+        "odf-csi-addons-operator (4.20.21-rhodf)",
         "odf-csi-addons-operator (4.20.3-rhodf)",
         "odf-csi-addons-operator (4.20.4-rhodf)",
         "odf-csi-addons-operator (4.20.5-rhodf)",
@@ -57565,6 +57638,7 @@
         "odf-csi-addons-operator (>=4.9.0 <=4.19.23-rhodf)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.24-rhodf)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.25-rhodf)",
+        "odf-csi-addons-operator (>=4.9.0 <=4.19.26-rhodf)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.3)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.4)",
         "odf-csi-addons-operator (>=4.9.0 <=4.19.5)",
@@ -57586,6 +57660,7 @@
         "odf-external-snapshotter-operator (4.20.19-rhodf)",
         "odf-external-snapshotter-operator (4.20.2-rhodf)",
         "odf-external-snapshotter-operator (4.20.20-rhodf)",
+        "odf-external-snapshotter-operator (4.20.21-rhodf)",
         "odf-external-snapshotter-operator (4.20.3-rhodf)",
         "odf-external-snapshotter-operator (4.20.4-rhodf)",
         "odf-external-snapshotter-operator (4.20.5-rhodf)",
@@ -57617,6 +57692,7 @@
         "recipe (4.20.19-rhodf)",
         "recipe (4.20.2-rhodf)",
         "recipe (4.20.20-rhodf)",
+        "recipe (4.20.21-rhodf)",
         "recipe (4.20.3-rhodf)",
         "recipe (4.20.4-rhodf)",
         "recipe (4.20.5-rhodf)",
@@ -57633,6 +57709,7 @@
         "recipe (>=4.9.0 <=4.19.23-rhodf)",
         "recipe (>=4.9.0 <=4.19.24-rhodf)",
         "recipe (>=4.9.0 <=4.19.25-rhodf)",
+        "recipe (>=4.9.0 <=4.19.26-rhodf)",
         "recipe (>=4.9.0 <=4.19.3)",
         "recipe (>=4.9.0 <=4.19.4)",
         "recipe (>=4.9.0 <=4.19.5)",
@@ -57668,6 +57745,7 @@
         "ocs-client-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "ocs-client-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "ocs-client-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "ocs-client-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "ocs-client-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "ocs-client-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "ocs-client-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -57688,7 +57766,8 @@
         "ocs-client-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "ocs-client-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "ocs-client-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "ocs-client-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "ocs-client-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "ocs-client-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -57711,6 +57790,7 @@
         "ocs-client-operator.v4.20.19-rhodf",
         "ocs-client-operator.v4.20.2-rhodf",
         "ocs-client-operator.v4.20.20-rhodf",
+        "ocs-client-operator.v4.20.21-rhodf",
         "ocs-client-operator.v4.20.3-rhodf",
         "ocs-client-operator.v4.20.4-rhodf",
         "ocs-client-operator.v4.20.5-rhodf",
@@ -57725,6 +57805,7 @@
         "ocs-client-operator.v4.21.12-rhodf",
         "ocs-client-operator.v4.21.13-rhodf",
         "ocs-client-operator.v4.21.14-rhodf",
+        "ocs-client-operator.v4.21.15-rhodf",
         "ocs-client-operator.v4.21.2-rhodf",
         "ocs-client-operator.v4.21.3-rhodf",
         "ocs-client-operator.v4.21.4-rhodf",
@@ -57750,6 +57831,7 @@
         "cephcsi-operator (4.20.19-rhodf)",
         "cephcsi-operator (4.20.2-rhodf)",
         "cephcsi-operator (4.20.20-rhodf)",
+        "cephcsi-operator (4.20.21-rhodf)",
         "cephcsi-operator (4.20.3-rhodf)",
         "cephcsi-operator (4.20.4-rhodf)",
         "cephcsi-operator (4.20.5-rhodf)",
@@ -57764,6 +57846,7 @@
         "cephcsi-operator (4.21.12-rhodf)",
         "cephcsi-operator (4.21.13-rhodf)",
         "cephcsi-operator (4.21.14-rhodf)",
+        "cephcsi-operator (4.21.15-rhodf)",
         "cephcsi-operator (4.21.2-rhodf)",
         "cephcsi-operator (4.21.3-rhodf)",
         "cephcsi-operator (4.21.4-rhodf)",
@@ -57786,6 +57869,7 @@
         "odf-csi-addons-operator (4.20.19-rhodf)",
         "odf-csi-addons-operator (4.20.2-rhodf)",
         "odf-csi-addons-operator (4.20.20-rhodf)",
+        "odf-csi-addons-operator (4.20.21-rhodf)",
         "odf-csi-addons-operator (4.20.3-rhodf)",
         "odf-csi-addons-operator (4.20.4-rhodf)",
         "odf-csi-addons-operator (4.20.5-rhodf)",
@@ -57800,6 +57884,7 @@
         "odf-csi-addons-operator (4.21.12-rhodf)",
         "odf-csi-addons-operator (4.21.13-rhodf)",
         "odf-csi-addons-operator (4.21.14-rhodf)",
+        "odf-csi-addons-operator (4.21.15-rhodf)",
         "odf-csi-addons-operator (4.21.2-rhodf)",
         "odf-csi-addons-operator (4.21.3-rhodf)",
         "odf-csi-addons-operator (4.21.4-rhodf)",
@@ -57822,6 +57907,7 @@
         "odf-external-snapshotter-operator (4.20.19-rhodf)",
         "odf-external-snapshotter-operator (4.20.2-rhodf)",
         "odf-external-snapshotter-operator (4.20.20-rhodf)",
+        "odf-external-snapshotter-operator (4.20.21-rhodf)",
         "odf-external-snapshotter-operator (4.20.3-rhodf)",
         "odf-external-snapshotter-operator (4.20.4-rhodf)",
         "odf-external-snapshotter-operator (4.20.5-rhodf)",
@@ -57836,6 +57922,7 @@
         "odf-external-snapshotter-operator (4.21.12-rhodf)",
         "odf-external-snapshotter-operator (4.21.13-rhodf)",
         "odf-external-snapshotter-operator (4.21.14-rhodf)",
+        "odf-external-snapshotter-operator (4.21.15-rhodf)",
         "odf-external-snapshotter-operator (4.21.2-rhodf)",
         "odf-external-snapshotter-operator (4.21.3-rhodf)",
         "odf-external-snapshotter-operator (4.21.4-rhodf)",
@@ -57858,6 +57945,7 @@
         "recipe (4.20.19-rhodf)",
         "recipe (4.20.2-rhodf)",
         "recipe (4.20.20-rhodf)",
+        "recipe (4.20.21-rhodf)",
         "recipe (4.20.3-rhodf)",
         "recipe (4.20.4-rhodf)",
         "recipe (4.20.5-rhodf)",
@@ -57872,6 +57960,7 @@
         "recipe (4.21.12-rhodf)",
         "recipe (4.21.13-rhodf)",
         "recipe (4.21.14-rhodf)",
+        "recipe (4.21.15-rhodf)",
         "recipe (4.21.2-rhodf)",
         "recipe (4.21.3-rhodf)",
         "recipe (4.21.4-rhodf)",
@@ -57903,6 +57992,7 @@
         "ocs-client-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "ocs-client-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "ocs-client-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "ocs-client-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "ocs-client-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "ocs-client-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "ocs-client-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -57917,7 +58007,8 @@
         "ocs-client-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "ocs-client-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "ocs-client-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "ocs-client-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "ocs-client-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "ocs-client-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -57933,6 +58024,7 @@
         "ocs-client-operator.v4.21.12-rhodf",
         "ocs-client-operator.v4.21.13-rhodf",
         "ocs-client-operator.v4.21.14-rhodf",
+        "ocs-client-operator.v4.21.15-rhodf",
         "ocs-client-operator.v4.21.2-rhodf",
         "ocs-client-operator.v4.21.3-rhodf",
         "ocs-client-operator.v4.21.4-rhodf",
@@ -57947,7 +58039,8 @@
         "ocs-client-operator.v4.22.3-rhodf",
         "ocs-client-operator.v4.22.4-rhodf",
         "ocs-client-operator.v4.22.5-rhodf",
-        "ocs-client-operator.v4.22.6-rhodf"
+        "ocs-client-operator.v4.22.6-rhodf",
+        "ocs-client-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [
@@ -57958,6 +58051,7 @@
         "cephcsi-operator (4.21.12-rhodf)",
         "cephcsi-operator (4.21.13-rhodf)",
         "cephcsi-operator (4.21.14-rhodf)",
+        "cephcsi-operator (4.21.15-rhodf)",
         "cephcsi-operator (4.21.2-rhodf)",
         "cephcsi-operator (4.21.3-rhodf)",
         "cephcsi-operator (4.21.4-rhodf)",
@@ -57973,6 +58067,7 @@
         "cephcsi-operator (4.22.4-rhodf)",
         "cephcsi-operator (4.22.5-rhodf)",
         "cephcsi-operator (4.22.6-rhodf)",
+        "cephcsi-operator (4.22.7-rhodf)",
         "odf-csi-addons-operator (4.21.0-rhodf)",
         "odf-csi-addons-operator (4.21.1-rhodf)",
         "odf-csi-addons-operator (4.21.10-rhodf)",
@@ -57980,6 +58075,7 @@
         "odf-csi-addons-operator (4.21.12-rhodf)",
         "odf-csi-addons-operator (4.21.13-rhodf)",
         "odf-csi-addons-operator (4.21.14-rhodf)",
+        "odf-csi-addons-operator (4.21.15-rhodf)",
         "odf-csi-addons-operator (4.21.2-rhodf)",
         "odf-csi-addons-operator (4.21.3-rhodf)",
         "odf-csi-addons-operator (4.21.4-rhodf)",
@@ -57995,6 +58091,7 @@
         "odf-csi-addons-operator (4.22.4-rhodf)",
         "odf-csi-addons-operator (4.22.5-rhodf)",
         "odf-csi-addons-operator (4.22.6-rhodf)",
+        "odf-csi-addons-operator (4.22.7-rhodf)",
         "odf-external-snapshotter-operator (4.21.0-rhodf)",
         "odf-external-snapshotter-operator (4.21.1-rhodf)",
         "odf-external-snapshotter-operator (4.21.10-rhodf)",
@@ -58002,6 +58099,7 @@
         "odf-external-snapshotter-operator (4.21.12-rhodf)",
         "odf-external-snapshotter-operator (4.21.13-rhodf)",
         "odf-external-snapshotter-operator (4.21.14-rhodf)",
+        "odf-external-snapshotter-operator (4.21.15-rhodf)",
         "odf-external-snapshotter-operator (4.21.2-rhodf)",
         "odf-external-snapshotter-operator (4.21.3-rhodf)",
         "odf-external-snapshotter-operator (4.21.4-rhodf)",
@@ -58017,6 +58115,7 @@
         "odf-external-snapshotter-operator (4.22.4-rhodf)",
         "odf-external-snapshotter-operator (4.22.5-rhodf)",
         "odf-external-snapshotter-operator (4.22.6-rhodf)",
+        "odf-external-snapshotter-operator (4.22.7-rhodf)",
         "recipe (4.21.0-rhodf)",
         "recipe (4.21.1-rhodf)",
         "recipe (4.21.10-rhodf)",
@@ -58024,6 +58123,7 @@
         "recipe (4.21.12-rhodf)",
         "recipe (4.21.13-rhodf)",
         "recipe (4.21.14-rhodf)",
+        "recipe (4.21.15-rhodf)",
         "recipe (4.21.2-rhodf)",
         "recipe (4.21.3-rhodf)",
         "recipe (4.21.4-rhodf)",
@@ -58038,7 +58138,8 @@
         "recipe (4.22.3-rhodf)",
         "recipe (4.22.4-rhodf)",
         "recipe (4.22.5-rhodf)",
-        "recipe (4.22.6-rhodf)"
+        "recipe (4.22.6-rhodf)",
+        "recipe (4.22.7-rhodf)"
       ],
       "skipRanges": {
         "ocs-client-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
@@ -58056,13 +58157,15 @@
         "ocs-client-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "ocs-client-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "ocs-client-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "ocs-client-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "ocs-client-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "ocs-client-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "ocs-client-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "ocs-client-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "ocs-client-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "ocs-client-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "ocs-client-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "ocs-client-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "ocs-client-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -58988,6 +59091,7 @@
         "ocs-operator.v4.19.23-rhodf",
         "ocs-operator.v4.19.24-rhodf",
         "ocs-operator.v4.19.25-rhodf",
+        "ocs-operator.v4.19.26-rhodf",
         "ocs-operator.v4.19.3-rhodf",
         "ocs-operator.v4.19.4-rhodf",
         "ocs-operator.v4.19.5-rhodf",
@@ -59055,7 +59159,8 @@
         "ocs-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "ocs-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "ocs-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "ocs-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "ocs-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "ocs-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -59083,6 +59188,7 @@
         "ocs-operator.v4.19.23-rhodf",
         "ocs-operator.v4.19.24-rhodf",
         "ocs-operator.v4.19.25-rhodf",
+        "ocs-operator.v4.19.26-rhodf",
         "ocs-operator.v4.19.3-rhodf",
         "ocs-operator.v4.19.4-rhodf",
         "ocs-operator.v4.19.5-rhodf",
@@ -59104,6 +59210,7 @@
         "ocs-operator.v4.20.19-rhodf",
         "ocs-operator.v4.20.2-rhodf",
         "ocs-operator.v4.20.20-rhodf",
+        "ocs-operator.v4.20.21-rhodf",
         "ocs-operator.v4.20.3-rhodf",
         "ocs-operator.v4.20.4-rhodf",
         "ocs-operator.v4.20.5-rhodf",
@@ -59141,6 +59248,7 @@
         "ocs-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "ocs-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "ocs-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "ocs-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "ocs-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "ocs-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "ocs-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -59161,7 +59269,8 @@
         "ocs-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "ocs-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "ocs-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "ocs-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "ocs-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "ocs-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -59184,6 +59293,7 @@
         "ocs-operator.v4.20.19-rhodf",
         "ocs-operator.v4.20.2-rhodf",
         "ocs-operator.v4.20.20-rhodf",
+        "ocs-operator.v4.20.21-rhodf",
         "ocs-operator.v4.20.3-rhodf",
         "ocs-operator.v4.20.4-rhodf",
         "ocs-operator.v4.20.5-rhodf",
@@ -59198,6 +59308,7 @@
         "ocs-operator.v4.21.12-rhodf",
         "ocs-operator.v4.21.13-rhodf",
         "ocs-operator.v4.21.14-rhodf",
+        "ocs-operator.v4.21.15-rhodf",
         "ocs-operator.v4.21.2-rhodf",
         "ocs-operator.v4.21.3-rhodf",
         "ocs-operator.v4.21.4-rhodf",
@@ -59231,6 +59342,7 @@
         "ocs-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "ocs-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "ocs-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "ocs-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "ocs-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "ocs-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "ocs-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -59245,7 +59357,8 @@
         "ocs-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "ocs-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "ocs-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "ocs-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "ocs-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "ocs-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -59261,6 +59374,7 @@
         "ocs-operator.v4.21.12-rhodf",
         "ocs-operator.v4.21.13-rhodf",
         "ocs-operator.v4.21.14-rhodf",
+        "ocs-operator.v4.21.15-rhodf",
         "ocs-operator.v4.21.2-rhodf",
         "ocs-operator.v4.21.3-rhodf",
         "ocs-operator.v4.21.4-rhodf",
@@ -59275,7 +59389,8 @@
         "ocs-operator.v4.22.3-rhodf",
         "ocs-operator.v4.22.4-rhodf",
         "ocs-operator.v4.22.5-rhodf",
-        "ocs-operator.v4.22.6-rhodf"
+        "ocs-operator.v4.22.6-rhodf",
+        "ocs-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -59295,13 +59410,15 @@
         "ocs-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "ocs-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "ocs-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "ocs-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "ocs-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "ocs-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "ocs-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "ocs-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "ocs-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "ocs-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "ocs-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "ocs-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "ocs-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -60223,6 +60340,7 @@
         "odf-csi-addons-operator.v4.19.23-rhodf",
         "odf-csi-addons-operator.v4.19.24-rhodf",
         "odf-csi-addons-operator.v4.19.25-rhodf",
+        "odf-csi-addons-operator.v4.19.26-rhodf",
         "odf-csi-addons-operator.v4.19.3-rhodf",
         "odf-csi-addons-operator.v4.19.4-rhodf",
         "odf-csi-addons-operator.v4.19.5-rhodf",
@@ -60290,7 +60408,8 @@
         "odf-csi-addons-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "odf-csi-addons-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-csi-addons-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "odf-csi-addons-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "odf-csi-addons-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-csi-addons-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -60318,6 +60437,7 @@
         "odf-csi-addons-operator.v4.19.23-rhodf",
         "odf-csi-addons-operator.v4.19.24-rhodf",
         "odf-csi-addons-operator.v4.19.25-rhodf",
+        "odf-csi-addons-operator.v4.19.26-rhodf",
         "odf-csi-addons-operator.v4.19.3-rhodf",
         "odf-csi-addons-operator.v4.19.4-rhodf",
         "odf-csi-addons-operator.v4.19.5-rhodf",
@@ -60339,6 +60459,7 @@
         "odf-csi-addons-operator.v4.20.19-rhodf",
         "odf-csi-addons-operator.v4.20.2-rhodf",
         "odf-csi-addons-operator.v4.20.20-rhodf",
+        "odf-csi-addons-operator.v4.20.21-rhodf",
         "odf-csi-addons-operator.v4.20.3-rhodf",
         "odf-csi-addons-operator.v4.20.4-rhodf",
         "odf-csi-addons-operator.v4.20.5-rhodf",
@@ -60376,6 +60497,7 @@
         "odf-csi-addons-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-csi-addons-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "odf-csi-addons-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-csi-addons-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "odf-csi-addons-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "odf-csi-addons-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "odf-csi-addons-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -60396,7 +60518,8 @@
         "odf-csi-addons-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odf-csi-addons-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-csi-addons-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odf-csi-addons-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odf-csi-addons-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-csi-addons-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -60419,6 +60542,7 @@
         "odf-csi-addons-operator.v4.20.19-rhodf",
         "odf-csi-addons-operator.v4.20.2-rhodf",
         "odf-csi-addons-operator.v4.20.20-rhodf",
+        "odf-csi-addons-operator.v4.20.21-rhodf",
         "odf-csi-addons-operator.v4.20.3-rhodf",
         "odf-csi-addons-operator.v4.20.4-rhodf",
         "odf-csi-addons-operator.v4.20.5-rhodf",
@@ -60433,6 +60557,7 @@
         "odf-csi-addons-operator.v4.21.12-rhodf",
         "odf-csi-addons-operator.v4.21.13-rhodf",
         "odf-csi-addons-operator.v4.21.14-rhodf",
+        "odf-csi-addons-operator.v4.21.15-rhodf",
         "odf-csi-addons-operator.v4.21.2-rhodf",
         "odf-csi-addons-operator.v4.21.3-rhodf",
         "odf-csi-addons-operator.v4.21.4-rhodf",
@@ -60466,6 +60591,7 @@
         "odf-csi-addons-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-csi-addons-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odf-csi-addons-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-csi-addons-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odf-csi-addons-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odf-csi-addons-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odf-csi-addons-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -60480,7 +60606,8 @@
         "odf-csi-addons-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odf-csi-addons-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-csi-addons-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odf-csi-addons-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odf-csi-addons-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-csi-addons-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -60496,6 +60623,7 @@
         "odf-csi-addons-operator.v4.21.12-rhodf",
         "odf-csi-addons-operator.v4.21.13-rhodf",
         "odf-csi-addons-operator.v4.21.14-rhodf",
+        "odf-csi-addons-operator.v4.21.15-rhodf",
         "odf-csi-addons-operator.v4.21.2-rhodf",
         "odf-csi-addons-operator.v4.21.3-rhodf",
         "odf-csi-addons-operator.v4.21.4-rhodf",
@@ -60510,7 +60638,8 @@
         "odf-csi-addons-operator.v4.22.3-rhodf",
         "odf-csi-addons-operator.v4.22.4-rhodf",
         "odf-csi-addons-operator.v4.22.5-rhodf",
-        "odf-csi-addons-operator.v4.22.6-rhodf"
+        "odf-csi-addons-operator.v4.22.6-rhodf",
+        "odf-csi-addons-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -60530,13 +60659,15 @@
         "odf-csi-addons-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-csi-addons-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odf-csi-addons-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-csi-addons-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odf-csi-addons-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odf-csi-addons-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odf-csi-addons-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odf-csi-addons-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odf-csi-addons-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odf-csi-addons-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odf-csi-addons-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odf-csi-addons-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odf-csi-addons-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -61745,6 +61876,7 @@
         "odf-multicluster-orchestrator.v4.19.23-rhodf",
         "odf-multicluster-orchestrator.v4.19.24-rhodf",
         "odf-multicluster-orchestrator.v4.19.25-rhodf",
+        "odf-multicluster-orchestrator.v4.19.26-rhodf",
         "odf-multicluster-orchestrator.v4.19.3-rhodf",
         "odf-multicluster-orchestrator.v4.19.4-rhodf",
         "odf-multicluster-orchestrator.v4.19.5-rhodf",
@@ -61805,6 +61937,7 @@
         "odr-hub-operator (<=4.19.23)",
         "odr-hub-operator (<=4.19.24)",
         "odr-hub-operator (<=4.19.25)",
+        "odr-hub-operator (<=4.19.26)",
         "odr-hub-operator (<=4.19.3)",
         "odr-hub-operator (<=4.19.4)",
         "odr-hub-operator (<=4.19.5)",
@@ -61870,7 +62003,8 @@
         "odf-multicluster-orchestrator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "odf-multicluster-orchestrator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-multicluster-orchestrator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "odf-multicluster-orchestrator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "odf-multicluster-orchestrator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-multicluster-orchestrator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -61898,6 +62032,7 @@
         "odf-multicluster-orchestrator.v4.19.23-rhodf",
         "odf-multicluster-orchestrator.v4.19.24-rhodf",
         "odf-multicluster-orchestrator.v4.19.25-rhodf",
+        "odf-multicluster-orchestrator.v4.19.26-rhodf",
         "odf-multicluster-orchestrator.v4.19.3-rhodf",
         "odf-multicluster-orchestrator.v4.19.4-rhodf",
         "odf-multicluster-orchestrator.v4.19.5-rhodf",
@@ -61919,6 +62054,7 @@
         "odf-multicluster-orchestrator.v4.20.19-rhodf",
         "odf-multicluster-orchestrator.v4.20.2-rhodf",
         "odf-multicluster-orchestrator.v4.20.20-rhodf",
+        "odf-multicluster-orchestrator.v4.20.21-rhodf",
         "odf-multicluster-orchestrator.v4.20.3-rhodf",
         "odf-multicluster-orchestrator.v4.20.4-rhodf",
         "odf-multicluster-orchestrator.v4.20.5-rhodf",
@@ -61948,6 +62084,7 @@
         "odr-hub-operator (<=4.19.23)",
         "odr-hub-operator (<=4.19.24)",
         "odr-hub-operator (<=4.19.25)",
+        "odr-hub-operator (<=4.19.26)",
         "odr-hub-operator (<=4.19.3)",
         "odr-hub-operator (<=4.19.4)",
         "odr-hub-operator (<=4.19.5)",
@@ -61969,6 +62106,7 @@
         "odr-hub-operator (<=4.20.19)",
         "odr-hub-operator (<=4.20.2)",
         "odr-hub-operator (<=4.20.20)",
+        "odr-hub-operator (<=4.20.21)",
         "odr-hub-operator (<=4.20.3)",
         "odr-hub-operator (<=4.20.4)",
         "odr-hub-operator (<=4.20.5)",
@@ -62004,6 +62142,7 @@
         "odf-multicluster-orchestrator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-multicluster-orchestrator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "odf-multicluster-orchestrator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-multicluster-orchestrator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "odf-multicluster-orchestrator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "odf-multicluster-orchestrator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "odf-multicluster-orchestrator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -62024,7 +62163,8 @@
         "odf-multicluster-orchestrator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odf-multicluster-orchestrator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-multicluster-orchestrator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odf-multicluster-orchestrator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odf-multicluster-orchestrator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-multicluster-orchestrator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -62047,6 +62187,7 @@
         "odf-multicluster-orchestrator.v4.20.19-rhodf",
         "odf-multicluster-orchestrator.v4.20.2-rhodf",
         "odf-multicluster-orchestrator.v4.20.20-rhodf",
+        "odf-multicluster-orchestrator.v4.20.21-rhodf",
         "odf-multicluster-orchestrator.v4.20.3-rhodf",
         "odf-multicluster-orchestrator.v4.20.4-rhodf",
         "odf-multicluster-orchestrator.v4.20.5-rhodf",
@@ -62061,6 +62202,7 @@
         "odf-multicluster-orchestrator.v4.21.12-rhodf",
         "odf-multicluster-orchestrator.v4.21.13-rhodf",
         "odf-multicluster-orchestrator.v4.21.14-rhodf",
+        "odf-multicluster-orchestrator.v4.21.15-rhodf",
         "odf-multicluster-orchestrator.v4.21.2-rhodf",
         "odf-multicluster-orchestrator.v4.21.3-rhodf",
         "odf-multicluster-orchestrator.v4.21.4-rhodf",
@@ -62086,6 +62228,7 @@
         "odr-hub-operator (<=4.20.19)",
         "odr-hub-operator (<=4.20.2)",
         "odr-hub-operator (<=4.20.20)",
+        "odr-hub-operator (<=4.20.21)",
         "odr-hub-operator (<=4.20.3)",
         "odr-hub-operator (<=4.20.4)",
         "odr-hub-operator (<=4.20.5)",
@@ -62100,6 +62243,7 @@
         "odr-hub-operator (<=4.21.12)",
         "odr-hub-operator (<=4.21.13)",
         "odr-hub-operator (<=4.21.14)",
+        "odr-hub-operator (<=4.21.15)",
         "odr-hub-operator (<=4.21.2)",
         "odr-hub-operator (<=4.21.3)",
         "odr-hub-operator (<=4.21.4)",
@@ -62131,6 +62275,7 @@
         "odf-multicluster-orchestrator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-multicluster-orchestrator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odf-multicluster-orchestrator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-multicluster-orchestrator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odf-multicluster-orchestrator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odf-multicluster-orchestrator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odf-multicluster-orchestrator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -62145,7 +62290,8 @@
         "odf-multicluster-orchestrator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odf-multicluster-orchestrator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-multicluster-orchestrator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odf-multicluster-orchestrator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odf-multicluster-orchestrator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-multicluster-orchestrator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -62161,6 +62307,7 @@
         "odf-multicluster-orchestrator.v4.21.12-rhodf",
         "odf-multicluster-orchestrator.v4.21.13-rhodf",
         "odf-multicluster-orchestrator.v4.21.14-rhodf",
+        "odf-multicluster-orchestrator.v4.21.15-rhodf",
         "odf-multicluster-orchestrator.v4.21.2-rhodf",
         "odf-multicluster-orchestrator.v4.21.3-rhodf",
         "odf-multicluster-orchestrator.v4.21.4-rhodf",
@@ -62175,7 +62322,8 @@
         "odf-multicluster-orchestrator.v4.22.3-rhodf",
         "odf-multicluster-orchestrator.v4.22.4-rhodf",
         "odf-multicluster-orchestrator.v4.22.5-rhodf",
-        "odf-multicluster-orchestrator.v4.22.6-rhodf"
+        "odf-multicluster-orchestrator.v4.22.6-rhodf",
+        "odf-multicluster-orchestrator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [
@@ -62186,6 +62334,7 @@
         "odr-hub-operator (<=4.21.12)",
         "odr-hub-operator (<=4.21.13)",
         "odr-hub-operator (<=4.21.14)",
+        "odr-hub-operator (<=4.21.15)",
         "odr-hub-operator (<=4.21.2)",
         "odr-hub-operator (<=4.21.3)",
         "odr-hub-operator (<=4.21.4)",
@@ -62200,7 +62349,8 @@
         "odr-hub-operator (<=4.22.3)",
         "odr-hub-operator (<=4.22.4)",
         "odr-hub-operator (<=4.22.5)",
-        "odr-hub-operator (<=4.22.6)"
+        "odr-hub-operator (<=4.22.6)",
+        "odr-hub-operator (<=4.22.7)"
       ],
       "skipRanges": {
         "odf-multicluster-orchestrator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
@@ -62218,13 +62368,15 @@
         "odf-multicluster-orchestrator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-multicluster-orchestrator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odf-multicluster-orchestrator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-multicluster-orchestrator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odf-multicluster-orchestrator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odf-multicluster-orchestrator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odf-multicluster-orchestrator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odf-multicluster-orchestrator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odf-multicluster-orchestrator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odf-multicluster-orchestrator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odf-multicluster-orchestrator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odf-multicluster-orchestrator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odf-multicluster-orchestrator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -64536,6 +64688,7 @@
         "odf-operator.v4.19.23-rhodf",
         "odf-operator.v4.19.24-rhodf",
         "odf-operator.v4.19.25-rhodf",
+        "odf-operator.v4.19.26-rhodf",
         "odf-operator.v4.19.3-rhodf",
         "odf-operator.v4.19.4-rhodf",
         "odf-operator.v4.19.5-rhodf",
@@ -64603,7 +64756,8 @@
         "odf-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "odf-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "odf-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "odf-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -64631,6 +64785,7 @@
         "odf-operator.v4.19.23-rhodf",
         "odf-operator.v4.19.24-rhodf",
         "odf-operator.v4.19.25-rhodf",
+        "odf-operator.v4.19.26-rhodf",
         "odf-operator.v4.19.3-rhodf",
         "odf-operator.v4.19.4-rhodf",
         "odf-operator.v4.19.5-rhodf",
@@ -64652,6 +64807,7 @@
         "odf-operator.v4.20.19-rhodf",
         "odf-operator.v4.20.2-rhodf",
         "odf-operator.v4.20.20-rhodf",
+        "odf-operator.v4.20.21-rhodf",
         "odf-operator.v4.20.3-rhodf",
         "odf-operator.v4.20.4-rhodf",
         "odf-operator.v4.20.5-rhodf",
@@ -64689,6 +64845,7 @@
         "odf-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "odf-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "odf-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "odf-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "odf-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -64709,7 +64866,8 @@
         "odf-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odf-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odf-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odf-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -64732,6 +64890,7 @@
         "odf-operator.v4.20.19-rhodf",
         "odf-operator.v4.20.2-rhodf",
         "odf-operator.v4.20.20-rhodf",
+        "odf-operator.v4.20.21-rhodf",
         "odf-operator.v4.20.3-rhodf",
         "odf-operator.v4.20.4-rhodf",
         "odf-operator.v4.20.5-rhodf",
@@ -64746,6 +64905,7 @@
         "odf-operator.v4.21.12-rhodf",
         "odf-operator.v4.21.13-rhodf",
         "odf-operator.v4.21.14-rhodf",
+        "odf-operator.v4.21.15-rhodf",
         "odf-operator.v4.21.2-rhodf",
         "odf-operator.v4.21.3-rhodf",
         "odf-operator.v4.21.4-rhodf",
@@ -64779,6 +64939,7 @@
         "odf-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odf-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odf-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odf-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odf-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -64793,7 +64954,8 @@
         "odf-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odf-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odf-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odf-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -64809,6 +64971,7 @@
         "odf-operator.v4.21.12-rhodf",
         "odf-operator.v4.21.13-rhodf",
         "odf-operator.v4.21.14-rhodf",
+        "odf-operator.v4.21.15-rhodf",
         "odf-operator.v4.21.2-rhodf",
         "odf-operator.v4.21.3-rhodf",
         "odf-operator.v4.21.4-rhodf",
@@ -64823,7 +64986,8 @@
         "odf-operator.v4.22.3-rhodf",
         "odf-operator.v4.22.4-rhodf",
         "odf-operator.v4.22.5-rhodf",
-        "odf-operator.v4.22.6-rhodf"
+        "odf-operator.v4.22.6-rhodf",
+        "odf-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [],
@@ -64843,13 +65007,15 @@
         "odf-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odf-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odf-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odf-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odf-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odf-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odf-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odf-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odf-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odf-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odf-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -65704,6 +65870,7 @@
         "odr-cluster-operator.v4.19.23-rhodf",
         "odr-cluster-operator.v4.19.24-rhodf",
         "odr-cluster-operator.v4.19.25-rhodf",
+        "odr-cluster-operator.v4.19.26-rhodf",
         "odr-cluster-operator.v4.19.3-rhodf",
         "odr-cluster-operator.v4.19.4-rhodf",
         "odr-cluster-operator.v4.19.5-rhodf",
@@ -65771,7 +65938,8 @@
         "odr-cluster-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "odr-cluster-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odr-cluster-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "odr-cluster-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "odr-cluster-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odr-cluster-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -65799,6 +65967,7 @@
         "odr-cluster-operator.v4.19.23-rhodf",
         "odr-cluster-operator.v4.19.24-rhodf",
         "odr-cluster-operator.v4.19.25-rhodf",
+        "odr-cluster-operator.v4.19.26-rhodf",
         "odr-cluster-operator.v4.19.3-rhodf",
         "odr-cluster-operator.v4.19.4-rhodf",
         "odr-cluster-operator.v4.19.5-rhodf",
@@ -65820,6 +65989,7 @@
         "odr-cluster-operator.v4.20.19-rhodf",
         "odr-cluster-operator.v4.20.2-rhodf",
         "odr-cluster-operator.v4.20.20-rhodf",
+        "odr-cluster-operator.v4.20.21-rhodf",
         "odr-cluster-operator.v4.20.3-rhodf",
         "odr-cluster-operator.v4.20.4-rhodf",
         "odr-cluster-operator.v4.20.5-rhodf",
@@ -65857,6 +66027,7 @@
         "odr-cluster-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odr-cluster-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "odr-cluster-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odr-cluster-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "odr-cluster-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "odr-cluster-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "odr-cluster-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -65877,7 +66048,8 @@
         "odr-cluster-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odr-cluster-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odr-cluster-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odr-cluster-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odr-cluster-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odr-cluster-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -65900,6 +66072,7 @@
         "odr-cluster-operator.v4.20.19-rhodf",
         "odr-cluster-operator.v4.20.2-rhodf",
         "odr-cluster-operator.v4.20.20-rhodf",
+        "odr-cluster-operator.v4.20.21-rhodf",
         "odr-cluster-operator.v4.20.3-rhodf",
         "odr-cluster-operator.v4.20.4-rhodf",
         "odr-cluster-operator.v4.20.5-rhodf",
@@ -65914,6 +66087,7 @@
         "odr-cluster-operator.v4.21.12-rhodf",
         "odr-cluster-operator.v4.21.13-rhodf",
         "odr-cluster-operator.v4.21.14-rhodf",
+        "odr-cluster-operator.v4.21.15-rhodf",
         "odr-cluster-operator.v4.21.2-rhodf",
         "odr-cluster-operator.v4.21.3-rhodf",
         "odr-cluster-operator.v4.21.4-rhodf",
@@ -65947,6 +66121,7 @@
         "odr-cluster-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odr-cluster-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odr-cluster-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odr-cluster-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odr-cluster-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odr-cluster-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odr-cluster-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -65961,7 +66136,8 @@
         "odr-cluster-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odr-cluster-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odr-cluster-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odr-cluster-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odr-cluster-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odr-cluster-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -65977,6 +66153,7 @@
         "odr-cluster-operator.v4.21.12-rhodf",
         "odr-cluster-operator.v4.21.13-rhodf",
         "odr-cluster-operator.v4.21.14-rhodf",
+        "odr-cluster-operator.v4.21.15-rhodf",
         "odr-cluster-operator.v4.21.2-rhodf",
         "odr-cluster-operator.v4.21.3-rhodf",
         "odr-cluster-operator.v4.21.4-rhodf",
@@ -65991,7 +66168,8 @@
         "odr-cluster-operator.v4.22.3-rhodf",
         "odr-cluster-operator.v4.22.4-rhodf",
         "odr-cluster-operator.v4.22.5-rhodf",
-        "odr-cluster-operator.v4.22.6-rhodf"
+        "odr-cluster-operator.v4.22.6-rhodf",
+        "odr-cluster-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -66011,13 +66189,15 @@
         "odr-cluster-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odr-cluster-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odr-cluster-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odr-cluster-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odr-cluster-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odr-cluster-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odr-cluster-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odr-cluster-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odr-cluster-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odr-cluster-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odr-cluster-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odr-cluster-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odr-cluster-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -66872,6 +67052,7 @@
         "odr-hub-operator.v4.19.23-rhodf",
         "odr-hub-operator.v4.19.24-rhodf",
         "odr-hub-operator.v4.19.25-rhodf",
+        "odr-hub-operator.v4.19.26-rhodf",
         "odr-hub-operator.v4.19.3-rhodf",
         "odr-hub-operator.v4.19.4-rhodf",
         "odr-hub-operator.v4.19.5-rhodf",
@@ -66939,7 +67120,8 @@
         "odr-hub-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "odr-hub-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odr-hub-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "odr-hub-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "odr-hub-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odr-hub-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -66967,6 +67149,7 @@
         "odr-hub-operator.v4.19.23-rhodf",
         "odr-hub-operator.v4.19.24-rhodf",
         "odr-hub-operator.v4.19.25-rhodf",
+        "odr-hub-operator.v4.19.26-rhodf",
         "odr-hub-operator.v4.19.3-rhodf",
         "odr-hub-operator.v4.19.4-rhodf",
         "odr-hub-operator.v4.19.5-rhodf",
@@ -66988,6 +67171,7 @@
         "odr-hub-operator.v4.20.19-rhodf",
         "odr-hub-operator.v4.20.2-rhodf",
         "odr-hub-operator.v4.20.20-rhodf",
+        "odr-hub-operator.v4.20.21-rhodf",
         "odr-hub-operator.v4.20.3-rhodf",
         "odr-hub-operator.v4.20.4-rhodf",
         "odr-hub-operator.v4.20.5-rhodf",
@@ -67025,6 +67209,7 @@
         "odr-hub-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odr-hub-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "odr-hub-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odr-hub-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "odr-hub-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "odr-hub-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "odr-hub-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -67045,7 +67230,8 @@
         "odr-hub-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odr-hub-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odr-hub-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odr-hub-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odr-hub-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odr-hub-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -67068,6 +67254,7 @@
         "odr-hub-operator.v4.20.19-rhodf",
         "odr-hub-operator.v4.20.2-rhodf",
         "odr-hub-operator.v4.20.20-rhodf",
+        "odr-hub-operator.v4.20.21-rhodf",
         "odr-hub-operator.v4.20.3-rhodf",
         "odr-hub-operator.v4.20.4-rhodf",
         "odr-hub-operator.v4.20.5-rhodf",
@@ -67082,6 +67269,7 @@
         "odr-hub-operator.v4.21.12-rhodf",
         "odr-hub-operator.v4.21.13-rhodf",
         "odr-hub-operator.v4.21.14-rhodf",
+        "odr-hub-operator.v4.21.15-rhodf",
         "odr-hub-operator.v4.21.2-rhodf",
         "odr-hub-operator.v4.21.3-rhodf",
         "odr-hub-operator.v4.21.4-rhodf",
@@ -67115,6 +67303,7 @@
         "odr-hub-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odr-hub-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odr-hub-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odr-hub-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odr-hub-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odr-hub-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odr-hub-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -67129,7 +67318,8 @@
         "odr-hub-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odr-hub-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odr-hub-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odr-hub-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odr-hub-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odr-hub-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -67145,6 +67335,7 @@
         "odr-hub-operator.v4.21.12-rhodf",
         "odr-hub-operator.v4.21.13-rhodf",
         "odr-hub-operator.v4.21.14-rhodf",
+        "odr-hub-operator.v4.21.15-rhodf",
         "odr-hub-operator.v4.21.2-rhodf",
         "odr-hub-operator.v4.21.3-rhodf",
         "odr-hub-operator.v4.21.4-rhodf",
@@ -67159,7 +67350,8 @@
         "odr-hub-operator.v4.22.3-rhodf",
         "odr-hub-operator.v4.22.4-rhodf",
         "odr-hub-operator.v4.22.5-rhodf",
-        "odr-hub-operator.v4.22.6-rhodf"
+        "odr-hub-operator.v4.22.6-rhodf",
+        "odr-hub-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -67179,13 +67371,15 @@
         "odr-hub-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odr-hub-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odr-hub-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odr-hub-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odr-hub-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odr-hub-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odr-hub-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odr-hub-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odr-hub-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odr-hub-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odr-hub-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odr-hub-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odr-hub-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -85905,6 +86099,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -86152,6 +86347,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -86541,6 +86737,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -86788,6 +86985,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -87177,6 +87375,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -87424,6 +87623,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -87526,6 +87726,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -87773,6 +87974,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -87875,6 +88077,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -88122,6 +88325,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -88224,6 +88428,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -88471,6 +88676,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -88573,6 +88779,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -88820,6 +89027,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -88922,6 +89130,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -89169,6 +89378,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -89271,6 +89481,7 @@
         "rhacs-operator.v4.10.0",
         "rhacs-operator.v4.10.1",
         "rhacs-operator.v4.10.10",
+        "rhacs-operator.v4.10.11",
         "rhacs-operator.v4.10.2",
         "rhacs-operator.v4.10.3",
         "rhacs-operator.v4.10.4",
@@ -89518,6 +89729,7 @@
         "rhacs-operator.v4.10.8": ">= 4.9.0 < 4.10.8",
         "rhacs-operator.v4.10.9": ">= 4.9.0 < 4.10.9",
         "rhacs-operator.v4.10.10": ">= 4.9.0 < 4.10.10",
+        "rhacs-operator.v4.10.11": ">= 4.9.0 < 4.10.11",
         "rhacs-operator.v4.11.0": ">= 4.10.0 < 4.11.0",
         "rhacs-operator.v4.11.1": ">= 4.10.0 < 4.11.1",
         "rhacs-operator.v4.11.2": ">= 4.10.0 < 4.11.2",
@@ -102412,7 +102624,8 @@
         "topology-aware-lifecycle-manager.v4.19.2",
         "topology-aware-lifecycle-manager.v4.19.3",
         "topology-aware-lifecycle-manager.v4.19.4",
-        "topology-aware-lifecycle-manager.v4.19.5"
+        "topology-aware-lifecycle-manager.v4.19.5",
+        "topology-aware-lifecycle-manager.v4.19.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -102422,7 +102635,8 @@
         "topology-aware-lifecycle-manager.v4.19.2": ">=4.18.0 <4.19.2",
         "topology-aware-lifecycle-manager.v4.19.3": ">=4.18.0 <4.19.3",
         "topology-aware-lifecycle-manager.v4.19.4": ">=4.18.0 <4.19.4",
-        "topology-aware-lifecycle-manager.v4.19.5": ">=4.18.0 <4.19.5"
+        "topology-aware-lifecycle-manager.v4.19.5": ">=4.18.0 <4.19.5",
+        "topology-aware-lifecycle-manager.v4.19.6": ">=4.18.0 <4.19.6"
       },
       "channels": [
         "4.19",
@@ -102435,7 +102649,8 @@
         "topology-aware-lifecycle-manager.v4.20.1",
         "topology-aware-lifecycle-manager.v4.20.2",
         "topology-aware-lifecycle-manager.v4.20.3",
-        "topology-aware-lifecycle-manager.v4.20.4"
+        "topology-aware-lifecycle-manager.v4.20.4",
+        "topology-aware-lifecycle-manager.v4.20.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -102444,7 +102659,8 @@
         "topology-aware-lifecycle-manager.v4.20.1": ">=4.18.0 <4.20.1",
         "topology-aware-lifecycle-manager.v4.20.2": ">=4.18.0 <4.20.2",
         "topology-aware-lifecycle-manager.v4.20.3": ">=4.18.0 <4.20.3",
-        "topology-aware-lifecycle-manager.v4.20.4": ">=4.18.0 <4.20.4"
+        "topology-aware-lifecycle-manager.v4.20.4": ">=4.18.0 <4.20.4",
+        "topology-aware-lifecycle-manager.v4.20.5": ">=4.18.0 <4.20.5"
       },
       "channels": [
         "4.20",
@@ -106328,7 +106544,8 @@
         "lifecycle-agent.v4.19.3",
         "lifecycle-agent.v4.19.4",
         "lifecycle-agent.v4.19.5",
-        "lifecycle-agent.v4.19.6"
+        "lifecycle-agent.v4.19.6",
+        "lifecycle-agent.v4.19.7"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106339,7 +106556,8 @@
         "lifecycle-agent.v4.19.3": ">=4.18.0 <4.19.3",
         "lifecycle-agent.v4.19.4": ">=4.18.0 <4.19.4",
         "lifecycle-agent.v4.19.5": ">=4.18.0 <4.19.5",
-        "lifecycle-agent.v4.19.6": ">=4.18.0 <4.19.6"
+        "lifecycle-agent.v4.19.6": ">=4.18.0 <4.19.6",
+        "lifecycle-agent.v4.19.7": ">=4.18.0 <4.19.7"
       },
       "channels": [
         "4.19",
@@ -106354,7 +106572,8 @@
         "lifecycle-agent.v4.20.3",
         "lifecycle-agent.v4.20.4",
         "lifecycle-agent.v4.20.5",
-        "lifecycle-agent.v4.20.6"
+        "lifecycle-agent.v4.20.6",
+        "lifecycle-agent.v4.20.7"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106365,7 +106584,8 @@
         "lifecycle-agent.v4.20.3": ">=4.18.0 <4.20.3",
         "lifecycle-agent.v4.20.4": ">=4.18.0 <4.20.4",
         "lifecycle-agent.v4.20.5": ">=4.18.0 <4.20.5",
-        "lifecycle-agent.v4.20.6": ">=4.18.0 <4.20.6"
+        "lifecycle-agent.v4.20.6": ">=4.18.0 <4.20.6",
+        "lifecycle-agent.v4.20.7": ">=4.18.0 <4.20.7"
       },
       "channels": [
         "4.20",
@@ -106378,7 +106598,8 @@
         "lifecycle-agent.v4.21.1",
         "lifecycle-agent.v4.21.2",
         "lifecycle-agent.v4.21.3",
-        "lifecycle-agent.v4.21.4"
+        "lifecycle-agent.v4.21.4",
+        "lifecycle-agent.v4.21.5"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -106387,7 +106608,8 @@
         "lifecycle-agent.v4.21.1": ">=4.20.0 <4.21.1",
         "lifecycle-agent.v4.21.2": ">=4.20.0 <4.21.2",
         "lifecycle-agent.v4.21.3": ">=4.20.0 <4.21.3",
-        "lifecycle-agent.v4.21.4": ">=4.20.0 <4.21.4"
+        "lifecycle-agent.v4.21.4": ">=4.20.0 <4.21.4",
+        "lifecycle-agent.v4.21.5": ">=4.20.0 <4.21.5"
       },
       "channels": [
         "4.21",
@@ -107519,6 +107741,7 @@
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
         "servicemeshoperator3.v3.0.16",
+        "servicemeshoperator3.v3.0.17",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -107550,11 +107773,12 @@
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
         "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
         "servicemeshoperator3.v3.1.3": ">=1.0.0 <3.1.3",
-        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16"
+        "servicemeshoperator3.v3.0.17": ">=1.0.0 <3.0.17"
       },
       "channels": [
         "candidates",
@@ -107623,6 +107847,7 @@
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
         "servicemeshoperator3.v3.0.16",
+        "servicemeshoperator3.v3.0.17",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -107637,6 +107862,7 @@
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
         "servicemeshoperator3.v3.1.13",
+        "servicemeshoperator3.v3.1.14",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -107664,6 +107890,7 @@
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
         "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -107677,8 +107904,9 @@
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
         "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
-        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
-        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13"
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
+        "servicemeshoperator3.v3.0.17": ">=1.0.0 <3.0.17",
+        "servicemeshoperator3.v3.1.14": ">=1.0.0 <3.1.14"
       },
       "channels": [
         "candidates",
@@ -107757,6 +107985,7 @@
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
         "servicemeshoperator3.v3.0.16",
+        "servicemeshoperator3.v3.0.17",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -107771,6 +108000,7 @@
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
         "servicemeshoperator3.v3.1.13",
+        "servicemeshoperator3.v3.1.14",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -107782,6 +108012,7 @@
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
         "servicemeshoperator3.v3.2.10",
+        "servicemeshoperator3.v3.2.11",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -107798,7 +108029,8 @@
         "servicemeshoperator3.v3.3.5",
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
-        "servicemeshoperator3.v3.3.8"
+        "servicemeshoperator3.v3.3.8",
+        "servicemeshoperator3.v3.3.9"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -107818,6 +108050,7 @@
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
         "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -107831,6 +108064,7 @@
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
         "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -107841,6 +108075,7 @@
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
         "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -107849,10 +108084,11 @@
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
         "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
-        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
-        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
-        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
-        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8"
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
+        "servicemeshoperator3.v3.0.17": ">=1.0.0 <3.0.17",
+        "servicemeshoperator3.v3.1.14": ">=1.0.0 <3.1.14",
+        "servicemeshoperator3.v3.2.11": ">=1.0.0 <3.2.11",
+        "servicemeshoperator3.v3.3.9": ">=1.0.0 <3.3.9"
       },
       "channels": [
         "candidates",
@@ -107876,6 +108112,7 @@
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
         "servicemeshoperator3.v3.0.16",
+        "servicemeshoperator3.v3.0.17",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -107890,6 +108127,7 @@
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
         "servicemeshoperator3.v3.1.13",
+        "servicemeshoperator3.v3.1.14",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -107901,6 +108139,7 @@
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
         "servicemeshoperator3.v3.2.10",
+        "servicemeshoperator3.v3.2.11",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -107917,7 +108156,8 @@
         "servicemeshoperator3.v3.3.5",
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
-        "servicemeshoperator3.v3.3.8"
+        "servicemeshoperator3.v3.3.8",
+        "servicemeshoperator3.v3.3.9"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -107937,6 +108177,7 @@
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
         "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -107950,6 +108191,7 @@
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
         "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -107960,6 +108202,7 @@
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
         "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -107968,10 +108211,11 @@
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
         "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
-        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
-        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
-        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
-        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8"
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
+        "servicemeshoperator3.v3.0.17": ">=1.0.0 <3.0.17",
+        "servicemeshoperator3.v3.1.14": ">=1.0.0 <3.1.14",
+        "servicemeshoperator3.v3.2.11": ">=1.0.0 <3.2.11",
+        "servicemeshoperator3.v3.3.9": ">=1.0.0 <3.3.9"
       },
       "channels": [
         "candidates",
@@ -107995,6 +108239,7 @@
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
         "servicemeshoperator3.v3.0.16",
+        "servicemeshoperator3.v3.0.17",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -108009,6 +108254,7 @@
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
         "servicemeshoperator3.v3.1.13",
+        "servicemeshoperator3.v3.1.14",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -108020,6 +108266,7 @@
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
         "servicemeshoperator3.v3.2.10",
+        "servicemeshoperator3.v3.2.11",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -108037,10 +108284,13 @@
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
         "servicemeshoperator3.v3.3.8",
+        "servicemeshoperator3.v3.3.9",
         "servicemeshoperator3.v3.4.0",
         "servicemeshoperator3.v3.4.1",
         "servicemeshoperator3.v3.4.2",
-        "servicemeshoperator3.v3.4.3"
+        "servicemeshoperator3.v3.4.3",
+        "servicemeshoperator3.v3.4.4",
+        "servicemeshoperator3.v3.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -108060,6 +108310,7 @@
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
         "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -108073,6 +108324,7 @@
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
         "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -108083,6 +108335,7 @@
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
         "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -108091,14 +108344,17 @@
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
         "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
         "servicemeshoperator3.v3.4.0": ">=1.0.0 <3.4.0",
         "servicemeshoperator3.v3.4.1": ">=1.0.0 <3.4.1",
         "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2",
-        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
-        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
-        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
-        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
-        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3"
+        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3",
+        "servicemeshoperator3.v3.0.17": ">=1.0.0 <3.0.17",
+        "servicemeshoperator3.v3.1.14": ">=1.0.0 <3.1.14",
+        "servicemeshoperator3.v3.2.11": ">=1.0.0 <3.2.11",
+        "servicemeshoperator3.v3.3.9": ">=1.0.0 <3.3.9",
+        "servicemeshoperator3.v3.4.4": ">=1.0.0 <3.4.4",
+        "servicemeshoperator3.v3.5.0": ">=1.0.0 <3.5.0"
       },
       "channels": [
         "candidates",
@@ -108107,7 +108363,8 @@
         "stable-3.1",
         "stable-3.2",
         "stable-3.3",
-        "stable-3.4"
+        "stable-3.4",
+        "stable-3.5"
       ]
     },
     "4.21": {
@@ -108123,6 +108380,7 @@
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
         "servicemeshoperator3.v3.0.16",
+        "servicemeshoperator3.v3.0.17",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -108137,6 +108395,7 @@
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
         "servicemeshoperator3.v3.1.13",
+        "servicemeshoperator3.v3.1.14",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -108148,6 +108407,7 @@
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
         "servicemeshoperator3.v3.2.10",
+        "servicemeshoperator3.v3.2.11",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -108165,10 +108425,13 @@
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
         "servicemeshoperator3.v3.3.8",
+        "servicemeshoperator3.v3.3.9",
         "servicemeshoperator3.v3.4.0",
         "servicemeshoperator3.v3.4.1",
         "servicemeshoperator3.v3.4.2",
-        "servicemeshoperator3.v3.4.3"
+        "servicemeshoperator3.v3.4.3",
+        "servicemeshoperator3.v3.4.4",
+        "servicemeshoperator3.v3.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -108188,6 +108451,7 @@
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
         "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -108201,6 +108465,7 @@
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
         "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -108211,6 +108476,7 @@
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
         "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -108219,14 +108485,17 @@
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
         "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
         "servicemeshoperator3.v3.4.0": ">=1.0.0 <3.4.0",
         "servicemeshoperator3.v3.4.1": ">=1.0.0 <3.4.1",
         "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2",
-        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
-        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
-        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
-        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
-        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3"
+        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3",
+        "servicemeshoperator3.v3.0.17": ">=1.0.0 <3.0.17",
+        "servicemeshoperator3.v3.1.14": ">=1.0.0 <3.1.14",
+        "servicemeshoperator3.v3.2.11": ">=1.0.0 <3.2.11",
+        "servicemeshoperator3.v3.3.9": ">=1.0.0 <3.3.9",
+        "servicemeshoperator3.v3.4.4": ">=1.0.0 <3.4.4",
+        "servicemeshoperator3.v3.5.0": ">=1.0.0 <3.5.0"
       },
       "channels": [
         "candidates",
@@ -108235,7 +108504,8 @@
         "stable-3.1",
         "stable-3.2",
         "stable-3.3",
-        "stable-3.4"
+        "stable-3.4",
+        "stable-3.5"
       ]
     },
     "4.22": {
@@ -108251,6 +108521,7 @@
         "servicemeshoperator3.v3.0.14",
         "servicemeshoperator3.v3.0.15",
         "servicemeshoperator3.v3.0.16",
+        "servicemeshoperator3.v3.0.17",
         "servicemeshoperator3.v3.0.2",
         "servicemeshoperator3.v3.0.3",
         "servicemeshoperator3.v3.0.4",
@@ -108265,6 +108536,7 @@
         "servicemeshoperator3.v3.1.11",
         "servicemeshoperator3.v3.1.12",
         "servicemeshoperator3.v3.1.13",
+        "servicemeshoperator3.v3.1.14",
         "servicemeshoperator3.v3.1.2",
         "servicemeshoperator3.v3.1.3",
         "servicemeshoperator3.v3.1.4",
@@ -108276,6 +108548,7 @@
         "servicemeshoperator3.v3.2.0",
         "servicemeshoperator3.v3.2.1",
         "servicemeshoperator3.v3.2.10",
+        "servicemeshoperator3.v3.2.11",
         "servicemeshoperator3.v3.2.2",
         "servicemeshoperator3.v3.2.3",
         "servicemeshoperator3.v3.2.4",
@@ -108293,10 +108566,13 @@
         "servicemeshoperator3.v3.3.6",
         "servicemeshoperator3.v3.3.7",
         "servicemeshoperator3.v3.3.8",
+        "servicemeshoperator3.v3.3.9",
         "servicemeshoperator3.v3.4.0",
         "servicemeshoperator3.v3.4.1",
         "servicemeshoperator3.v3.4.2",
-        "servicemeshoperator3.v3.4.3"
+        "servicemeshoperator3.v3.4.3",
+        "servicemeshoperator3.v3.4.4",
+        "servicemeshoperator3.v3.5.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -108316,6 +108592,7 @@
         "servicemeshoperator3.v3.0.13": ">=1.0.0 <3.0.13",
         "servicemeshoperator3.v3.0.14": ">=1.0.0 <3.0.14",
         "servicemeshoperator3.v3.0.15": ">=1.0.0 <3.0.15",
+        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
         "servicemeshoperator3.v3.1.0": ">=1.0.0 <3.1.0",
         "servicemeshoperator3.v3.1.1": ">=1.0.0 <3.1.1",
         "servicemeshoperator3.v3.1.2": ">=1.0.0 <3.1.2",
@@ -108329,6 +108606,7 @@
         "servicemeshoperator3.v3.1.10": ">=1.0.0 <3.1.10",
         "servicemeshoperator3.v3.1.11": ">=1.0.0 <3.1.11",
         "servicemeshoperator3.v3.1.12": ">=1.0.0 <3.1.12",
+        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
         "servicemeshoperator3.v3.2.0": ">=1.0.0 <3.2.0",
         "servicemeshoperator3.v3.2.1": ">=1.0.0 <3.2.1",
         "servicemeshoperator3.v3.2.2": ">=1.0.0 <3.2.2",
@@ -108339,6 +108617,7 @@
         "servicemeshoperator3.v3.2.7": ">=1.0.0 <3.2.7",
         "servicemeshoperator3.v3.2.8": ">=1.0.0 <3.2.8",
         "servicemeshoperator3.v3.2.9": ">=1.0.0 <3.2.9",
+        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
         "servicemeshoperator3.v3.3.0": ">=1.0.0 <3.3.0",
         "servicemeshoperator3.v3.3.1": ">=1.0.0 <3.3.1",
         "servicemeshoperator3.v3.3.2": ">=1.0.0 <3.3.2",
@@ -108347,14 +108626,17 @@
         "servicemeshoperator3.v3.3.5": ">=1.0.0 <3.3.5",
         "servicemeshoperator3.v3.3.6": ">=1.0.0 <3.3.6",
         "servicemeshoperator3.v3.3.7": ">=1.0.0 <3.3.7",
+        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
         "servicemeshoperator3.v3.4.0": ">=1.0.0 <3.4.0",
         "servicemeshoperator3.v3.4.1": ">=1.0.0 <3.4.1",
         "servicemeshoperator3.v3.4.2": ">=1.0.0 <3.4.2",
-        "servicemeshoperator3.v3.0.16": ">=1.0.0 <3.0.16",
-        "servicemeshoperator3.v3.1.13": ">=1.0.0 <3.1.13",
-        "servicemeshoperator3.v3.2.10": ">=1.0.0 <3.2.10",
-        "servicemeshoperator3.v3.3.8": ">=1.0.0 <3.3.8",
-        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3"
+        "servicemeshoperator3.v3.4.3": ">=1.0.0 <3.4.3",
+        "servicemeshoperator3.v3.0.17": ">=1.0.0 <3.0.17",
+        "servicemeshoperator3.v3.1.14": ">=1.0.0 <3.1.14",
+        "servicemeshoperator3.v3.2.11": ">=1.0.0 <3.2.11",
+        "servicemeshoperator3.v3.3.9": ">=1.0.0 <3.3.9",
+        "servicemeshoperator3.v3.4.4": ">=1.0.0 <3.4.4",
+        "servicemeshoperator3.v3.5.0": ">=1.0.0 <3.5.0"
       },
       "channels": [
         "candidates",
@@ -108363,7 +108645,8 @@
         "stable-3.1",
         "stable-3.2",
         "stable-3.3",
-        "stable-3.4"
+        "stable-3.4",
+        "stable-3.5"
       ]
     }
   },
@@ -110498,6 +110781,7 @@
         "odf-prometheus-operator.v4.19.23-rhodf",
         "odf-prometheus-operator.v4.19.24-rhodf",
         "odf-prometheus-operator.v4.19.25-rhodf",
+        "odf-prometheus-operator.v4.19.26-rhodf",
         "odf-prometheus-operator.v4.19.3-rhodf",
         "odf-prometheus-operator.v4.19.4-rhodf",
         "odf-prometheus-operator.v4.19.5-rhodf",
@@ -110565,7 +110849,8 @@
         "odf-prometheus-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "odf-prometheus-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-prometheus-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "odf-prometheus-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "odf-prometheus-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-prometheus-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -110593,6 +110878,7 @@
         "odf-prometheus-operator.v4.19.23-rhodf",
         "odf-prometheus-operator.v4.19.24-rhodf",
         "odf-prometheus-operator.v4.19.25-rhodf",
+        "odf-prometheus-operator.v4.19.26-rhodf",
         "odf-prometheus-operator.v4.19.3-rhodf",
         "odf-prometheus-operator.v4.19.4-rhodf",
         "odf-prometheus-operator.v4.19.5-rhodf",
@@ -110614,6 +110900,7 @@
         "odf-prometheus-operator.v4.20.19-rhodf",
         "odf-prometheus-operator.v4.20.2-rhodf",
         "odf-prometheus-operator.v4.20.20-rhodf",
+        "odf-prometheus-operator.v4.20.21-rhodf",
         "odf-prometheus-operator.v4.20.3-rhodf",
         "odf-prometheus-operator.v4.20.4-rhodf",
         "odf-prometheus-operator.v4.20.5-rhodf",
@@ -110651,6 +110938,7 @@
         "odf-prometheus-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-prometheus-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "odf-prometheus-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-prometheus-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "odf-prometheus-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "odf-prometheus-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "odf-prometheus-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -110671,7 +110959,8 @@
         "odf-prometheus-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odf-prometheus-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-prometheus-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odf-prometheus-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odf-prometheus-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-prometheus-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -110694,6 +110983,7 @@
         "odf-prometheus-operator.v4.20.19-rhodf",
         "odf-prometheus-operator.v4.20.2-rhodf",
         "odf-prometheus-operator.v4.20.20-rhodf",
+        "odf-prometheus-operator.v4.20.21-rhodf",
         "odf-prometheus-operator.v4.20.3-rhodf",
         "odf-prometheus-operator.v4.20.4-rhodf",
         "odf-prometheus-operator.v4.20.5-rhodf",
@@ -110708,6 +110998,7 @@
         "odf-prometheus-operator.v4.21.12-rhodf",
         "odf-prometheus-operator.v4.21.13-rhodf",
         "odf-prometheus-operator.v4.21.14-rhodf",
+        "odf-prometheus-operator.v4.21.15-rhodf",
         "odf-prometheus-operator.v4.21.2-rhodf",
         "odf-prometheus-operator.v4.21.3-rhodf",
         "odf-prometheus-operator.v4.21.4-rhodf",
@@ -110741,6 +111032,7 @@
         "odf-prometheus-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-prometheus-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odf-prometheus-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-prometheus-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odf-prometheus-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odf-prometheus-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odf-prometheus-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -110755,7 +111047,8 @@
         "odf-prometheus-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odf-prometheus-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-prometheus-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odf-prometheus-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odf-prometheus-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-prometheus-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -110771,6 +111064,7 @@
         "odf-prometheus-operator.v4.21.12-rhodf",
         "odf-prometheus-operator.v4.21.13-rhodf",
         "odf-prometheus-operator.v4.21.14-rhodf",
+        "odf-prometheus-operator.v4.21.15-rhodf",
         "odf-prometheus-operator.v4.21.2-rhodf",
         "odf-prometheus-operator.v4.21.3-rhodf",
         "odf-prometheus-operator.v4.21.4-rhodf",
@@ -110785,7 +111079,8 @@
         "odf-prometheus-operator.v4.22.3-rhodf",
         "odf-prometheus-operator.v4.22.4-rhodf",
         "odf-prometheus-operator.v4.22.5-rhodf",
-        "odf-prometheus-operator.v4.22.6-rhodf"
+        "odf-prometheus-operator.v4.22.6-rhodf",
+        "odf-prometheus-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -110805,13 +111100,15 @@
         "odf-prometheus-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-prometheus-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odf-prometheus-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-prometheus-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odf-prometheus-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odf-prometheus-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odf-prometheus-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odf-prometheus-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odf-prometheus-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odf-prometheus-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odf-prometheus-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odf-prometheus-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odf-prometheus-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -111639,6 +111936,7 @@
         "recipe.v4.19.23-rhodf",
         "recipe.v4.19.24-rhodf",
         "recipe.v4.19.25-rhodf",
+        "recipe.v4.19.26-rhodf",
         "recipe.v4.19.3-rhodf",
         "recipe.v4.19.4-rhodf",
         "recipe.v4.19.5-rhodf",
@@ -111706,7 +112004,8 @@
         "recipe.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "recipe.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "recipe.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "recipe.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "recipe.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "recipe.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -111734,6 +112033,7 @@
         "recipe.v4.19.23-rhodf",
         "recipe.v4.19.24-rhodf",
         "recipe.v4.19.25-rhodf",
+        "recipe.v4.19.26-rhodf",
         "recipe.v4.19.3-rhodf",
         "recipe.v4.19.4-rhodf",
         "recipe.v4.19.5-rhodf",
@@ -111755,6 +112055,7 @@
         "recipe.v4.20.19-rhodf",
         "recipe.v4.20.2-rhodf",
         "recipe.v4.20.20-rhodf",
+        "recipe.v4.20.21-rhodf",
         "recipe.v4.20.3-rhodf",
         "recipe.v4.20.4-rhodf",
         "recipe.v4.20.5-rhodf",
@@ -111792,6 +112093,7 @@
         "recipe.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "recipe.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "recipe.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "recipe.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "recipe.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "recipe.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "recipe.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -111812,7 +112114,8 @@
         "recipe.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "recipe.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "recipe.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "recipe.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "recipe.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "recipe.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -111835,6 +112138,7 @@
         "recipe.v4.20.19-rhodf",
         "recipe.v4.20.2-rhodf",
         "recipe.v4.20.20-rhodf",
+        "recipe.v4.20.21-rhodf",
         "recipe.v4.20.3-rhodf",
         "recipe.v4.20.4-rhodf",
         "recipe.v4.20.5-rhodf",
@@ -111849,6 +112153,7 @@
         "recipe.v4.21.12-rhodf",
         "recipe.v4.21.13-rhodf",
         "recipe.v4.21.14-rhodf",
+        "recipe.v4.21.15-rhodf",
         "recipe.v4.21.2-rhodf",
         "recipe.v4.21.3-rhodf",
         "recipe.v4.21.4-rhodf",
@@ -111882,6 +112187,7 @@
         "recipe.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "recipe.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "recipe.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "recipe.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "recipe.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "recipe.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "recipe.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -111896,7 +112202,8 @@
         "recipe.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "recipe.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "recipe.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "recipe.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "recipe.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "recipe.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -111912,6 +112219,7 @@
         "recipe.v4.21.12-rhodf",
         "recipe.v4.21.13-rhodf",
         "recipe.v4.21.14-rhodf",
+        "recipe.v4.21.15-rhodf",
         "recipe.v4.21.2-rhodf",
         "recipe.v4.21.3-rhodf",
         "recipe.v4.21.4-rhodf",
@@ -111926,7 +112234,8 @@
         "recipe.v4.22.3-rhodf",
         "recipe.v4.22.4-rhodf",
         "recipe.v4.22.5-rhodf",
-        "recipe.v4.22.6-rhodf"
+        "recipe.v4.22.6-rhodf",
+        "recipe.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -111946,13 +112255,15 @@
         "recipe.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "recipe.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "recipe.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "recipe.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "recipe.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "recipe.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "recipe.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "recipe.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "recipe.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "recipe.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "recipe.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "recipe.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "recipe.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -112868,6 +113179,7 @@
         "rook-ceph-operator.v4.19.23-rhodf",
         "rook-ceph-operator.v4.19.24-rhodf",
         "rook-ceph-operator.v4.19.25-rhodf",
+        "rook-ceph-operator.v4.19.26-rhodf",
         "rook-ceph-operator.v4.19.3-rhodf",
         "rook-ceph-operator.v4.19.4-rhodf",
         "rook-ceph-operator.v4.19.5-rhodf",
@@ -112935,7 +113247,8 @@
         "rook-ceph-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "rook-ceph-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "rook-ceph-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "rook-ceph-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "rook-ceph-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "rook-ceph-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -112963,6 +113276,7 @@
         "rook-ceph-operator.v4.19.23-rhodf",
         "rook-ceph-operator.v4.19.24-rhodf",
         "rook-ceph-operator.v4.19.25-rhodf",
+        "rook-ceph-operator.v4.19.26-rhodf",
         "rook-ceph-operator.v4.19.3-rhodf",
         "rook-ceph-operator.v4.19.4-rhodf",
         "rook-ceph-operator.v4.19.5-rhodf",
@@ -112984,6 +113298,7 @@
         "rook-ceph-operator.v4.20.19-rhodf",
         "rook-ceph-operator.v4.20.2-rhodf",
         "rook-ceph-operator.v4.20.20-rhodf",
+        "rook-ceph-operator.v4.20.21-rhodf",
         "rook-ceph-operator.v4.20.3-rhodf",
         "rook-ceph-operator.v4.20.4-rhodf",
         "rook-ceph-operator.v4.20.5-rhodf",
@@ -113021,6 +113336,7 @@
         "rook-ceph-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "rook-ceph-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "rook-ceph-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "rook-ceph-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "rook-ceph-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "rook-ceph-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "rook-ceph-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -113041,7 +113357,8 @@
         "rook-ceph-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "rook-ceph-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "rook-ceph-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "rook-ceph-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "rook-ceph-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "rook-ceph-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -113064,6 +113381,7 @@
         "rook-ceph-operator.v4.20.19-rhodf",
         "rook-ceph-operator.v4.20.2-rhodf",
         "rook-ceph-operator.v4.20.20-rhodf",
+        "rook-ceph-operator.v4.20.21-rhodf",
         "rook-ceph-operator.v4.20.3-rhodf",
         "rook-ceph-operator.v4.20.4-rhodf",
         "rook-ceph-operator.v4.20.5-rhodf",
@@ -113078,6 +113396,7 @@
         "rook-ceph-operator.v4.21.12-rhodf",
         "rook-ceph-operator.v4.21.13-rhodf",
         "rook-ceph-operator.v4.21.14-rhodf",
+        "rook-ceph-operator.v4.21.15-rhodf",
         "rook-ceph-operator.v4.21.2-rhodf",
         "rook-ceph-operator.v4.21.3-rhodf",
         "rook-ceph-operator.v4.21.4-rhodf",
@@ -113111,6 +113430,7 @@
         "rook-ceph-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "rook-ceph-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "rook-ceph-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "rook-ceph-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "rook-ceph-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "rook-ceph-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "rook-ceph-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -113125,7 +113445,8 @@
         "rook-ceph-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "rook-ceph-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "rook-ceph-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "rook-ceph-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "rook-ceph-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "rook-ceph-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -113141,6 +113462,7 @@
         "rook-ceph-operator.v4.21.12-rhodf",
         "rook-ceph-operator.v4.21.13-rhodf",
         "rook-ceph-operator.v4.21.14-rhodf",
+        "rook-ceph-operator.v4.21.15-rhodf",
         "rook-ceph-operator.v4.21.2-rhodf",
         "rook-ceph-operator.v4.21.3-rhodf",
         "rook-ceph-operator.v4.21.4-rhodf",
@@ -113155,7 +113477,8 @@
         "rook-ceph-operator.v4.22.3-rhodf",
         "rook-ceph-operator.v4.22.4-rhodf",
         "rook-ceph-operator.v4.22.5-rhodf",
-        "rook-ceph-operator.v4.22.6-rhodf"
+        "rook-ceph-operator.v4.22.6-rhodf",
+        "rook-ceph-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -113175,13 +113498,15 @@
         "rook-ceph-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "rook-ceph-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "rook-ceph-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "rook-ceph-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "rook-ceph-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "rook-ceph-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "rook-ceph-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "rook-ceph-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "rook-ceph-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "rook-ceph-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "rook-ceph-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "rook-ceph-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "rook-ceph-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -114436,6 +114761,7 @@
         "cephcsi-operator.v4.19.23-rhodf",
         "cephcsi-operator.v4.19.24-rhodf",
         "cephcsi-operator.v4.19.25-rhodf",
+        "cephcsi-operator.v4.19.26-rhodf",
         "cephcsi-operator.v4.19.3-rhodf",
         "cephcsi-operator.v4.19.4-rhodf",
         "cephcsi-operator.v4.19.5-rhodf",
@@ -114500,7 +114826,8 @@
         "cephcsi-operator.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "cephcsi-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "cephcsi-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "cephcsi-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "cephcsi-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "cephcsi-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -114528,6 +114855,7 @@
         "cephcsi-operator.v4.19.23-rhodf",
         "cephcsi-operator.v4.19.24-rhodf",
         "cephcsi-operator.v4.19.25-rhodf",
+        "cephcsi-operator.v4.19.26-rhodf",
         "cephcsi-operator.v4.19.3-rhodf",
         "cephcsi-operator.v4.19.4-rhodf",
         "cephcsi-operator.v4.19.5-rhodf",
@@ -114549,6 +114877,7 @@
         "cephcsi-operator.v4.20.19-rhodf",
         "cephcsi-operator.v4.20.2-rhodf",
         "cephcsi-operator.v4.20.20-rhodf",
+        "cephcsi-operator.v4.20.21-rhodf",
         "cephcsi-operator.v4.20.3-rhodf",
         "cephcsi-operator.v4.20.4-rhodf",
         "cephcsi-operator.v4.20.5-rhodf",
@@ -114586,6 +114915,7 @@
         "cephcsi-operator.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "cephcsi-operator.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "cephcsi-operator.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "cephcsi-operator.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "cephcsi-operator.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "cephcsi-operator.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "cephcsi-operator.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -114606,7 +114936,8 @@
         "cephcsi-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "cephcsi-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "cephcsi-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "cephcsi-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "cephcsi-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "cephcsi-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -114629,6 +114960,7 @@
         "cephcsi-operator.v4.20.19-rhodf",
         "cephcsi-operator.v4.20.2-rhodf",
         "cephcsi-operator.v4.20.20-rhodf",
+        "cephcsi-operator.v4.20.21-rhodf",
         "cephcsi-operator.v4.20.3-rhodf",
         "cephcsi-operator.v4.20.4-rhodf",
         "cephcsi-operator.v4.20.5-rhodf",
@@ -114643,6 +114975,7 @@
         "cephcsi-operator.v4.21.12-rhodf",
         "cephcsi-operator.v4.21.13-rhodf",
         "cephcsi-operator.v4.21.14-rhodf",
+        "cephcsi-operator.v4.21.15-rhodf",
         "cephcsi-operator.v4.21.2-rhodf",
         "cephcsi-operator.v4.21.3-rhodf",
         "cephcsi-operator.v4.21.4-rhodf",
@@ -114676,6 +115009,7 @@
         "cephcsi-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "cephcsi-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "cephcsi-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "cephcsi-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "cephcsi-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "cephcsi-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "cephcsi-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -114690,7 +115024,8 @@
         "cephcsi-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "cephcsi-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "cephcsi-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "cephcsi-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "cephcsi-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "cephcsi-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -114706,6 +115041,7 @@
         "cephcsi-operator.v4.21.12-rhodf",
         "cephcsi-operator.v4.21.13-rhodf",
         "cephcsi-operator.v4.21.14-rhodf",
+        "cephcsi-operator.v4.21.15-rhodf",
         "cephcsi-operator.v4.21.2-rhodf",
         "cephcsi-operator.v4.21.3-rhodf",
         "cephcsi-operator.v4.21.4-rhodf",
@@ -114720,7 +115056,8 @@
         "cephcsi-operator.v4.22.3-rhodf",
         "cephcsi-operator.v4.22.4-rhodf",
         "cephcsi-operator.v4.22.5-rhodf",
-        "cephcsi-operator.v4.22.6-rhodf"
+        "cephcsi-operator.v4.22.6-rhodf",
+        "cephcsi-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -114740,13 +115077,15 @@
         "cephcsi-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "cephcsi-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "cephcsi-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "cephcsi-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "cephcsi-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "cephcsi-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "cephcsi-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "cephcsi-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "cephcsi-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "cephcsi-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "cephcsi-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "cephcsi-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "cephcsi-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -115501,6 +115840,7 @@
         "odf-dependencies.v4.19.23-rhodf",
         "odf-dependencies.v4.19.24-rhodf",
         "odf-dependencies.v4.19.25-rhodf",
+        "odf-dependencies.v4.19.26-rhodf",
         "odf-dependencies.v4.19.3-rhodf",
         "odf-dependencies.v4.19.4-rhodf",
         "odf-dependencies.v4.19.5-rhodf",
@@ -115530,6 +115870,7 @@
         "cephcsi-operator (4.19.23-rhodf)",
         "cephcsi-operator (4.19.24-rhodf)",
         "cephcsi-operator (4.19.25-rhodf)",
+        "cephcsi-operator (4.19.26-rhodf)",
         "cephcsi-operator (4.19.3-rhodf)",
         "cephcsi-operator (4.19.4-rhodf)",
         "cephcsi-operator (4.19.5-rhodf)",
@@ -115587,6 +115928,7 @@
         "mcg-operator (4.19.23-rhodf)",
         "mcg-operator (4.19.24-rhodf)",
         "mcg-operator (4.19.25-rhodf)",
+        "mcg-operator (4.19.26-rhodf)",
         "mcg-operator (4.19.3-rhodf)",
         "mcg-operator (4.19.4-rhodf)",
         "mcg-operator (4.19.5-rhodf)",
@@ -115644,6 +115986,7 @@
         "ocs-client-operator (4.19.23-rhodf)",
         "ocs-client-operator (4.19.24-rhodf)",
         "ocs-client-operator (4.19.25-rhodf)",
+        "ocs-client-operator (4.19.26-rhodf)",
         "ocs-client-operator (4.19.3-rhodf)",
         "ocs-client-operator (4.19.4-rhodf)",
         "ocs-client-operator (4.19.5-rhodf)",
@@ -115701,6 +116044,7 @@
         "ocs-operator (4.19.23-rhodf)",
         "ocs-operator (4.19.24-rhodf)",
         "ocs-operator (4.19.25-rhodf)",
+        "ocs-operator (4.19.26-rhodf)",
         "ocs-operator (4.19.3-rhodf)",
         "ocs-operator (4.19.4-rhodf)",
         "ocs-operator (4.19.5-rhodf)",
@@ -115758,6 +116102,7 @@
         "odf-csi-addons-operator (4.19.23-rhodf)",
         "odf-csi-addons-operator (4.19.24-rhodf)",
         "odf-csi-addons-operator (4.19.25-rhodf)",
+        "odf-csi-addons-operator (4.19.26-rhodf)",
         "odf-csi-addons-operator (4.19.3-rhodf)",
         "odf-csi-addons-operator (4.19.4-rhodf)",
         "odf-csi-addons-operator (4.19.5-rhodf)",
@@ -115815,6 +116160,7 @@
         "odf-prometheus-operator (4.19.23-rhodf)",
         "odf-prometheus-operator (4.19.24-rhodf)",
         "odf-prometheus-operator (4.19.25-rhodf)",
+        "odf-prometheus-operator (4.19.26-rhodf)",
         "odf-prometheus-operator (4.19.3-rhodf)",
         "odf-prometheus-operator (4.19.4-rhodf)",
         "odf-prometheus-operator (4.19.5-rhodf)",
@@ -115872,6 +116218,7 @@
         "recipe (4.19.23-rhodf)",
         "recipe (4.19.24-rhodf)",
         "recipe (4.19.25-rhodf)",
+        "recipe (4.19.26-rhodf)",
         "recipe (4.19.3-rhodf)",
         "recipe (4.19.4-rhodf)",
         "recipe (4.19.5-rhodf)",
@@ -115929,6 +116276,7 @@
         "rook-ceph-operator (4.19.23-rhodf)",
         "rook-ceph-operator (4.19.24-rhodf)",
         "rook-ceph-operator (4.19.25-rhodf)",
+        "rook-ceph-operator (4.19.26-rhodf)",
         "rook-ceph-operator (4.19.3-rhodf)",
         "rook-ceph-operator (4.19.4-rhodf)",
         "rook-ceph-operator (4.19.5-rhodf)",
@@ -116025,7 +116373,8 @@
         "odf-dependencies.v4.19.22-rhodf": ">=4.2.0 <4.19.22-rhodf",
         "odf-dependencies.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-dependencies.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
-        "odf-dependencies.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf"
+        "odf-dependencies.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-dependencies.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf"
       },
       "channels": [
         "stable-4.18",
@@ -116053,6 +116402,7 @@
         "odf-dependencies.v4.19.23-rhodf",
         "odf-dependencies.v4.19.24-rhodf",
         "odf-dependencies.v4.19.25-rhodf",
+        "odf-dependencies.v4.19.26-rhodf",
         "odf-dependencies.v4.19.3-rhodf",
         "odf-dependencies.v4.19.4-rhodf",
         "odf-dependencies.v4.19.5-rhodf",
@@ -116074,6 +116424,7 @@
         "odf-dependencies.v4.20.19-rhodf",
         "odf-dependencies.v4.20.2-rhodf",
         "odf-dependencies.v4.20.20-rhodf",
+        "odf-dependencies.v4.20.21-rhodf",
         "odf-dependencies.v4.20.3-rhodf",
         "odf-dependencies.v4.20.4-rhodf",
         "odf-dependencies.v4.20.5-rhodf",
@@ -116103,6 +116454,7 @@
         "cephcsi-operator (4.19.23-rhodf)",
         "cephcsi-operator (4.19.24-rhodf)",
         "cephcsi-operator (4.19.25-rhodf)",
+        "cephcsi-operator (4.19.26-rhodf)",
         "cephcsi-operator (4.19.3-rhodf)",
         "cephcsi-operator (4.19.4-rhodf)",
         "cephcsi-operator (4.19.5-rhodf)",
@@ -116124,6 +116476,7 @@
         "cephcsi-operator (4.20.19-rhodf)",
         "cephcsi-operator (4.20.2-rhodf)",
         "cephcsi-operator (4.20.20-rhodf)",
+        "cephcsi-operator (4.20.21-rhodf)",
         "cephcsi-operator (4.20.3-rhodf)",
         "cephcsi-operator (4.20.4-rhodf)",
         "cephcsi-operator (4.20.5-rhodf)",
@@ -116150,6 +116503,7 @@
         "mcg-operator (4.19.23-rhodf)",
         "mcg-operator (4.19.24-rhodf)",
         "mcg-operator (4.19.25-rhodf)",
+        "mcg-operator (4.19.26-rhodf)",
         "mcg-operator (4.19.3-rhodf)",
         "mcg-operator (4.19.4-rhodf)",
         "mcg-operator (4.19.5-rhodf)",
@@ -116171,6 +116525,7 @@
         "mcg-operator (4.20.19-rhodf)",
         "mcg-operator (4.20.2-rhodf)",
         "mcg-operator (4.20.20-rhodf)",
+        "mcg-operator (4.20.21-rhodf)",
         "mcg-operator (4.20.3-rhodf)",
         "mcg-operator (4.20.4-rhodf)",
         "mcg-operator (4.20.5-rhodf)",
@@ -116197,6 +116552,7 @@
         "ocs-client-operator (4.19.23-rhodf)",
         "ocs-client-operator (4.19.24-rhodf)",
         "ocs-client-operator (4.19.25-rhodf)",
+        "ocs-client-operator (4.19.26-rhodf)",
         "ocs-client-operator (4.19.3-rhodf)",
         "ocs-client-operator (4.19.4-rhodf)",
         "ocs-client-operator (4.19.5-rhodf)",
@@ -116218,6 +116574,7 @@
         "ocs-client-operator (4.20.19-rhodf)",
         "ocs-client-operator (4.20.2-rhodf)",
         "ocs-client-operator (4.20.20-rhodf)",
+        "ocs-client-operator (4.20.21-rhodf)",
         "ocs-client-operator (4.20.3-rhodf)",
         "ocs-client-operator (4.20.4-rhodf)",
         "ocs-client-operator (4.20.5-rhodf)",
@@ -116244,6 +116601,7 @@
         "ocs-operator (4.19.23-rhodf)",
         "ocs-operator (4.19.24-rhodf)",
         "ocs-operator (4.19.25-rhodf)",
+        "ocs-operator (4.19.26-rhodf)",
         "ocs-operator (4.19.3-rhodf)",
         "ocs-operator (4.19.4-rhodf)",
         "ocs-operator (4.19.5-rhodf)",
@@ -116265,6 +116623,7 @@
         "ocs-operator (4.20.19-rhodf)",
         "ocs-operator (4.20.2-rhodf)",
         "ocs-operator (4.20.20-rhodf)",
+        "ocs-operator (4.20.21-rhodf)",
         "ocs-operator (4.20.3-rhodf)",
         "ocs-operator (4.20.4-rhodf)",
         "ocs-operator (4.20.5-rhodf)",
@@ -116291,6 +116650,7 @@
         "odf-csi-addons-operator (4.19.23-rhodf)",
         "odf-csi-addons-operator (4.19.24-rhodf)",
         "odf-csi-addons-operator (4.19.25-rhodf)",
+        "odf-csi-addons-operator (4.19.26-rhodf)",
         "odf-csi-addons-operator (4.19.3-rhodf)",
         "odf-csi-addons-operator (4.19.4-rhodf)",
         "odf-csi-addons-operator (4.19.5-rhodf)",
@@ -116312,6 +116672,7 @@
         "odf-csi-addons-operator (4.20.19-rhodf)",
         "odf-csi-addons-operator (4.20.2-rhodf)",
         "odf-csi-addons-operator (4.20.20-rhodf)",
+        "odf-csi-addons-operator (4.20.21-rhodf)",
         "odf-csi-addons-operator (4.20.3-rhodf)",
         "odf-csi-addons-operator (4.20.4-rhodf)",
         "odf-csi-addons-operator (4.20.5-rhodf)",
@@ -116333,6 +116694,7 @@
         "odf-external-snapshotter-operator (4.20.19-rhodf)",
         "odf-external-snapshotter-operator (4.20.2-rhodf)",
         "odf-external-snapshotter-operator (4.20.20-rhodf)",
+        "odf-external-snapshotter-operator (4.20.21-rhodf)",
         "odf-external-snapshotter-operator (4.20.3-rhodf)",
         "odf-external-snapshotter-operator (4.20.4-rhodf)",
         "odf-external-snapshotter-operator (4.20.5-rhodf)",
@@ -116359,6 +116721,7 @@
         "odf-prometheus-operator (4.19.23-rhodf)",
         "odf-prometheus-operator (4.19.24-rhodf)",
         "odf-prometheus-operator (4.19.25-rhodf)",
+        "odf-prometheus-operator (4.19.26-rhodf)",
         "odf-prometheus-operator (4.19.3-rhodf)",
         "odf-prometheus-operator (4.19.4-rhodf)",
         "odf-prometheus-operator (4.19.5-rhodf)",
@@ -116380,6 +116743,7 @@
         "odf-prometheus-operator (4.20.19-rhodf)",
         "odf-prometheus-operator (4.20.2-rhodf)",
         "odf-prometheus-operator (4.20.20-rhodf)",
+        "odf-prometheus-operator (4.20.21-rhodf)",
         "odf-prometheus-operator (4.20.3-rhodf)",
         "odf-prometheus-operator (4.20.4-rhodf)",
         "odf-prometheus-operator (4.20.5-rhodf)",
@@ -116406,6 +116770,7 @@
         "recipe (4.19.23-rhodf)",
         "recipe (4.19.24-rhodf)",
         "recipe (4.19.25-rhodf)",
+        "recipe (4.19.26-rhodf)",
         "recipe (4.19.3-rhodf)",
         "recipe (4.19.4-rhodf)",
         "recipe (4.19.5-rhodf)",
@@ -116427,6 +116792,7 @@
         "recipe (4.20.19-rhodf)",
         "recipe (4.20.2-rhodf)",
         "recipe (4.20.20-rhodf)",
+        "recipe (4.20.21-rhodf)",
         "recipe (4.20.3-rhodf)",
         "recipe (4.20.4-rhodf)",
         "recipe (4.20.5-rhodf)",
@@ -116453,6 +116819,7 @@
         "rook-ceph-operator (4.19.23-rhodf)",
         "rook-ceph-operator (4.19.24-rhodf)",
         "rook-ceph-operator (4.19.25-rhodf)",
+        "rook-ceph-operator (4.19.26-rhodf)",
         "rook-ceph-operator (4.19.3-rhodf)",
         "rook-ceph-operator (4.19.4-rhodf)",
         "rook-ceph-operator (4.19.5-rhodf)",
@@ -116474,6 +116841,7 @@
         "rook-ceph-operator (4.20.19-rhodf)",
         "rook-ceph-operator (4.20.2-rhodf)",
         "rook-ceph-operator (4.20.20-rhodf)",
+        "rook-ceph-operator (4.20.21-rhodf)",
         "rook-ceph-operator (4.20.3-rhodf)",
         "rook-ceph-operator (4.20.4-rhodf)",
         "rook-ceph-operator (4.20.5-rhodf)",
@@ -116509,6 +116877,7 @@
         "odf-dependencies.v4.19.23-rhodf": ">=4.2.0 <4.19.23-rhodf",
         "odf-dependencies.v4.19.24-rhodf": ">=4.2.0 <4.19.24-rhodf",
         "odf-dependencies.v4.19.25-rhodf": ">=4.2.0 <4.19.25-rhodf",
+        "odf-dependencies.v4.19.26-rhodf": ">=4.2.0 <4.19.26-rhodf",
         "odf-dependencies.v4.20.0-rhodf": ">=4.2.0 <4.20.0-rhodf",
         "odf-dependencies.v4.20.1-rhodf": ">=4.2.0 <4.20.1-rhodf",
         "odf-dependencies.v4.20.2-rhodf": ">=4.2.0 <4.20.2-rhodf",
@@ -116529,7 +116898,8 @@
         "odf-dependencies.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odf-dependencies.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-dependencies.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odf-dependencies.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odf-dependencies.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-dependencies.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.19",
@@ -116552,6 +116922,7 @@
         "odf-dependencies.v4.20.19-rhodf",
         "odf-dependencies.v4.20.2-rhodf",
         "odf-dependencies.v4.20.20-rhodf",
+        "odf-dependencies.v4.20.21-rhodf",
         "odf-dependencies.v4.20.3-rhodf",
         "odf-dependencies.v4.20.4-rhodf",
         "odf-dependencies.v4.20.5-rhodf",
@@ -116566,6 +116937,7 @@
         "odf-dependencies.v4.21.12-rhodf",
         "odf-dependencies.v4.21.13-rhodf",
         "odf-dependencies.v4.21.14-rhodf",
+        "odf-dependencies.v4.21.15-rhodf",
         "odf-dependencies.v4.21.2-rhodf",
         "odf-dependencies.v4.21.3-rhodf",
         "odf-dependencies.v4.21.4-rhodf",
@@ -116591,6 +116963,7 @@
         "cephcsi-operator (4.20.19-rhodf)",
         "cephcsi-operator (4.20.2-rhodf)",
         "cephcsi-operator (4.20.20-rhodf)",
+        "cephcsi-operator (4.20.21-rhodf)",
         "cephcsi-operator (4.20.3-rhodf)",
         "cephcsi-operator (4.20.4-rhodf)",
         "cephcsi-operator (4.20.5-rhodf)",
@@ -116605,6 +116978,7 @@
         "cephcsi-operator (4.21.12-rhodf)",
         "cephcsi-operator (4.21.13-rhodf)",
         "cephcsi-operator (4.21.14-rhodf)",
+        "cephcsi-operator (4.21.15-rhodf)",
         "cephcsi-operator (4.21.2-rhodf)",
         "cephcsi-operator (4.21.3-rhodf)",
         "cephcsi-operator (4.21.4-rhodf)",
@@ -116627,6 +117001,7 @@
         "mcg-operator (4.20.19-rhodf)",
         "mcg-operator (4.20.2-rhodf)",
         "mcg-operator (4.20.20-rhodf)",
+        "mcg-operator (4.20.21-rhodf)",
         "mcg-operator (4.20.3-rhodf)",
         "mcg-operator (4.20.4-rhodf)",
         "mcg-operator (4.20.5-rhodf)",
@@ -116641,6 +117016,7 @@
         "mcg-operator (4.21.12-rhodf)",
         "mcg-operator (4.21.13-rhodf)",
         "mcg-operator (4.21.14-rhodf)",
+        "mcg-operator (4.21.15-rhodf)",
         "mcg-operator (4.21.2-rhodf)",
         "mcg-operator (4.21.3-rhodf)",
         "mcg-operator (4.21.4-rhodf)",
@@ -116663,6 +117039,7 @@
         "ocs-client-operator (4.20.19-rhodf)",
         "ocs-client-operator (4.20.2-rhodf)",
         "ocs-client-operator (4.20.20-rhodf)",
+        "ocs-client-operator (4.20.21-rhodf)",
         "ocs-client-operator (4.20.3-rhodf)",
         "ocs-client-operator (4.20.4-rhodf)",
         "ocs-client-operator (4.20.5-rhodf)",
@@ -116677,6 +117054,7 @@
         "ocs-client-operator (4.21.12-rhodf)",
         "ocs-client-operator (4.21.13-rhodf)",
         "ocs-client-operator (4.21.14-rhodf)",
+        "ocs-client-operator (4.21.15-rhodf)",
         "ocs-client-operator (4.21.2-rhodf)",
         "ocs-client-operator (4.21.3-rhodf)",
         "ocs-client-operator (4.21.4-rhodf)",
@@ -116699,6 +117077,7 @@
         "ocs-operator (4.20.19-rhodf)",
         "ocs-operator (4.20.2-rhodf)",
         "ocs-operator (4.20.20-rhodf)",
+        "ocs-operator (4.20.21-rhodf)",
         "ocs-operator (4.20.3-rhodf)",
         "ocs-operator (4.20.4-rhodf)",
         "ocs-operator (4.20.5-rhodf)",
@@ -116713,6 +117092,7 @@
         "ocs-operator (4.21.12-rhodf)",
         "ocs-operator (4.21.13-rhodf)",
         "ocs-operator (4.21.14-rhodf)",
+        "ocs-operator (4.21.15-rhodf)",
         "ocs-operator (4.21.2-rhodf)",
         "ocs-operator (4.21.3-rhodf)",
         "ocs-operator (4.21.4-rhodf)",
@@ -116735,6 +117115,7 @@
         "odf-csi-addons-operator (4.20.19-rhodf)",
         "odf-csi-addons-operator (4.20.2-rhodf)",
         "odf-csi-addons-operator (4.20.20-rhodf)",
+        "odf-csi-addons-operator (4.20.21-rhodf)",
         "odf-csi-addons-operator (4.20.3-rhodf)",
         "odf-csi-addons-operator (4.20.4-rhodf)",
         "odf-csi-addons-operator (4.20.5-rhodf)",
@@ -116749,6 +117130,7 @@
         "odf-csi-addons-operator (4.21.12-rhodf)",
         "odf-csi-addons-operator (4.21.13-rhodf)",
         "odf-csi-addons-operator (4.21.14-rhodf)",
+        "odf-csi-addons-operator (4.21.15-rhodf)",
         "odf-csi-addons-operator (4.21.2-rhodf)",
         "odf-csi-addons-operator (4.21.3-rhodf)",
         "odf-csi-addons-operator (4.21.4-rhodf)",
@@ -116771,6 +117153,7 @@
         "odf-external-snapshotter-operator (4.20.19-rhodf)",
         "odf-external-snapshotter-operator (4.20.2-rhodf)",
         "odf-external-snapshotter-operator (4.20.20-rhodf)",
+        "odf-external-snapshotter-operator (4.20.21-rhodf)",
         "odf-external-snapshotter-operator (4.20.3-rhodf)",
         "odf-external-snapshotter-operator (4.20.4-rhodf)",
         "odf-external-snapshotter-operator (4.20.5-rhodf)",
@@ -116785,6 +117168,7 @@
         "odf-external-snapshotter-operator (4.21.12-rhodf)",
         "odf-external-snapshotter-operator (4.21.13-rhodf)",
         "odf-external-snapshotter-operator (4.21.14-rhodf)",
+        "odf-external-snapshotter-operator (4.21.15-rhodf)",
         "odf-external-snapshotter-operator (4.21.2-rhodf)",
         "odf-external-snapshotter-operator (4.21.3-rhodf)",
         "odf-external-snapshotter-operator (4.21.4-rhodf)",
@@ -116807,6 +117191,7 @@
         "odf-prometheus-operator (4.20.19-rhodf)",
         "odf-prometheus-operator (4.20.2-rhodf)",
         "odf-prometheus-operator (4.20.20-rhodf)",
+        "odf-prometheus-operator (4.20.21-rhodf)",
         "odf-prometheus-operator (4.20.3-rhodf)",
         "odf-prometheus-operator (4.20.4-rhodf)",
         "odf-prometheus-operator (4.20.5-rhodf)",
@@ -116821,6 +117206,7 @@
         "odf-prometheus-operator (4.21.12-rhodf)",
         "odf-prometheus-operator (4.21.13-rhodf)",
         "odf-prometheus-operator (4.21.14-rhodf)",
+        "odf-prometheus-operator (4.21.15-rhodf)",
         "odf-prometheus-operator (4.21.2-rhodf)",
         "odf-prometheus-operator (4.21.3-rhodf)",
         "odf-prometheus-operator (4.21.4-rhodf)",
@@ -116843,6 +117229,7 @@
         "recipe (4.20.19-rhodf)",
         "recipe (4.20.2-rhodf)",
         "recipe (4.20.20-rhodf)",
+        "recipe (4.20.21-rhodf)",
         "recipe (4.20.3-rhodf)",
         "recipe (4.20.4-rhodf)",
         "recipe (4.20.5-rhodf)",
@@ -116857,6 +117244,7 @@
         "recipe (4.21.12-rhodf)",
         "recipe (4.21.13-rhodf)",
         "recipe (4.21.14-rhodf)",
+        "recipe (4.21.15-rhodf)",
         "recipe (4.21.2-rhodf)",
         "recipe (4.21.3-rhodf)",
         "recipe (4.21.4-rhodf)",
@@ -116879,6 +117267,7 @@
         "rook-ceph-operator (4.20.19-rhodf)",
         "rook-ceph-operator (4.20.2-rhodf)",
         "rook-ceph-operator (4.20.20-rhodf)",
+        "rook-ceph-operator (4.20.21-rhodf)",
         "rook-ceph-operator (4.20.3-rhodf)",
         "rook-ceph-operator (4.20.4-rhodf)",
         "rook-ceph-operator (4.20.5-rhodf)",
@@ -116893,6 +117282,7 @@
         "rook-ceph-operator (4.21.12-rhodf)",
         "rook-ceph-operator (4.21.13-rhodf)",
         "rook-ceph-operator (4.21.14-rhodf)",
+        "rook-ceph-operator (4.21.15-rhodf)",
         "rook-ceph-operator (4.21.2-rhodf)",
         "rook-ceph-operator (4.21.3-rhodf)",
         "rook-ceph-operator (4.21.4-rhodf)",
@@ -116924,6 +117314,7 @@
         "odf-dependencies.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-dependencies.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odf-dependencies.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-dependencies.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odf-dependencies.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odf-dependencies.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odf-dependencies.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -116938,7 +117329,8 @@
         "odf-dependencies.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odf-dependencies.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-dependencies.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odf-dependencies.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odf-dependencies.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-dependencies.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -116954,6 +117346,7 @@
         "odf-dependencies.v4.21.12-rhodf",
         "odf-dependencies.v4.21.13-rhodf",
         "odf-dependencies.v4.21.14-rhodf",
+        "odf-dependencies.v4.21.15-rhodf",
         "odf-dependencies.v4.21.2-rhodf",
         "odf-dependencies.v4.21.3-rhodf",
         "odf-dependencies.v4.21.4-rhodf",
@@ -116968,7 +117361,8 @@
         "odf-dependencies.v4.22.3-rhodf",
         "odf-dependencies.v4.22.4-rhodf",
         "odf-dependencies.v4.22.5-rhodf",
-        "odf-dependencies.v4.22.6-rhodf"
+        "odf-dependencies.v4.22.6-rhodf",
+        "odf-dependencies.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.22",
       "dependencies": [
@@ -116979,6 +117373,7 @@
         "cephcsi-operator (4.21.12-rhodf)",
         "cephcsi-operator (4.21.13-rhodf)",
         "cephcsi-operator (4.21.14-rhodf)",
+        "cephcsi-operator (4.21.15-rhodf)",
         "cephcsi-operator (4.21.2-rhodf)",
         "cephcsi-operator (4.21.3-rhodf)",
         "cephcsi-operator (4.21.4-rhodf)",
@@ -116994,6 +117389,7 @@
         "cephcsi-operator (4.22.4-rhodf)",
         "cephcsi-operator (4.22.5-rhodf)",
         "cephcsi-operator (4.22.6-rhodf)",
+        "cephcsi-operator (4.22.7-rhodf)",
         "mcg-operator (4.21.0-rhodf)",
         "mcg-operator (4.21.1-rhodf)",
         "mcg-operator (4.21.10-rhodf)",
@@ -117001,6 +117397,7 @@
         "mcg-operator (4.21.12-rhodf)",
         "mcg-operator (4.21.13-rhodf)",
         "mcg-operator (4.21.14-rhodf)",
+        "mcg-operator (4.21.15-rhodf)",
         "mcg-operator (4.21.2-rhodf)",
         "mcg-operator (4.21.3-rhodf)",
         "mcg-operator (4.21.4-rhodf)",
@@ -117016,6 +117413,7 @@
         "mcg-operator (4.22.4-rhodf)",
         "mcg-operator (4.22.5-rhodf)",
         "mcg-operator (4.22.6-rhodf)",
+        "mcg-operator (4.22.7-rhodf)",
         "ocs-client-operator (4.21.0-rhodf)",
         "ocs-client-operator (4.21.1-rhodf)",
         "ocs-client-operator (4.21.10-rhodf)",
@@ -117023,6 +117421,7 @@
         "ocs-client-operator (4.21.12-rhodf)",
         "ocs-client-operator (4.21.13-rhodf)",
         "ocs-client-operator (4.21.14-rhodf)",
+        "ocs-client-operator (4.21.15-rhodf)",
         "ocs-client-operator (4.21.2-rhodf)",
         "ocs-client-operator (4.21.3-rhodf)",
         "ocs-client-operator (4.21.4-rhodf)",
@@ -117038,6 +117437,7 @@
         "ocs-client-operator (4.22.4-rhodf)",
         "ocs-client-operator (4.22.5-rhodf)",
         "ocs-client-operator (4.22.6-rhodf)",
+        "ocs-client-operator (4.22.7-rhodf)",
         "ocs-operator (4.21.0-rhodf)",
         "ocs-operator (4.21.1-rhodf)",
         "ocs-operator (4.21.10-rhodf)",
@@ -117045,6 +117445,7 @@
         "ocs-operator (4.21.12-rhodf)",
         "ocs-operator (4.21.13-rhodf)",
         "ocs-operator (4.21.14-rhodf)",
+        "ocs-operator (4.21.15-rhodf)",
         "ocs-operator (4.21.2-rhodf)",
         "ocs-operator (4.21.3-rhodf)",
         "ocs-operator (4.21.4-rhodf)",
@@ -117060,6 +117461,7 @@
         "ocs-operator (4.22.4-rhodf)",
         "ocs-operator (4.22.5-rhodf)",
         "ocs-operator (4.22.6-rhodf)",
+        "ocs-operator (4.22.7-rhodf)",
         "ocs-tls-profiles (4.22.0-rhodf)",
         "ocs-tls-profiles (4.22.1-rhodf)",
         "ocs-tls-profiles (4.22.2-rhodf)",
@@ -117067,6 +117469,7 @@
         "ocs-tls-profiles (4.22.4-rhodf)",
         "ocs-tls-profiles (4.22.5-rhodf)",
         "ocs-tls-profiles (4.22.6-rhodf)",
+        "ocs-tls-profiles (4.22.7-rhodf)",
         "odf-csi-addons-operator (4.21.0-rhodf)",
         "odf-csi-addons-operator (4.21.1-rhodf)",
         "odf-csi-addons-operator (4.21.10-rhodf)",
@@ -117074,6 +117477,7 @@
         "odf-csi-addons-operator (4.21.12-rhodf)",
         "odf-csi-addons-operator (4.21.13-rhodf)",
         "odf-csi-addons-operator (4.21.14-rhodf)",
+        "odf-csi-addons-operator (4.21.15-rhodf)",
         "odf-csi-addons-operator (4.21.2-rhodf)",
         "odf-csi-addons-operator (4.21.3-rhodf)",
         "odf-csi-addons-operator (4.21.4-rhodf)",
@@ -117089,6 +117493,7 @@
         "odf-csi-addons-operator (4.22.4-rhodf)",
         "odf-csi-addons-operator (4.22.5-rhodf)",
         "odf-csi-addons-operator (4.22.6-rhodf)",
+        "odf-csi-addons-operator (4.22.7-rhodf)",
         "odf-external-snapshotter-operator (4.21.0-rhodf)",
         "odf-external-snapshotter-operator (4.21.1-rhodf)",
         "odf-external-snapshotter-operator (4.21.10-rhodf)",
@@ -117096,6 +117501,7 @@
         "odf-external-snapshotter-operator (4.21.12-rhodf)",
         "odf-external-snapshotter-operator (4.21.13-rhodf)",
         "odf-external-snapshotter-operator (4.21.14-rhodf)",
+        "odf-external-snapshotter-operator (4.21.15-rhodf)",
         "odf-external-snapshotter-operator (4.21.2-rhodf)",
         "odf-external-snapshotter-operator (4.21.3-rhodf)",
         "odf-external-snapshotter-operator (4.21.4-rhodf)",
@@ -117111,6 +117517,7 @@
         "odf-external-snapshotter-operator (4.22.4-rhodf)",
         "odf-external-snapshotter-operator (4.22.5-rhodf)",
         "odf-external-snapshotter-operator (4.22.6-rhodf)",
+        "odf-external-snapshotter-operator (4.22.7-rhodf)",
         "odf-prometheus-operator (4.21.0-rhodf)",
         "odf-prometheus-operator (4.21.1-rhodf)",
         "odf-prometheus-operator (4.21.10-rhodf)",
@@ -117118,6 +117525,7 @@
         "odf-prometheus-operator (4.21.12-rhodf)",
         "odf-prometheus-operator (4.21.13-rhodf)",
         "odf-prometheus-operator (4.21.14-rhodf)",
+        "odf-prometheus-operator (4.21.15-rhodf)",
         "odf-prometheus-operator (4.21.2-rhodf)",
         "odf-prometheus-operator (4.21.3-rhodf)",
         "odf-prometheus-operator (4.21.4-rhodf)",
@@ -117133,6 +117541,7 @@
         "odf-prometheus-operator (4.22.4-rhodf)",
         "odf-prometheus-operator (4.22.5-rhodf)",
         "odf-prometheus-operator (4.22.6-rhodf)",
+        "odf-prometheus-operator (4.22.7-rhodf)",
         "recipe (4.21.0-rhodf)",
         "recipe (4.21.1-rhodf)",
         "recipe (4.21.10-rhodf)",
@@ -117140,6 +117549,7 @@
         "recipe (4.21.12-rhodf)",
         "recipe (4.21.13-rhodf)",
         "recipe (4.21.14-rhodf)",
+        "recipe (4.21.15-rhodf)",
         "recipe (4.21.2-rhodf)",
         "recipe (4.21.3-rhodf)",
         "recipe (4.21.4-rhodf)",
@@ -117155,6 +117565,7 @@
         "recipe (4.22.4-rhodf)",
         "recipe (4.22.5-rhodf)",
         "recipe (4.22.6-rhodf)",
+        "recipe (4.22.7-rhodf)",
         "rook-ceph-operator (4.21.0-rhodf)",
         "rook-ceph-operator (4.21.1-rhodf)",
         "rook-ceph-operator (4.21.10-rhodf)",
@@ -117162,6 +117573,7 @@
         "rook-ceph-operator (4.21.12-rhodf)",
         "rook-ceph-operator (4.21.13-rhodf)",
         "rook-ceph-operator (4.21.14-rhodf)",
+        "rook-ceph-operator (4.21.15-rhodf)",
         "rook-ceph-operator (4.21.2-rhodf)",
         "rook-ceph-operator (4.21.3-rhodf)",
         "rook-ceph-operator (4.21.4-rhodf)",
@@ -117176,7 +117588,8 @@
         "rook-ceph-operator (4.22.3-rhodf)",
         "rook-ceph-operator (4.22.4-rhodf)",
         "rook-ceph-operator (4.22.5-rhodf)",
-        "rook-ceph-operator (4.22.6-rhodf)"
+        "rook-ceph-operator (4.22.6-rhodf)",
+        "rook-ceph-operator (4.22.7-rhodf)"
       ],
       "skipRanges": {
         "odf-dependencies.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
@@ -117194,13 +117607,15 @@
         "odf-dependencies.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-dependencies.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odf-dependencies.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-dependencies.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odf-dependencies.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odf-dependencies.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odf-dependencies.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odf-dependencies.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odf-dependencies.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odf-dependencies.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odf-dependencies.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odf-dependencies.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odf-dependencies.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -117335,7 +117750,8 @@
         "zero-trust-workload-identity-manager.v1.0.0",
         "zero-trust-workload-identity-manager.v1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2",
-        "zero-trust-workload-identity-manager.v1.0.3"
+        "zero-trust-workload-identity-manager.v1.0.3",
+        "zero-trust-workload-identity-manager.v1.0.4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -117344,6 +117760,7 @@
         "zero-trust-workload-identity-manager.v1.0.1": ">=1.0.0 <1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2": ">=1.0.1 <1.0.2",
         "zero-trust-workload-identity-manager.v1.0.3": ">=1.0.2 <1.0.3",
+        "zero-trust-workload-identity-manager.v1.0.4": ">=1.0.3 <1.0.4",
         "zero-trust-workload-identity-manager.v0.1.0": "<0.1.0"
       },
       "channels": [
@@ -117358,7 +117775,8 @@
         "zero-trust-workload-identity-manager.v1.0.0",
         "zero-trust-workload-identity-manager.v1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2",
-        "zero-trust-workload-identity-manager.v1.0.3"
+        "zero-trust-workload-identity-manager.v1.0.3",
+        "zero-trust-workload-identity-manager.v1.0.4"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -117367,6 +117785,7 @@
         "zero-trust-workload-identity-manager.v1.0.1": ">=1.0.0 <1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2": ">=1.0.1 <1.0.2",
         "zero-trust-workload-identity-manager.v1.0.3": ">=1.0.2 <1.0.3",
+        "zero-trust-workload-identity-manager.v1.0.4": ">=1.0.3 <1.0.4",
         "zero-trust-workload-identity-manager.v0.1.0": "<0.1.0",
         "zero-trust-workload-identity-manager.v0.2.0": ">=0.1.0 <0.2.0"
       },
@@ -117382,6 +117801,7 @@
         "zero-trust-workload-identity-manager.v1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2",
         "zero-trust-workload-identity-manager.v1.0.3",
+        "zero-trust-workload-identity-manager.v1.0.4",
         "zero-trust-workload-identity-manager.v1.1.0",
         "zero-trust-workload-identity-manager.v1.1.1",
         "zero-trust-workload-identity-manager.v1.1.2"
@@ -117393,7 +117813,8 @@
         "zero-trust-workload-identity-manager.v1.0.1": ">=1.0.0 <1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2": ">=1.0.1 <1.0.2",
         "zero-trust-workload-identity-manager.v1.0.3": ">=1.0.2 <1.0.3",
-        "zero-trust-workload-identity-manager.v1.1.0": ">=1.0.3 <1.1.0",
+        "zero-trust-workload-identity-manager.v1.0.4": ">=1.0.3 <1.0.4",
+        "zero-trust-workload-identity-manager.v1.1.0": ">=1.0.4 <1.1.0",
         "zero-trust-workload-identity-manager.v1.1.1": ">=1.1.0 <1.1.1",
         "zero-trust-workload-identity-manager.v1.1.2": ">=1.1.1 <1.1.2"
       },
@@ -117407,6 +117828,7 @@
         "zero-trust-workload-identity-manager.v1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2",
         "zero-trust-workload-identity-manager.v1.0.3",
+        "zero-trust-workload-identity-manager.v1.0.4",
         "zero-trust-workload-identity-manager.v1.1.0",
         "zero-trust-workload-identity-manager.v1.1.1",
         "zero-trust-workload-identity-manager.v1.1.2"
@@ -117418,7 +117840,8 @@
         "zero-trust-workload-identity-manager.v1.0.1": ">=1.0.0 <1.0.1",
         "zero-trust-workload-identity-manager.v1.0.2": ">=1.0.1 <1.0.2",
         "zero-trust-workload-identity-manager.v1.0.3": ">=1.0.2 <1.0.3",
-        "zero-trust-workload-identity-manager.v1.1.0": ">=1.0.3 <1.1.0",
+        "zero-trust-workload-identity-manager.v1.0.4": ">=1.0.3 <1.0.4",
+        "zero-trust-workload-identity-manager.v1.1.0": ">=1.0.4 <1.1.0",
         "zero-trust-workload-identity-manager.v1.1.1": ">=1.1.0 <1.1.1",
         "zero-trust-workload-identity-manager.v1.1.2": ">=1.1.1 <1.1.2"
       },
@@ -118078,6 +118501,7 @@
         "odf-external-snapshotter-operator.v4.20.19-rhodf",
         "odf-external-snapshotter-operator.v4.20.2-rhodf",
         "odf-external-snapshotter-operator.v4.20.20-rhodf",
+        "odf-external-snapshotter-operator.v4.20.21-rhodf",
         "odf-external-snapshotter-operator.v4.20.3-rhodf",
         "odf-external-snapshotter-operator.v4.20.4-rhodf",
         "odf-external-snapshotter-operator.v4.20.5-rhodf",
@@ -118109,7 +118533,8 @@
         "odf-external-snapshotter-operator.v4.20.17-rhodf": ">=4.2.0 <4.20.17-rhodf",
         "odf-external-snapshotter-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-external-snapshotter-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
-        "odf-external-snapshotter-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf"
+        "odf-external-snapshotter-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-external-snapshotter-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf"
       },
       "channels": [
         "stable-4.20"
@@ -118131,6 +118556,7 @@
         "odf-external-snapshotter-operator.v4.20.19-rhodf",
         "odf-external-snapshotter-operator.v4.20.2-rhodf",
         "odf-external-snapshotter-operator.v4.20.20-rhodf",
+        "odf-external-snapshotter-operator.v4.20.21-rhodf",
         "odf-external-snapshotter-operator.v4.20.3-rhodf",
         "odf-external-snapshotter-operator.v4.20.4-rhodf",
         "odf-external-snapshotter-operator.v4.20.5-rhodf",
@@ -118145,6 +118571,7 @@
         "odf-external-snapshotter-operator.v4.21.12-rhodf",
         "odf-external-snapshotter-operator.v4.21.13-rhodf",
         "odf-external-snapshotter-operator.v4.21.14-rhodf",
+        "odf-external-snapshotter-operator.v4.21.15-rhodf",
         "odf-external-snapshotter-operator.v4.21.2-rhodf",
         "odf-external-snapshotter-operator.v4.21.3-rhodf",
         "odf-external-snapshotter-operator.v4.21.4-rhodf",
@@ -118178,6 +118605,7 @@
         "odf-external-snapshotter-operator.v4.20.18-rhodf": ">=4.2.0 <4.20.18-rhodf",
         "odf-external-snapshotter-operator.v4.20.19-rhodf": ">=4.2.0 <4.20.19-rhodf",
         "odf-external-snapshotter-operator.v4.20.20-rhodf": ">=4.2.0 <4.20.20-rhodf",
+        "odf-external-snapshotter-operator.v4.20.21-rhodf": ">=4.2.0 <4.20.21-rhodf",
         "odf-external-snapshotter-operator.v4.21.0-rhodf": ">=4.2.0 <4.21.0-rhodf",
         "odf-external-snapshotter-operator.v4.21.1-rhodf": ">=4.2.0 <4.21.1-rhodf",
         "odf-external-snapshotter-operator.v4.21.2-rhodf": ">=4.2.0 <4.21.2-rhodf",
@@ -118192,7 +118620,8 @@
         "odf-external-snapshotter-operator.v4.21.11-rhodf": ">=4.2.0 <4.21.11-rhodf",
         "odf-external-snapshotter-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-external-snapshotter-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
-        "odf-external-snapshotter-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf"
+        "odf-external-snapshotter-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-external-snapshotter-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf"
       },
       "channels": [
         "stable-4.20",
@@ -118208,6 +118637,7 @@
         "odf-external-snapshotter-operator.v4.21.12-rhodf",
         "odf-external-snapshotter-operator.v4.21.13-rhodf",
         "odf-external-snapshotter-operator.v4.21.14-rhodf",
+        "odf-external-snapshotter-operator.v4.21.15-rhodf",
         "odf-external-snapshotter-operator.v4.21.2-rhodf",
         "odf-external-snapshotter-operator.v4.21.3-rhodf",
         "odf-external-snapshotter-operator.v4.21.4-rhodf",
@@ -118222,7 +118652,8 @@
         "odf-external-snapshotter-operator.v4.22.3-rhodf",
         "odf-external-snapshotter-operator.v4.22.4-rhodf",
         "odf-external-snapshotter-operator.v4.22.5-rhodf",
-        "odf-external-snapshotter-operator.v4.22.6-rhodf"
+        "odf-external-snapshotter-operator.v4.22.6-rhodf",
+        "odf-external-snapshotter-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -118242,13 +118673,15 @@
         "odf-external-snapshotter-operator.v4.21.12-rhodf": ">=4.2.0 <4.21.12-rhodf",
         "odf-external-snapshotter-operator.v4.21.13-rhodf": ">=4.2.0 <4.21.13-rhodf",
         "odf-external-snapshotter-operator.v4.21.14-rhodf": ">=4.2.0 <4.21.14-rhodf",
+        "odf-external-snapshotter-operator.v4.21.15-rhodf": ">=4.2.0 <4.21.15-rhodf",
         "odf-external-snapshotter-operator.v4.22.0-rhodf": ">=4.2.0 <4.22.0-rhodf",
         "odf-external-snapshotter-operator.v4.22.1-rhodf": ">=4.2.0 <4.22.1-rhodf",
         "odf-external-snapshotter-operator.v4.22.2-rhodf": ">=4.2.0 <4.22.2-rhodf",
         "odf-external-snapshotter-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odf-external-snapshotter-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odf-external-snapshotter-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odf-external-snapshotter-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odf-external-snapshotter-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odf-external-snapshotter-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.21",
@@ -118534,14 +118967,16 @@
       "versions": [
         "bgp-cloud-connector.v0.0.1",
         "bgp-cloud-connector.v0.1.0",
-        "bgp-cloud-connector.v1.0.0"
+        "bgp-cloud-connector.v1.0.0",
+        "bgp-cloud-connector.v1.1.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "bgp-cloud-connector.v1.0.0": "<1.0.0",
         "bgp-cloud-connector.v0.1.0": "<0.1.0",
-        "bgp-cloud-connector.v0.0.1": "<0.0.1"
+        "bgp-cloud-connector.v0.0.1": "<0.0.1",
+        "bgp-cloud-connector.v1.1.0": "<1.1.0"
       },
       "channels": [
         "alpha",
@@ -118571,7 +119006,8 @@
         "ocs-tls-profiles.v4.22.3-rhodf",
         "ocs-tls-profiles.v4.22.4-rhodf",
         "ocs-tls-profiles.v4.22.5-rhodf",
-        "ocs-tls-profiles.v4.22.6-rhodf"
+        "ocs-tls-profiles.v4.22.6-rhodf",
+        "ocs-tls-profiles.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -118582,7 +119018,8 @@
         "ocs-tls-profiles.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "ocs-tls-profiles.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "ocs-tls-profiles.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "ocs-tls-profiles.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "ocs-tls-profiles.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "ocs-tls-profiles.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.22"
@@ -118598,7 +119035,8 @@
         "odr-volsync-plugin-operator.v4.22.3-rhodf",
         "odr-volsync-plugin-operator.v4.22.4-rhodf",
         "odr-volsync-plugin-operator.v4.22.5-rhodf",
-        "odr-volsync-plugin-operator.v4.22.6-rhodf"
+        "odr-volsync-plugin-operator.v4.22.6-rhodf",
+        "odr-volsync-plugin-operator.v4.22.7-rhodf"
       ],
       "maxOCPVersion": "4.23",
       "dependencies": [],
@@ -118609,7 +119047,8 @@
         "odr-volsync-plugin-operator.v4.22.3-rhodf": ">=4.2.0 <4.22.3-rhodf",
         "odr-volsync-plugin-operator.v4.22.4-rhodf": ">=4.2.0 <4.22.4-rhodf",
         "odr-volsync-plugin-operator.v4.22.5-rhodf": ">=4.2.0 <4.22.5-rhodf",
-        "odr-volsync-plugin-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf"
+        "odr-volsync-plugin-operator.v4.22.6-rhodf": ">=4.2.0 <4.22.6-rhodf",
+        "odr-volsync-plugin-operator.v4.22.7-rhodf": ">=4.2.0 <4.22.7-rhodf"
       },
       "channels": [
         "stable-4.22"
