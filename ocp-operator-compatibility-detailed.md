@@ -204,11 +204,14 @@ def main():
         else:
             upgrade_required += 1
     
-    # Print compact report
-    print(f"\n=== OCP Upgrade Analysis: {current_ocp} → {target} ===")
-    print(f"Subscriptions: {len(ops)} | Compatible: {compatible} | Upgrade Needed: {upgrade_required} | Non-RH: {len(non_redhat_ops)}\n")
+    # Print detailed report - always includes all fields
+    print(f"\n{'='*90}")
+    print(f"OCP Upgrade Analysis: {current_ocp} → {target}")
+    print(f"{'='*90}")
+    print(f"Total: {len(ops)} | Compatible: {compatible} | Upgrade Required: {upgrade_required} | Non-RH: {len(non_redhat_ops)}\n")
     
-    for op_name, op_data in sorted(redhat_ops.items()):
+    for idx, (op_name, op_data) in enumerate(sorted(redhat_ops.items()), 1):
+        csv = op_data.get('csv', 'unknown')
         version = op_data.get('version', 'unknown')
         channel = op_data.get('channel', 'unknown')
         
@@ -217,21 +220,36 @@ def main():
         
         if op_name in matrix and target in matrix[op_name]:
             is_compatible = any(version in v for v in matrix[op_name][target].get('versions', []))
-            status = "✓" if is_compatible else "⚠"
+            status = "✅ Compatible" if is_compatible else "⚠️ Upgrade Required"
         else:
-            status = "❌"
+            status = "❌ Not Compatible"
             is_compatible = False
         
-        print(f"{status} {op_name} | v{version} (ch:{channel}) | MaxOCP:{max_ocp}")
+        print(f"[{idx}] {op_name}")
+        print(f"  Current Version: {version}")
+        print(f"  Current CSV: {csv}")
+        print(f"  Channel: {channel}")
+        print(f"  Status: {status}")
+        print(f"  Max OCP for Current Version: {max_ocp}")
         
-        if compatible_versions and not is_compatible:
+        if compatible_versions:
             min_v = compatible_versions[-1]
             max_v = compatible_versions[0]
-            print(f"  → Upgrade needed: {min_v} to {max_v} ({len(compatible_versions)} versions) | Latest: {max_v}")
-        elif compatible_versions:
-            print(f"  → OK (compatible)")
+            print(f"  Available in OCP {target}: {min_v} → {max_v} ({len(compatible_versions)} versions)")
+            if len(compatible_versions) <= 8:
+                print(f"    All: {', '.join(compatible_versions)}")
+            else:
+                print(f"    Sample: {', '.join(compatible_versions[:6])} ... +{len(compatible_versions)-6} more")
+            
+            if not is_compatible:
+                print(f"  ⚠️ Recommendation: Upgrade to {max_v}")
+            else:
+                print(f"  ✅ Recommendation: No upgrade needed")
         else:
-            print(f"  → Not supported in OCP {target}")
+            print(f"  Available in OCP {target}: None")
+            print(f"  ❌ Recommendation: Not supported in OCP {target}")
+        
+        print()
     
     # Non-Red Hat operators
     if non_redhat_ops:
