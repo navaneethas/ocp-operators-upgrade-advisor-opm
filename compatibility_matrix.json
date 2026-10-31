@@ -8330,6 +8330,8 @@
         "aap-operator.v2.4.0-0.1791968974",
         "aap-operator.v2.4.0-0.1793164232",
         "aap-operator.v2.4.0-0.1793169998",
+        "aap-operator.v2.4.0-0.1793314410",
+        "aap-operator.v2.4.0-0.1793319519",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -8405,7 +8407,9 @@
         "aap-operator.v2.5.0-0.1789750141",
         "aap-operator.v2.5.0-0.1789750222",
         "aap-operator.v2.5.0-0.1791992655",
-        "aap-operator.v2.5.0-0.1791992932"
+        "aap-operator.v2.5.0-0.1791992932",
+        "aap-operator.v2.5.0-0.1793205548",
+        "aap-operator.v2.5.0-0.1793205560"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -8459,6 +8463,7 @@
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793314410": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1702352614": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1707507304": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1708975279": ">=2.0.1-0.1635283332 <2.4.1",
@@ -8498,6 +8503,7 @@
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793319519": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -8535,6 +8541,7 @@
         "aap-operator.v2.5.0-0.1787244584": ">=2.4.0-0.1727257740 <2.5.1",
         "aap-operator.v2.5.0-0.1789750141": ">=2.4.0-0.1727257740 <2.5.1",
         "aap-operator.v2.5.0-0.1791992932": ">=2.4.0-0.1727257740 <2.5.1",
+        "aap-operator.v2.5.0-0.1793205560": ">=2.4.0-0.1727257740 <2.5.1",
         "aap-operator.v2.5.0-0.1727875896": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520687": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729742145": ">=2.4.0-0.1727259094 <2.5.1",
@@ -8571,7 +8578,8 @@
         "aap-operator.v2.5.0-0.1785458863": ">=2.4.0-0.1727259094 <2.5.1",
         "aap-operator.v2.5.0-0.1787244629": ">=2.4.0-0.1727259094 <2.5.1",
         "aap-operator.v2.5.0-0.1789750222": ">=2.4.0-0.1727259094 <2.5.1",
-        "aap-operator.v2.5.0-0.1791992655": ">=2.4.0-0.1727259094 <2.5.1"
+        "aap-operator.v2.5.0-0.1791992655": ">=2.4.0-0.1727259094 <2.5.1",
+        "aap-operator.v2.5.0-0.1793205548": ">=2.4.0-0.1727259094 <2.5.1"
       },
       "channels": [
         "stable-2.3",
@@ -8878,6 +8886,8 @@
         "aap-operator.v2.4.0-0.1791968974",
         "aap-operator.v2.4.0-0.1793164232",
         "aap-operator.v2.4.0-0.1793169998",
+        "aap-operator.v2.4.0-0.1793314410",
+        "aap-operator.v2.4.0-0.1793319519",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -9073,6 +9083,7 @@
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793314410": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1702352614": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1707507304": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1708975279": ">=2.0.1-0.1635283332 <2.4.1",
@@ -9112,6 +9123,7 @@
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793319519": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -9582,6 +9594,8 @@
         "aap-operator.v2.4.0-0.1791968974",
         "aap-operator.v2.4.0-0.1793164232",
         "aap-operator.v2.4.0-0.1793169998",
+        "aap-operator.v2.4.0-0.1793314410",
+        "aap-operator.v2.4.0-0.1793319519",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -9777,6 +9791,7 @@
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793314410": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1702352614": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1707507304": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1708975279": ">=2.0.1-0.1635283332 <2.4.1",
@@ -9816,6 +9831,7 @@
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793319519": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -10278,6 +10294,8 @@
         "aap-operator.v2.4.0-0.1791968974",
         "aap-operator.v2.4.0-0.1793164232",
         "aap-operator.v2.4.0-0.1793169998",
+        "aap-operator.v2.4.0-0.1793314410",
+        "aap-operator.v2.4.0-0.1793319519",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -10453,6 +10471,7 @@
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793314410": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1749069693": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1750878254": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1753232791": ">=2.0.1-0.1635283332 <2.4.1",
@@ -10472,6 +10491,7 @@
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793319519": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -10654,6 +10674,8 @@
         "aap-operator.v2.4.0-0.1791968974",
         "aap-operator.v2.4.0-0.1793164232",
         "aap-operator.v2.4.0-0.1793169998",
+        "aap-operator.v2.4.0-0.1793314410",
+        "aap-operator.v2.4.0-0.1793319519",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -10819,6 +10841,7 @@
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793314410": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1773417703": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1774582128": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1777401109": ">=2.0.1-0.1635283332 <2.4.1",
@@ -10828,6 +10851,7 @@
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793319519": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -11010,6 +11034,8 @@
         "aap-operator.v2.4.0-0.1791968974",
         "aap-operator.v2.4.0-0.1793164232",
         "aap-operator.v2.4.0-0.1793169998",
+        "aap-operator.v2.4.0-0.1793314410",
+        "aap-operator.v2.4.0-0.1793319519",
         "aap-operator.v2.5.0-0.1727240614",
         "aap-operator.v2.5.0-0.1727241223",
         "aap-operator.v2.5.0-0.1727875185",
@@ -11175,6 +11201,7 @@
         "aap-operator.v2.4.0-0.1789660429": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1791963300": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1793164232": ">=2.0.1-0.1635279521 <2.4.1",
+        "aap-operator.v2.4.0-0.1793314410": ">=2.0.1-0.1635279521 <2.4.1",
         "aap-operator.v2.4.0-0.1773417703": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1774582128": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1777401109": ">=2.0.1-0.1635283332 <2.4.1",
@@ -11184,6 +11211,7 @@
         "aap-operator.v2.4.0-0.1789667225": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1791968974": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.4.0-0.1793169998": ">=2.0.1-0.1635283332 <2.4.1",
+        "aap-operator.v2.4.0-0.1793319519": ">=2.0.1-0.1635283332 <2.4.1",
         "aap-operator.v2.5.0-0.1727875185": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1728520175": ">=2.4.1 <2.5.1",
         "aap-operator.v2.5.0-0.1729741547": ">=2.4.0-0.1727257740 <2.5.1",
@@ -74298,7 +74326,8 @@
         "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": "4.15",
       "dependencies": [],
@@ -74356,7 +74385,8 @@
         "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
@@ -74501,7 +74531,8 @@
         "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -74552,7 +74583,8 @@
         "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
@@ -74701,7 +74733,8 @@
         "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -74752,7 +74785,8 @@
         "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
@@ -74816,7 +74850,8 @@
         "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -74867,7 +74902,8 @@
         "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
@@ -74931,7 +74967,8 @@
         "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -74982,7 +75019,8 @@
         "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
@@ -75046,7 +75084,8 @@
         "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -75097,7 +75136,8 @@
         "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
@@ -75133,7 +75173,8 @@
         "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -75156,7 +75197,8 @@
         "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
@@ -75168,45 +75210,21 @@
     },
     "5.0": {
       "versions": [
-        "openshift-pipelines-operator-rh.v1.22.0",
-        "openshift-pipelines-operator-rh.v1.22.1",
-        "openshift-pipelines-operator-rh.v1.22.2",
-        "openshift-pipelines-operator-rh.v1.22.3",
-        "openshift-pipelines-operator-rh.v1.22.4",
-        "openshift-pipelines-operator-rh.v1.22.5",
-        "openshift-pipelines-operator-rh.v1.22.6",
-        "openshift-pipelines-operator-rh.v1.22.7",
-        "openshift-pipelines-operator-rh.v1.23.0",
-        "openshift-pipelines-operator-rh.v1.23.1",
-        "openshift-pipelines-operator-rh.v1.23.2",
-        "openshift-pipelines-operator-rh.v1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
-        "openshift-pipelines-operator-rh.v1.22.0": ">=1.21.0 <1.22.0",
-        "openshift-pipelines-operator-rh.v1.22.1": ">=1.21.0 <1.22.1",
-        "openshift-pipelines-operator-rh.v1.22.2": ">=1.21.0 <1.22.2",
-        "openshift-pipelines-operator-rh.v1.22.3": ">=1.21.0 <1.22.3",
-        "openshift-pipelines-operator-rh.v1.22.4": ">=1.21.0 <1.22.4",
-        "openshift-pipelines-operator-rh.v1.22.5": ">=1.21.0 <1.22.5",
-        "openshift-pipelines-operator-rh.v1.22.6": ">=1.21.0 <1.22.6",
-        "openshift-pipelines-operator-rh.v1.22.7": ">=1.21.0 <1.22.7",
-        "openshift-pipelines-operator-rh.v1.23.0": ">=1.22.0 <1.23.0",
-        "openshift-pipelines-operator-rh.v1.23.1": ">=1.22.0 <1.23.1",
-        "openshift-pipelines-operator-rh.v1.23.2": ">=1.22.0 <1.23.2",
-        "openshift-pipelines-operator-rh.v1.23.3": ">=1.22.0 <1.23.3",
         "openshift-pipelines-operator-rh.v1.24.0": ">=1.23.0 <1.24.0",
         "openshift-pipelines-operator-rh.v1.24.1": ">=1.23.0 <1.24.1",
-        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2"
+        "openshift-pipelines-operator-rh.v1.24.2": ">=1.23.0 <1.24.2",
+        "openshift-pipelines-operator-rh.v1.24.3": ">=1.23.0 <1.24.3"
       },
       "channels": [
         "latest",
-        "pipelines-1.22",
-        "pipelines-1.23",
         "pipelines-1.24"
       ]
     }
