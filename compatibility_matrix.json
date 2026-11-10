@@ -30158,6 +30158,7 @@
         "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.31.1",
         "devspacesoperator.v3.31.2",
+        "devspacesoperator.v3.31.3",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -30284,6 +30285,7 @@
         "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.31.1",
         "devspacesoperator.v3.31.2",
+        "devspacesoperator.v3.31.3",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -30351,6 +30353,7 @@
         "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.31.1",
         "devspacesoperator.v3.31.2",
+        "devspacesoperator.v3.31.3",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -30418,6 +30421,7 @@
         "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.31.1",
         "devspacesoperator.v3.31.2",
+        "devspacesoperator.v3.31.3",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -30485,6 +30489,7 @@
         "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.31.1",
         "devspacesoperator.v3.31.2",
+        "devspacesoperator.v3.31.3",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -30552,6 +30557,7 @@
         "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.31.1",
         "devspacesoperator.v3.31.2",
+        "devspacesoperator.v3.31.3",
         "devspacesoperator.v3.4.0",
         "devspacesoperator.v3.4.0-0.1675914643.p",
         "devspacesoperator.v3.5.0",
@@ -30580,7 +30586,8 @@
       "versions": [
         "devspacesoperator.v3.31.0",
         "devspacesoperator.v3.31.1",
-        "devspacesoperator.v3.31.2"
+        "devspacesoperator.v3.31.2",
+        "devspacesoperator.v3.31.3"
       ],
       "maxOCPVersion": null,
       "dependencies": [
@@ -33864,13 +33871,15 @@
     "5.0": {
       "versions": [
         "fence-agents-remediation.v0.8.0",
-        "fence-agents-remediation.v0.8.1"
+        "fence-agents-remediation.v0.8.1",
+        "fence-agents-remediation.v5.8.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "fence-agents-remediation.v0.8.0": ">=0.6.0 <0.8.0",
-        "fence-agents-remediation.v0.8.1": ">=0.6.0 <0.8.1"
+        "fence-agents-remediation.v0.8.1": ">=0.6.0 <0.8.1",
+        "fence-agents-remediation.v5.8.0": ">=0.8.0 <5.8.0"
       },
       "channels": [
         "stable"
@@ -49220,13 +49229,17 @@
     "4.21": {
       "versions": [
         "lvms-operator.v4.20.0",
+        "lvms-operator.v4.20.1",
+        "lvms-operator.v4.20.2",
+        "lvms-operator.v4.20.3",
         "lvms-operator.v4.21.0",
-        "lvms-operator.v4.21.1"
+        "lvms-operator.v4.21.1",
+        "lvms-operator.v4.21.2"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
-        "lvms-operator.v4.21.1": ">=4.2.0 <4.21.1"
+        "lvms-operator.v4.21.2": ">=4.2.0 <4.21.2"
       },
       "channels": [
         "stable-4.20",
@@ -49537,13 +49550,15 @@
     "5.0": {
       "versions": [
         "machine-deletion-remediation.v0.7.0",
-        "machine-deletion-remediation.v0.7.1"
+        "machine-deletion-remediation.v0.7.1",
+        "machine-deletion-remediation.v5.8.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "machine-deletion-remediation.v0.7.0": ">=0.5.0 <0.7.0",
-        "machine-deletion-remediation.v0.7.1": ">=0.5.0 <0.7.1"
+        "machine-deletion-remediation.v0.7.1": ">=0.5.0 <0.7.1",
+        "machine-deletion-remediation.v5.8.0": ">=0.7.0 <5.8.0"
       },
       "channels": [
         "stable"
@@ -58671,13 +58686,15 @@
     "5.0": {
       "versions": [
         "node-healthcheck-operator.v0.12.0",
-        "node-healthcheck-operator.v0.12.1"
+        "node-healthcheck-operator.v0.12.1",
+        "node-healthcheck-operator.v5.8.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "node-healthcheck-operator.v0.12.0": ">=0.10.0 <0.12.0",
-        "node-healthcheck-operator.v0.12.1": ">=0.10.0 <0.12.1"
+        "node-healthcheck-operator.v0.12.1": ">=0.10.0 <0.12.1",
+        "node-healthcheck-operator.v5.8.0": ">=0.12.0 <5.8.0"
       },
       "channels": [
         "stable"
@@ -58967,13 +58984,15 @@
     "5.0": {
       "versions": [
         "node-maintenance-operator.v5.7.0",
-        "node-maintenance-operator.v5.7.1"
+        "node-maintenance-operator.v5.7.1",
+        "node-maintenance-operator.v5.8.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "node-maintenance-operator.v5.7.0": ">=5.5.0 <5.7.0",
-        "node-maintenance-operator.v5.7.1": ">=5.5.0 <5.7.1"
+        "node-maintenance-operator.v5.7.1": ">=5.5.0 <5.7.1",
+        "node-maintenance-operator.v5.8.0": ">=5.7.0 <5.8.0"
       },
       "channels": [
         "stable"
@@ -100742,11 +100761,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100764,11 +100785,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100786,11 +100809,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100808,11 +100833,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100830,11 +100857,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100852,11 +100881,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100874,11 +100905,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100896,11 +100929,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100918,11 +100953,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100940,11 +100977,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -100962,11 +101001,13 @@
         "runtimes-inventory-operator.v1.0.2",
         "runtimes-inventory-operator.v1.0.3",
         "runtimes-inventory-operator.v1.0.4",
-        "runtimes-inventory-operator.v1.0.5"
+        "runtimes-inventory-operator.v1.0.5",
+        "runtimes-inventory-operator.v1.0.6"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
+        "runtimes-inventory-operator.v1.0.6": ">=1.0.0 <1.0.6",
         "runtimes-inventory-operator.v1.0.5": ">=1.0.0 <1.0.5",
         "runtimes-inventory-operator.v1.0.4": ">=1.0.0 <1.0.4",
         "runtimes-inventory-operator.v1.0.3": ">=1.0.0 <1.0.3",
@@ -101638,7 +101679,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101649,7 +101691,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -101688,7 +101731,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101699,7 +101743,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -101713,7 +101758,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101724,7 +101770,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -101738,7 +101785,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101749,7 +101797,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -101763,7 +101812,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101774,7 +101824,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -101788,7 +101839,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101799,7 +101851,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -101813,7 +101866,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101824,7 +101878,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -101838,7 +101893,8 @@
         "security-profiles-operator.v0.8.4",
         "security-profiles-operator.v0.8.5",
         "security-profiles-operator.v0.8.6",
-        "security-profiles-operator.v0.9.0"
+        "security-profiles-operator.v0.9.0",
+        "security-profiles-operator.v1.0.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -101849,7 +101905,8 @@
         "security-profiles-operator.v0.8.6": ">=0.4.1 <0.8.6",
         "security-profiles-operator.v0.9.0": ">=0.4.1 <0.9.0",
         "security-profiles-operator.v0.10.0": ">=0.4.1 <0.10.0",
-        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1"
+        "security-profiles-operator.v0.10.1": ">=0.4.1 <0.10.1",
+        "security-profiles-operator.v1.0.1": ">=0.4.1 <1.0.1"
       },
       "channels": [
         "release-alpha-rhel-8"
@@ -102165,13 +102222,15 @@
     "5.0": {
       "versions": [
         "self-node-remediation.v0.13.0",
-        "self-node-remediation.v0.13.1"
+        "self-node-remediation.v0.13.1",
+        "self-node-remediation.v5.8.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
         "self-node-remediation.v0.13.0": ">=0.11.0 <0.13.0",
-        "self-node-remediation.v0.13.1": ">=0.11.0 <0.13.1"
+        "self-node-remediation.v0.13.1": ">=0.11.0 <0.13.1",
+        "self-node-remediation.v5.8.0": ">=0.13.0 <5.8.0"
       },
       "channels": [
         "stable"
@@ -126893,12 +126952,14 @@
     "5.0": {
       "versions": [
         "storage-based-remediation.v0.3.0",
-        "storage-based-remediation.v0.3.1"
+        "storage-based-remediation.v0.3.1",
+        "storage-based-remediation.v5.8.0"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
       "skipRanges": {
-        "storage-based-remediation.v0.3.1": ">=0.2.0 <0.3.1"
+        "storage-based-remediation.v0.3.1": ">=0.2.0 <0.3.1",
+        "storage-based-remediation.v5.8.0": ">=0.3.0 <5.8.0"
       },
       "channels": [
         "stable"
