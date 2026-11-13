@@ -46430,6 +46430,7 @@
         "kubevirt-hyperconverged-operator.v4.21.25",
         "kubevirt-hyperconverged-operator.v4.21.26",
         "kubevirt-hyperconverged-operator.v4.21.27",
+        "kubevirt-hyperconverged-operator.v4.21.28",
         "kubevirt-hyperconverged-operator.v4.21.3",
         "kubevirt-hyperconverged-operator.v4.21.4",
         "kubevirt-hyperconverged-operator.v4.21.5",
@@ -46468,6 +46469,7 @@
         "kubevirt-hyperconverged-operator.v4.21.25": ">=4.21.0 <4.21.25",
         "kubevirt-hyperconverged-operator.v4.21.26": ">=4.21.0 <4.21.26",
         "kubevirt-hyperconverged-operator.v4.21.27": ">=4.21.0 <4.21.27",
+        "kubevirt-hyperconverged-operator.v4.21.28": ">=4.21.0 <4.21.28",
         "kubevirt-hyperconverged-operator.v4.12.0": ">=4.11.2 <4.12.0",
         "kubevirt-hyperconverged-operator.v4.13.0": ">=4.12.3 <4.13.0",
         "kubevirt-hyperconverged-operator.v4.14.0": ">=4.13.5 <4.14.0",
@@ -127821,7 +127823,8 @@
         "bgp-cloud-connector.v0.0.1",
         "bgp-cloud-connector.v0.1.0",
         "bgp-cloud-connector.v1.0.0",
-        "bgp-cloud-connector.v1.1.0"
+        "bgp-cloud-connector.v1.1.0",
+        "bgp-cloud-connector.v1.1.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -127829,6 +127832,7 @@
         "bgp-cloud-connector.v1.0.0": "<1.0.0",
         "bgp-cloud-connector.v0.1.0": "<0.1.0",
         "bgp-cloud-connector.v0.0.1": "<0.0.1",
+        "bgp-cloud-connector.v1.1.1": "<1.1.1",
         "bgp-cloud-connector.v1.1.0": "<1.1.0"
       },
       "channels": [
@@ -127841,7 +127845,8 @@
         "bgp-cloud-connector.v0.0.1",
         "bgp-cloud-connector.v0.1.0",
         "bgp-cloud-connector.v1.0.0",
-        "bgp-cloud-connector.v1.1.0"
+        "bgp-cloud-connector.v1.1.0",
+        "bgp-cloud-connector.v1.1.1"
       ],
       "maxOCPVersion": null,
       "dependencies": [],
@@ -127849,6 +127854,7 @@
         "bgp-cloud-connector.v1.0.0": "<1.0.0",
         "bgp-cloud-connector.v0.1.0": "<0.1.0",
         "bgp-cloud-connector.v0.0.1": "<0.0.1",
+        "bgp-cloud-connector.v1.1.1": "<1.1.1",
         "bgp-cloud-connector.v1.1.0": "<1.1.0"
       },
       "channels": [
